@@ -1,3 +1,11 @@
+﻿<!-- NAVIGATION:START -->
+---
+[README principal](../../README.md) | [Introducao](MODULES-INDEX.md) | [Modules](../01-FUNCTIONAL-MODULES/00-APRESENTACAO.md)
+---
+> **Breadcrumbs:** [Inicio](../../README.md) / [Introducao](MODULES-INDEX.md) / 
+CORE-CONCEPTS
+<!-- NAVIGATION:END -->
+
 # CORE CONCEPTS
 
 > Core Business Concepts & Product Architecture
@@ -516,3 +524,13 @@ Ele deve ser utilizado como referência para:
 - inteligência artificial.
 
 Toda evolução do PDVPOS ERP deve preservar estes conceitos, garantindo consistência, simplicidade e escalabilidade ao longo do tempo.
+
+<!-- NAVIGATION_FOOTER:START -->
+---
+### Veja tambem
+- [README](../../README.md)
+- [Modules Index](MODULES-INDEX.md)
+- [Apresentacao dos Modulos](../01-FUNCTIONAL-MODULES/00-APRESENTACAO.md)
+---
+**Navegacao:** [Inicio](../../README.md) | [Introducao](MODULES-INDEX.md)
+<!-- NAVIGATION_FOOTER:END -->

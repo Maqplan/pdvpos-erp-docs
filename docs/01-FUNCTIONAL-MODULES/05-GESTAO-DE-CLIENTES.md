@@ -1,3 +1,11 @@
+﻿<!-- NAVIGATION:START -->
+---
+[README principal](../../README.md) | [Modules Intro](00-APRESENTACAO.md) | [Modules Index](../00-INTRODUCTION/MODULES-INDEX.md)
+---
+> **Breadcrumbs:** [Inicio](../../README.md) / [Modulos](00-APRESENTACAO.md) / 
+05-GESTAO-DE-CLIENTES
+<!-- NAVIGATION:END -->
+
 # PDVPOS ERP
 
 > Official Product Documentation
@@ -207,3 +215,13 @@ Este módulo é recomendado para empresas que:
 **06 - Gestão de Produtos e Serviços**
 
 Conheça os recursos para cadastro de produtos e serviços, controle de preços, tributação, grades, estoque, integração fiscal e demais informações que tornam o produto a principal entidade operacional do PDVPOS ERP.
+
+<!-- NAVIGATION_FOOTER:START -->
+---
+### Veja tambem
+- [README](../../README.md)
+- [Modules Intro](00-APRESENTACAO.md)
+- [Modules Index](../00-INTRODUCTION/MODULES-INDEX.md)
+---
+**Navegacao:** [Inicio](../../README.md) | [Modulos](00-APRESENTACAO.md)
+<!-- NAVIGATION_FOOTER:END -->

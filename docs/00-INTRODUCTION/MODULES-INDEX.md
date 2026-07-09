@@ -1,3 +1,11 @@
+﻿<!-- NAVIGATION:START -->
+---
+[README principal](../../README.md) | [Introducao](MODULES-INDEX.md) | [Modules](../01-FUNCTIONAL-MODULES/00-APRESENTACAO.md)
+---
+> **Breadcrumbs:** [Inicio](../../README.md) / [Introducao](MODULES-INDEX.md) / 
+MODULES-INDEX
+<!-- NAVIGATION:END -->
+
 # PDVPOS ERP
 
 > Official Product Documentation
@@ -203,3 +211,13 @@ Seu conteúdo pode ser utilizado para:
 - Base de conhecimento para Inteligência Artificial.
 - Produção de materiais institucionais.
 - Desenvolvimento de integrações.
+
+<!-- NAVIGATION_FOOTER:START -->
+---
+### Veja tambem
+- [README](../../README.md)
+- [Modules Index](MODULES-INDEX.md)
+- [Apresentacao dos Modulos](../01-FUNCTIONAL-MODULES/00-APRESENTACAO.md)
+---
+**Navegacao:** [Inicio](../../README.md) | [Introducao](MODULES-INDEX.md)
+<!-- NAVIGATION_FOOTER:END -->

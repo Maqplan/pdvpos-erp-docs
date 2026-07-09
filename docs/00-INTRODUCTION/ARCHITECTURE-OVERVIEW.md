@@ -1,3 +1,11 @@
+﻿<!-- NAVIGATION:START -->
+---
+[README principal](../../README.md) | [Introducao](MODULES-INDEX.md) | [Modules](../01-FUNCTIONAL-MODULES/00-APRESENTACAO.md)
+---
+> **Breadcrumbs:** [Inicio](../../README.md) / [Introducao](MODULES-INDEX.md) / 
+ARCHITECTURE-OVERVIEW
+<!-- NAVIGATION:END -->
+
 # 01 - Architecture
 
 > Platform Architecture Overview
@@ -462,3 +470,13 @@ A arquitetura do PDVPOS ERP foi desenvolvida para oferecer uma plataforma integr
 Todos os módulos compartilham a mesma base de dados, seguem os mesmos princípios arquiteturais e trabalham de forma coordenada para simplificar a operação do varejo brasileiro.
 
 Os documentos seguintes detalham cada domínio funcional apresentado nesta visão geral da arquitetura.
+
+<!-- NAVIGATION_FOOTER:START -->
+---
+### Veja tambem
+- [README](../../README.md)
+- [Modules Index](MODULES-INDEX.md)
+- [Apresentacao dos Modulos](../01-FUNCTIONAL-MODULES/00-APRESENTACAO.md)
+---
+**Navegacao:** [Inicio](../../README.md) | [Introducao](MODULES-INDEX.md)
+<!-- NAVIGATION_FOOTER:END -->

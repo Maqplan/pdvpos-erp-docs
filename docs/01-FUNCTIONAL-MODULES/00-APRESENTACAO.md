@@ -1,3 +1,11 @@
+﻿<!-- NAVIGATION:START -->
+---
+[README principal](../../README.md) | [Modules Intro](00-APRESENTACAO.md) | [Modules Index](../00-INTRODUCTION/MODULES-INDEX.md)
+---
+> **Breadcrumbs:** [Inicio](../../README.md) / [Modulos](00-APRESENTACAO.md) / 
+00-APRESENTACAO
+<!-- NAVIGATION:END -->
+
 # PDVPOS ERP
 
 > Official Product Documentation
@@ -230,3 +238,13 @@ Essa estrutura permite que clientes, parceiros, colaboradores e ferramentas de I
 ➡️ **Próximo:** [02 - Recursos Gerais da Plataforma](02-RECURSOS-GERAIS-DA-PLATAFORMA.md)
 
 ---
+
+<!-- NAVIGATION_FOOTER:START -->
+---
+### Veja tambem
+- [README](../../README.md)
+- [Modules Intro](00-APRESENTACAO.md)
+- [Modules Index](../00-INTRODUCTION/MODULES-INDEX.md)
+---
+**Navegacao:** [Inicio](../../README.md) | [Modulos](00-APRESENTACAO.md)
+<!-- NAVIGATION_FOOTER:END -->

@@ -1,3 +1,11 @@
+﻿<!-- NAVIGATION:START -->
+---
+[README principal](README.md) | [Visao](VISION.md) | [Principios](PRINCIPLES.md) | [About](ABOUT.md)
+---
+> **Breadcrumbs:** [Inicio](README.md) / 
+README
+<!-- NAVIGATION:END -->
+
 # 📚 Índice da Documentação
 
 Bem-vindo à documentação oficial do **PDVPOS ERP**.
@@ -90,3 +98,13 @@ docs/01-FUNCTIONAL-MODULES/
 > - Base de Conhecimento
 > - Documentação Técnica
 > - Fonte de treinamento para Inteligência Artificial (LLMs / RAG)
+
+<!-- NAVIGATION_FOOTER:START -->
+---
+### Veja tambem
+- [README](README.md)
+- [Architecture Overview](docs/00-INTRODUCTION/ARCHITECTURE-OVERVIEW.md)
+- [Modules Index](docs/00-INTRODUCTION/MODULES-INDEX.md)
+---
+**Navegacao:** [Inicio](README.md)
+<!-- NAVIGATION_FOOTER:END -->

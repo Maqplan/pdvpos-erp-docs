@@ -1,3 +1,11 @@
+﻿<!-- NAVIGATION:START -->
+---
+[README principal](../../README.md) | [Modules Intro](00-APRESENTACAO.md) | [Modules Index](../00-INTRODUCTION/MODULES-INDEX.md)
+---
+> **Breadcrumbs:** [Inicio](../../README.md) / [Modulos](00-APRESENTACAO.md) / 
+08-GESTAO-DE-COMPRAS
+<!-- NAVIGATION:END -->
+
 # PDVPOS ERP
 
 > Official Product Documentation
@@ -256,3 +264,13 @@ Este módulo é recomendado para empresas que:
 **09 - Gestão Comercial e Vendas**
 
 Conheça os recursos para pedidos, orçamentos, vendas, promoções, vendedores, operadores de caixa e integração com os PDVs da plataforma.
+
+<!-- NAVIGATION_FOOTER:START -->
+---
+### Veja tambem
+- [README](../../README.md)
+- [Modules Intro](00-APRESENTACAO.md)
+- [Modules Index](../00-INTRODUCTION/MODULES-INDEX.md)
+---
+**Navegacao:** [Inicio](../../README.md) | [Modulos](00-APRESENTACAO.md)
+<!-- NAVIGATION_FOOTER:END -->

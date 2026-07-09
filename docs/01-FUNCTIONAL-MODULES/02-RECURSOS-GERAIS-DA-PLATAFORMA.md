@@ -1,3 +1,11 @@
+﻿<!-- NAVIGATION:START -->
+---
+[README principal](../../README.md) | [Modules Intro](00-APRESENTACAO.md) | [Modules Index](../00-INTRODUCTION/MODULES-INDEX.md)
+---
+> **Breadcrumbs:** [Inicio](../../README.md) / [Modulos](00-APRESENTACAO.md) / 
+02-RECURSOS-GERAIS-DA-PLATAFORMA
+<!-- NAVIGATION:END -->
+
 # PDVPOS ERP
 
 > Official Product Documentation
@@ -226,3 +234,13 @@ O conjunto de recursos gerais do PDVPOS ERP proporciona:
 **03 - Gestão de Empresas e Multiempresa**
 
 Neste capítulo serão apresentados os recursos para administração de empresas, filiais, configurações por segmento e gestão de grupos empresariais.
+
+<!-- NAVIGATION_FOOTER:START -->
+---
+### Veja tambem
+- [README](../../README.md)
+- [Modules Intro](00-APRESENTACAO.md)
+- [Modules Index](../00-INTRODUCTION/MODULES-INDEX.md)
+---
+**Navegacao:** [Inicio](../../README.md) | [Modulos](00-APRESENTACAO.md)
+<!-- NAVIGATION_FOOTER:END -->

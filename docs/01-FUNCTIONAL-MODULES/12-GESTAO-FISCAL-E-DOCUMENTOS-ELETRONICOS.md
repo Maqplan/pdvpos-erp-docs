@@ -1,3 +1,11 @@
+﻿<!-- NAVIGATION:START -->
+---
+[README principal](../../README.md) | [Modules Intro](00-APRESENTACAO.md) | [Modules Index](../00-INTRODUCTION/MODULES-INDEX.md)
+---
+> **Breadcrumbs:** [Inicio](../../README.md) / [Modulos](00-APRESENTACAO.md) / 
+12-GESTAO-FISCAL-E-DOCUMENTOS-ELETRONICOS
+<!-- NAVIGATION:END -->
+
 # PDVPOS ERP
 
 > Official Product Documentation
@@ -309,3 +317,13 @@ Este módulo é recomendado para empresas que:
 **13 - Gestão da Reforma Tributária**
 
 Conheça como o PDVPOS ERP foi preparado para atender às mudanças da Reforma Tributária brasileira através de um modelo hierárquico de configuração, perfis tributários reutilizáveis e assistentes de implantação que simplificam a adaptação à nova legislação.
+
+<!-- NAVIGATION_FOOTER:START -->
+---
+### Veja tambem
+- [README](../../README.md)
+- [Modules Intro](00-APRESENTACAO.md)
+- [Modules Index](../00-INTRODUCTION/MODULES-INDEX.md)
+---
+**Navegacao:** [Inicio](../../README.md) | [Modulos](00-APRESENTACAO.md)
+<!-- NAVIGATION_FOOTER:END -->

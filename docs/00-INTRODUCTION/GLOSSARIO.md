@@ -1,3 +1,11 @@
+﻿<!-- NAVIGATION:START -->
+---
+[README principal](../../README.md) | [Introducao](MODULES-INDEX.md) | [Modules](../01-FUNCTIONAL-MODULES/00-APRESENTACAO.md)
+---
+> **Breadcrumbs:** [Inicio](../../README.md) / [Introducao](MODULES-INDEX.md) / 
+GLOSSARIO
+<!-- NAVIGATION:END -->
+
 # PDVPOS ERP
 
 > Official Product Documentation
@@ -466,3 +474,13 @@ Ao longo da documentação oficial do PDVPOS ERP serão utilizados os seguintes 
 Este documento deve ser atualizado sempre que novos recursos, conceitos ou módulos forem incorporados ao PDVPOS ERP.
 
 Manter a terminologia padronizada é fundamental para garantir consistência entre a documentação oficial, materiais comerciais, treinamentos, suporte técnico e integrações da plataforma.
+
+<!-- NAVIGATION_FOOTER:START -->
+---
+### Veja tambem
+- [README](../../README.md)
+- [Modules Index](MODULES-INDEX.md)
+- [Apresentacao dos Modulos](../01-FUNCTIONAL-MODULES/00-APRESENTACAO.md)
+---
+**Navegacao:** [Inicio](../../README.md) | [Introducao](MODULES-INDEX.md)
+<!-- NAVIGATION_FOOTER:END -->

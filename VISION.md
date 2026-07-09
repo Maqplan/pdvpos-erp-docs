@@ -1,3 +1,11 @@
+﻿<!-- NAVIGATION:START -->
+---
+[README principal](README.md) | [Visao](VISION.md) | [Principios](PRINCIPLES.md) | [About](ABOUT.md)
+---
+> **Breadcrumbs:** [Inicio](README.md) / 
+VISION
+<!-- NAVIGATION:END -->
+
 # Vision
 
 > Vision, Principles & Product Philosophy
@@ -335,3 +343,13 @@ Nenhuma decisão importante deve existir apenas na memória da equipe.
 Todo novo recurso incorporado ao PDVPOS ERP deverá respeitar os princípios descritos neste documento.
 
 Esta visão representa a identidade do produto e deve orientar seu desenvolvimento ao longo do tempo.
+
+<!-- NAVIGATION_FOOTER:START -->
+---
+### Veja tambem
+- [README](README.md)
+- [Architecture Overview](docs/00-INTRODUCTION/ARCHITECTURE-OVERVIEW.md)
+- [Modules Index](docs/00-INTRODUCTION/MODULES-INDEX.md)
+---
+**Navegacao:** [Inicio](README.md)
+<!-- NAVIGATION_FOOTER:END -->

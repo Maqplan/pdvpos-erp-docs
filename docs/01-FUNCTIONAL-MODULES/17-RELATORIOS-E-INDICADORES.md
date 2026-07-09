@@ -1,3 +1,11 @@
+﻿<!-- NAVIGATION:START -->
+---
+[README principal](../../README.md) | [Modules Intro](00-APRESENTACAO.md) | [Modules Index](../00-INTRODUCTION/MODULES-INDEX.md)
+---
+> **Breadcrumbs:** [Inicio](../../README.md) / [Modulos](00-APRESENTACAO.md) / 
+17-RELATORIOS-E-INDICADORES
+<!-- NAVIGATION:END -->
+
 # PDVPOS ERP
 
 > Official Product Documentation
@@ -317,3 +325,13 @@ Os módulos apresentados nesta documentação demonstram como o PDVPOS ERP integ
 Compras, vendas, estoque, financeiro, fiscal, serviços, contabilidade, integrações e indicadores compartilham a mesma base de dados, eliminando retrabalho e proporcionando uma gestão mais eficiente.
 
 A arquitetura integrada da plataforma permite que empresas de diferentes segmentos utilizem uma única solução para administrar toda a operação, acompanhando o crescimento do negócio com segurança, produtividade e conformidade fiscal.
+
+<!-- NAVIGATION_FOOTER:START -->
+---
+### Veja tambem
+- [README](../../README.md)
+- [Modules Intro](00-APRESENTACAO.md)
+- [Modules Index](../00-INTRODUCTION/MODULES-INDEX.md)
+---
+**Navegacao:** [Inicio](../../README.md) | [Modulos](00-APRESENTACAO.md)
+<!-- NAVIGATION_FOOTER:END -->

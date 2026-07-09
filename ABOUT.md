@@ -1,3 +1,11 @@
+﻿<!-- NAVIGATION:START -->
+---
+[README principal](README.md) | [Visao](VISION.md) | [Principios](PRINCIPLES.md) | [About](ABOUT.md)
+---
+> **Breadcrumbs:** [Inicio](README.md) / 
+ABOUT
+<!-- NAVIGATION:END -->
+
 # About PDVPOS ERP
 
 > Official Product Documentation
@@ -313,3 +321,13 @@ Após compreender a visão geral do produto, recomenda-se a leitura dos seguinte
 - Domínios Funcionais
 
 Esses documentos apresentam a filosofia de desenvolvimento do PDVPOS ERP e servem como base para todo o restante da documentação.
+
+<!-- NAVIGATION_FOOTER:START -->
+---
+### Veja tambem
+- [README](README.md)
+- [Architecture Overview](docs/00-INTRODUCTION/ARCHITECTURE-OVERVIEW.md)
+- [Modules Index](docs/00-INTRODUCTION/MODULES-INDEX.md)
+---
+**Navegacao:** [Inicio](README.md)
+<!-- NAVIGATION_FOOTER:END -->

@@ -1,3 +1,11 @@
+﻿<!-- NAVIGATION:START -->
+---
+[README principal](README.md) | [Visao](VISION.md) | [Principios](PRINCIPLES.md) | [About](ABOUT.md)
+---
+> **Breadcrumbs:** [Inicio](README.md) / 
+PRINCIPLES
+<!-- NAVIGATION:END -->
+
 # PRINCIPLES
 
 > Product Design Principles & Engineering Guidelines
@@ -457,3 +465,13 @@ Todos os colaboradores envolvidos com o PDVPOS ERP devem utilizar este documento
 A consistência do produto depende da fidelidade a estes princípios.
 
 Eles representam a identidade do PDVPOS ERP e devem ser preservados em toda evolução da plataforma.
+
+<!-- NAVIGATION_FOOTER:START -->
+---
+### Veja tambem
+- [README](README.md)
+- [Architecture Overview](docs/00-INTRODUCTION/ARCHITECTURE-OVERVIEW.md)
+- [Modules Index](docs/00-INTRODUCTION/MODULES-INDEX.md)
+---
+**Navegacao:** [Inicio](README.md)
+<!-- NAVIGATION_FOOTER:END -->

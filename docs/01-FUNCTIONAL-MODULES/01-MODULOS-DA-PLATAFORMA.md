@@ -1,3 +1,11 @@
+﻿<!-- NAVIGATION:START -->
+---
+[README principal](../../README.md) | [Modules Intro](00-APRESENTACAO.md) | [Modules Index](../00-INTRODUCTION/MODULES-INDEX.md)
+---
+> **Breadcrumbs:** [Inicio](../../README.md) / [Modulos](00-APRESENTACAO.md) / 
+01-MODULOS-DA-PLATAFORMA
+<!-- NAVIGATION:END -->
+
 # PDVPOS ERP
 
 > Official Product Documentation
@@ -403,3 +411,13 @@ A organização da plataforma em módulos proporciona diversas vantagens.
 Os próximos documentos desta documentação detalham cada módulo individualmente, apresentando seus recursos, processos, integrações, benefícios e diferenciais.
 
 Cada capítulo pode ser consultado de forma independente, permitindo compreender rapidamente o funcionamento de cada área do PDVPOS ERP.
+
+<!-- NAVIGATION_FOOTER:START -->
+---
+### Veja tambem
+- [README](../../README.md)
+- [Modules Intro](00-APRESENTACAO.md)
+- [Modules Index](../00-INTRODUCTION/MODULES-INDEX.md)
+---
+**Navegacao:** [Inicio](../../README.md) | [Modulos](00-APRESENTACAO.md)
+<!-- NAVIGATION_FOOTER:END -->
