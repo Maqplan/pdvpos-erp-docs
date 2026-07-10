@@ -1,3 +1,10 @@
+<!-- NAVIGATION:START -->
+---
+[README principal](../../README.md) | [Indice da documentacao](README.md) | [Anterior](../03-PDV-DESKTOP/README.md) | [Proximo](00-INTRODUCTION/README.md)
+---
+> **Caminho:** [Inicio](../../README.md) / [ConnectTEF](README.md) / README
+<!-- NAVIGATION:END -->
+
 # ConnectTEF
 
 > Plataforma de integração para SmartPOS e meios de pagamento.
@@ -207,3 +214,13 @@ Recomendamos iniciar a leitura pelo capítulo:
 **00 - Introdução**
 
 Nele serão apresentados os conceitos fundamentais da plataforma, sua arquitetura e os princípios que orientam o funcionamento do ConnectTEF.
+
+<!-- NAVIGATION_FOOTER:START -->
+---
+### Veja também
+- [README principal](../../README.md)
+- [00 - Introdução](00-INTRODUCTION/README.md)
+- [01 - Conceitos](01-CONCEITOS/README.md)
+---
+**Navegacao:** [Anterior](../03-PDV-DESKTOP/README.md) | [Inicio](../../README.md) | [Proximo](00-INTRODUCTION/README.md)
+<!-- NAVIGATION_FOOTER:END -->
