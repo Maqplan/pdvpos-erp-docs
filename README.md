@@ -111,7 +111,7 @@ docs/02-PDV-SMARTPOS/
 
 ---
 
-# 🖥️ PDV (Desktop Windows - Frente de Caixa)
+# 🖥️ PDV Desktop (Windows - Frente de Caixa)
 
 Localização:
 
