@@ -143,6 +143,34 @@ docs/03-PDV-DESKTOP/
 
 ---
 
+# 💳 ConnectTEF (SmartPOS e Meios de Pagamento)
+
+Localização:
+
+```text
+docs/04-CONNECTTEF/
+```
+
+| Documento | Descrição |
+|-----------|-----------|
+| [README](docs/04-CONNECTTEF/README.md) | Página inicial da documentação do ConnectTEF |
+| [00 - Introdução](docs/04-CONNECTTEF/00-INTRODUCTION/README.md) | Visão geral da plataforma e fundamentos da integração |
+| [01 - Conceitos](docs/04-CONNECTTEF/01-CONCEITOS/README.md) | Conceitos essenciais: TEF, SmartPOS, adquirentes, Provider, Intent e APIs |
+| [02 - Arquitetura](docs/04-CONNECTTEF/02-ARQUITETURA/README.md) | Componentes, fluxos, segurança, autenticação, eventos e webhooks |
+| [03 - Integrações](docs/04-CONNECTTEF/03-INTEGRACOES/README.md) | Estratégias de integração via REST, API Local, Provider, Intent, INTPOS e SiTef |
+| [04 - Recursos](docs/04-CONNECTTEF/04-RECURSOS/README.md) | Recursos operacionais: pagamento, cancelamento, impressão, offline, marketing e captura de dados |
+| [05 - Compatibilidade](docs/04-CONNECTTEF/05-COMPATIBILIDADE/README.md) | Compatibilidade com SmartPOS, fabricantes, adquirentes, ERPs e PDVs |
+| [06 - API](docs/04-CONNECTTEF/06-API/README.md) | Endpoints, autenticação, transações, status, webhooks, erros e exemplos |
+| [07 - Migração](docs/04-CONNECTTEF/07-MIGRACAO/README.md) | Guias de migração de SiTef, INTPOS, Elgin e cenários legados |
+| [08 - White Label](docs/04-CONNECTTEF/08-WHITE-LABEL/README.md) | Modelo White Label, personalização, distribuição, suporte e onboarding |
+| [09 - Operação](docs/04-CONNECTTEF/09-OPERACAO/README.md) | Monitoramento, logs, diagnóstico, atualizações, backup e troubleshooting |
+| [10 - Casos de Uso](docs/04-CONNECTTEF/10-CASOS-DE-USO/README.md) | Aplicações práticas em diferentes segmentos de negócio |
+| [11 - FAQ](docs/04-CONNECTTEF/11-FAQ/README.md) | Perguntas frequentes para operação, integração e suporte |
+| [12 - Roadmap](docs/04-CONNECTTEF/12-ROADMAP/README.md) | Novidades, versões e deprecações planejadas |
+| [13 - Por que ConnectTEF](docs/04-CONNECTTEF/13-POR-QUE-CONNECTTEF/README.md) | Argumentos de valor, estratégia de integração única e benefícios de longo prazo |
+
+---
+
 # 📖 Ordem recomendada de leitura
 
 ## Conhecendo a Plataforma
@@ -169,6 +197,10 @@ docs/03-PDV-DESKTOP/
 
 12. Documentação do PDV Desktop
 
+## ConnectTEF (SmartPOS e Pagamentos)
+
+13. Documentação do ConnectTEF
+
 ---
 
 > Toda a documentação foi escrita para servir simultaneamente como:
@@ -187,6 +219,7 @@ docs/03-PDV-DESKTOP/
 - [Architecture Overview](docs/00-INTRODUCTION/ARCHITECTURE-OVERVIEW.md)
 - [Modules Index ERP](docs/00-INTRODUCTION/MODULES-INDEX.md)
 - [README PDV Desktop](docs/03-PDV-DESKTOP/README.md)
+- [README ConnectTEF](docs/04-CONNECTTEF/README.md)
 
 ---
 **Navegação:** [Início](README.md)
