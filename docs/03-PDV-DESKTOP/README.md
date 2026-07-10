@@ -1,3 +1,10 @@
+<!-- NAVIGATION:START -->
+---
+[README principal](../../README.md) | [PDV Desktop](00-APRESENTACAO.md) | [Modules Index](../00-INTRODUCTION/MODULES-INDEX.md)
+---
+> **Breadcrumbs:** [Início](../../README.md) / [PDV Desktop](README.md)
+<!-- NAVIGATION:END -->
+
 # PDV Desktop
 
 > Sistema de Frente de Caixa para o ecossistema PDVPOS
@@ -234,3 +241,12 @@ Além desta documentação, o ecossistema possui documentação específica para
 Este documento faz parte da documentação oficial do ecossistema **PDVPOS**.
 
 Consulte também o **README principal** para acessar os demais componentes da plataforma.
+---
+### Veja também
+
+- [README](../../README.md)
+- [Modules Index](../00-INTRODUCTION/MODULES-INDEX.md)
+
+---
+**Navegação:** [Início](../../README.md) | [PDV Desktop](README.md) | **Próximo:** [00 - Apresentação](00-APRESENTACAO.md)
+<!-- NAVIGATION_FOOTER:END -->
