@@ -1,8 +1,8 @@
-<!-- NAVIGATION:START -->
+﻿<!-- NAVIGATION:START -->
 ---
-[README principal](../../README.md) | [PDV Desktop](00-APRESENTACAO.md) | [Modules Index](../00-INTRODUCTION/MODULES-INDEX.md)
+[README principal](../../README.md) | [Indice da documentacao](README.md) | [Anterior](12-RELATORIOS.md) | [Proximo](14-DIFERENCIAIS.md)
 ---
-> **Breadcrumbs:** [Início](../../README.md) / [PDV Desktop](00-APRESENTACAO.md) / 13-TROCAS-E-DEVOLUCOES
+> **Caminho:** [Inicio](../../README.md) / [PDV Desktop](README.md) / 13 TROCAS E DEVOLUCOES
 <!-- NAVIGATION:END -->
 
 # PDV Desktop
@@ -317,12 +317,11 @@ Conheça os principais diferenciais do PDV Desktop, sua arquitetura, produtivida
 
 <!-- NAVIGATION_FOOTER:START -->
 ---
-### Veja também
-
-- [README](../../README.md)
-- [12 - Relatórios](12-RELATORIOS.md)
-- [14 - Diferenciais Competitivos](14-DIFERENCIAIS.md)
-
+### Veja tambem
+- [README principal](../../README.md)
+- [Indice da documentacao](README.md)
+- [Proximo](14-DIFERENCIAIS.md)
 ---
-**Navegação:** ⬅️ [12 - Relatórios](12-RELATORIOS.md) | 🏠 [README](../../README.md) | ➡️ [14 - Diferenciais Competitivos](14-DIFERENCIAIS.md)
+**Navegacao:** [Anterior](12-RELATORIOS.md) | [Inicio](../../README.md) | [Proximo](14-DIFERENCIAIS.md)
 <!-- NAVIGATION_FOOTER:END -->
+

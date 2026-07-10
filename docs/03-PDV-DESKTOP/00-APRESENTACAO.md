@@ -1,8 +1,8 @@
-<!-- NAVIGATION:START -->
+﻿<!-- NAVIGATION:START -->
 ---
-[README principal](../../README.md) | [PDV Desktop](00-APRESENTACAO.md) | [Modules Index](../00-INTRODUCTION/MODULES-INDEX.md)
+[README principal](../../README.md) | [Indice da documentacao](README.md) | [Anterior](README.md) | [Proximo](01-ARQUITETURA.md)
 ---
-> **Breadcrumbs:** [Início](../../README.md) / [PDV Desktop](00-APRESENTACAO.md)
+> **Caminho:** [Inicio](../../README.md) / [PDV Desktop](README.md) / 00 APRESENTACAO
 <!-- NAVIGATION:END -->
 
 # PDV Desktop
@@ -221,11 +221,11 @@ Conheça a arquitetura do PDV Desktop, o conceito Offline First, o serviço de s
 
 <!-- NAVIGATION_FOOTER:START -->
 ---
-### Veja também
-
-- [README](../../README.md)
-- [Modules Index](../00-INTRODUCTION/MODULES-INDEX.md)
-
+### Veja tambem
+- [README principal](../../README.md)
+- [Indice da documentacao](README.md)
+- [Proximo](01-ARQUITETURA.md)
 ---
-**Navegação:** [Início](../../README.md) | [PDV Desktop](00-APRESENTACAO.md) | **Próximo:** [01 - Arquitetura](01-ARQUITETURA.md)
+**Navegacao:** [Anterior](README.md) | [Inicio](../../README.md) | [Proximo](01-ARQUITETURA.md)
 <!-- NAVIGATION_FOOTER:END -->
+

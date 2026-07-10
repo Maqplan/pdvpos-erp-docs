@@ -1,8 +1,8 @@
-<!-- NAVIGATION:START -->
+﻿<!-- NAVIGATION:START -->
 ---
-[README principal](../../README.md) | [PDV Desktop](00-APRESENTACAO.md) | [Modules Index](../00-INTRODUCTION/MODULES-INDEX.md)
+[README principal](../../README.md) | [Indice da documentacao](README.md) | [Anterior](10-TEF-E-PAGAMENTOS.md) | [Proximo](13-TROCAS-E-DEVOLUCOES.md)
 ---
-> **Breadcrumbs:** [Início](../../README.md) / [PDV Desktop](00-APRESENTACAO.md) / 12-RELATORIOS
+> **Caminho:** [Inicio](../../README.md) / [PDV Desktop](README.md) / 12 RELATORIOS
 <!-- NAVIGATION:END -->
 
 # PDV Desktop
@@ -301,12 +301,11 @@ Conheça o processo completo de devolução de mercadorias, geração de crédit
 
 <!-- NAVIGATION_FOOTER:START -->
 ---
-### Veja também
-
-- [README](../../README.md)
-- [11 - Operações Administrativas](11-OPERACOES-ADMINISTRATIVAS.md)
-- [13 - Trocas e Devoluções](13-TROCAS-E-DEVOLUCOES.md)
-
+### Veja tambem
+- [README principal](../../README.md)
+- [Indice da documentacao](README.md)
+- [Proximo](13-TROCAS-E-DEVOLUCOES.md)
 ---
-**Navegação:** ⬅️ [11 - Operações Administrativas](11-OPERACOES-ADMINISTRATIVAS.md) | 🏠 [README](../../README.md) | ➡️ [13 - Trocas e Devoluções](13-TROCAS-E-DEVOLUCOES.md)
+**Navegacao:** [Anterior](10-TEF-E-PAGAMENTOS.md) | [Inicio](../../README.md) | [Proximo](13-TROCAS-E-DEVOLUCOES.md)
 <!-- NAVIGATION_FOOTER:END -->
+

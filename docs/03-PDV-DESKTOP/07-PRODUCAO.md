@@ -1,8 +1,8 @@
-<!-- NAVIGATION:START -->
+﻿<!-- NAVIGATION:START -->
 ---
-[README principal](../../README.md) | [PDV Desktop](00-APRESENTACAO.md) | [Modules Index](../00-INTRODUCTION/MODULES-INDEX.md)
+[README principal](../../README.md) | [Indice da documentacao](README.md) | [Anterior](06-DELIVERY-E-ENCOMENDAS.md) | [Proximo](08-SINCRONIZACAO.md)
 ---
-> **Breadcrumbs:** [Início](../../README.md) / [PDV Desktop](00-APRESENTACAO.md) / 09-PRODUCAO
+> **Caminho:** [Inicio](../../README.md) / [PDV Desktop](README.md) / 07 PRODUCAO
 <!-- NAVIGATION:END -->
 
 # PDV Desktop
@@ -322,12 +322,11 @@ Conheça a arquitetura Offline First do PDV Desktop, o funcionamento do serviço
 
 <!-- NAVIGATION_FOOTER:START -->
 ---
-### Veja também
-
-- [README](../../README.md)
-- [08 - Delivery e Encomendas](08-DELIVERY-E-ENCOMENDAS.md)
-- [10 - Sincronização](10-SINCRONIZACAO.md)
-
+### Veja tambem
+- [README principal](../../README.md)
+- [Indice da documentacao](README.md)
+- [Proximo](08-SINCRONIZACAO.md)
 ---
-**Navegação:** ⬅️ [08 - Delivery e Encomendas](08-DELIVERY-E-ENCOMENDAS.md) | 🏠 [README](../../README.md) | ➡️ [10 - Sincronização](10-SINCRONIZACAO.md)
+**Navegacao:** [Anterior](06-DELIVERY-E-ENCOMENDAS.md) | [Inicio](../../README.md) | [Proximo](08-SINCRONIZACAO.md)
 <!-- NAVIGATION_FOOTER:END -->
+

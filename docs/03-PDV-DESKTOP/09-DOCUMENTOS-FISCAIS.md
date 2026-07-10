@@ -1,8 +1,8 @@
-<!-- NAVIGATION:START -->
+﻿<!-- NAVIGATION:START -->
 ---
-[README principal](../../README.md) | [PDV Desktop](00-APRESENTACAO.md) | [Modules Index](../00-INTRODUCTION/MODULES-INDEX.md)
+[README principal](../../README.md) | [Indice da documentacao](README.md) | [Anterior](08-SINCRONIZACAO.md) | [Proximo](10-TEF-E-PAGAMENTOS.md)
 ---
-> **Breadcrumbs:** [Início](../../README.md) / [PDV Desktop](00-APRESENTACAO.md) / 09-DOCUMENTOS-FISCAIS
+> **Caminho:** [Inicio](../../README.md) / [PDV Desktop](README.md) / 09 DOCUMENTOS FISCAIS
 <!-- NAVIGATION:END -->
 
 # PDV Desktop
@@ -338,12 +338,11 @@ Conheça os recursos de recebimento do PDV Desktop, incluindo pagamento misto, P
 
 <!-- NAVIGATION_FOOTER:START -->
 ---
-### Veja também
-
-- [README](../../README.md)
-- [08 - Sincronização](08-SINCRONIZACAO.md)
-- [10 - TEF e Pagamentos](10-TEF-E-PAGAMENTOS.md)
-
+### Veja tambem
+- [README principal](../../README.md)
+- [Indice da documentacao](README.md)
+- [Proximo](10-TEF-E-PAGAMENTOS.md)
 ---
-**Navegação:** ⬅️ [08 - Sincronização](08-SINCRONIZACAO.md) | 🏠 [README](../../README.md) | ➡️ [10 - TEF-E-PAGAMENTOS](10-TEF-E-PAGAMENTOS.md)
+**Navegacao:** [Anterior](08-SINCRONIZACAO.md) | [Inicio](../../README.md) | [Proximo](10-TEF-E-PAGAMENTOS.md)
 <!-- NAVIGATION_FOOTER:END -->
+

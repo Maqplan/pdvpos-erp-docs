@@ -1,8 +1,8 @@
-<!-- NAVIGATION:START -->
+﻿<!-- NAVIGATION:START -->
 ---
-[README principal](../../README.md) | [PDV Desktop](00-APRESENTACAO.md) | [Modules Index](../00-INTRODUCTION/MODULES-INDEX.md)
+[README principal](../../README.md) | [Indice da documentacao](README.md) | [Anterior](04-PEDIDOS-E-ORCAMENTOS.md) | [Proximo](06-DELIVERY-E-ENCOMENDAS.md)
 ---
-> **Breadcrumbs:** [Início](../../README.md) / [PDV Desktop](00-APRESENTACAO.md) / 05-MESAS-E-COMANDAS
+> **Caminho:** [Inicio](../../README.md) / [PDV Desktop](README.md) / 05 MESAS E COMANDAS
 <!-- NAVIGATION:END -->
 
 # PDV Desktop
@@ -367,12 +367,11 @@ Conheça os recursos para controle de entregas, pedidos externos, encomendas e a
 
 <!-- NAVIGATION_FOOTER:START -->
 ---
-### Veja também
-
-- [README](../../README.md)
-- [04 - Pedidos e Orçamentos](04-PEDIDOS-E-ORCAMENTOS.md)
-- [06 - Delivery e Encomendas](06-DELIVERY-E-ENCOMENDAS.md)
-
+### Veja tambem
+- [README principal](../../README.md)
+- [Indice da documentacao](README.md)
+- [Proximo](06-DELIVERY-E-ENCOMENDAS.md)
 ---
-**Navegação:** ⬅️ [04 - Pedidos e Orçamentos](04-PEDIDOS-E-ORCAMENTOS.md) | 🏠 [README](../../README.md) | ➡️ [06 - Delivery e Encomendas](06-DELIVERY-E-ENCOMENDAS.md)
+**Navegacao:** [Anterior](04-PEDIDOS-E-ORCAMENTOS.md) | [Inicio](../../README.md) | [Proximo](06-DELIVERY-E-ENCOMENDAS.md)
 <!-- NAVIGATION_FOOTER:END -->
+

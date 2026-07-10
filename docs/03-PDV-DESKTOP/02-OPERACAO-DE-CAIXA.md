@@ -1,8 +1,8 @@
-<!-- NAVIGATION:START -->
+﻿<!-- NAVIGATION:START -->
 ---
-[README principal](../../README.md) | [PDV Desktop](00-APRESENTACAO.md) | [Modules Index](../00-INTRODUCTION/MODULES-INDEX.md)
+[README principal](../../README.md) | [Indice da documentacao](README.md) | [Anterior](01-ARQUITETURA.md) | [Proximo](03-VENDAS.md)
 ---
-> **Breadcrumbs:** [Início](../../README.md) / [PDV Desktop](00-APRESENTACAO.md) / 02-OPERACAO-DE-CAIXA
+> **Caminho:** [Inicio](../../README.md) / [PDV Desktop](README.md) / 02 OPERACAO DE CAIXA
 <!-- NAVIGATION:END -->
 
 # PDV Desktop
@@ -334,12 +334,11 @@ Conheça o fluxo completo de vendas do PDV Desktop, incluindo lançamento de pro
 
 <!-- NAVIGATION_FOOTER:START -->
 ---
-### Veja também
-
-- [README](../../README.md)
-- [00 - Apresentação](00-APRESENTACAO.md)
-- [01 - Arquitetura](01-ARQUITETURA.md)
-
+### Veja tambem
+- [README principal](../../README.md)
+- [Indice da documentacao](README.md)
+- [Proximo](03-VENDAS.md)
 ---
-**Navegação:** ⬅️ [01 - Arquitetura](01-ARQUITETURA.md) | 🏠 [README](../../README.md) | ➡️ [03 - Vendas](03-VENDAS.md)
+**Navegacao:** [Anterior](01-ARQUITETURA.md) | [Inicio](../../README.md) | [Proximo](03-VENDAS.md)
 <!-- NAVIGATION_FOOTER:END -->
+

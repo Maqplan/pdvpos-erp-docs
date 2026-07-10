@@ -1,8 +1,8 @@
-<!-- NAVIGATION:START -->
+﻿<!-- NAVIGATION:START -->
 ---
-[README principal](../../README.md) | [PDV Desktop](00-APRESENTACAO.md) | [Modules Index](../00-INTRODUCTION/MODULES-INDEX.md)
+[README principal](../../README.md) | [Indice da documentacao](README.md) | [Anterior](02-OPERACAO-DE-CAIXA.md) | [Proximo](04-PEDIDOS-E-ORCAMENTOS.md)
 ---
-> **Breadcrumbs:** [Início](../../README.md) / [PDV Desktop](00-APRESENTACAO.md) / 03-VENDAS
+> **Caminho:** [Inicio](../../README.md) / [PDV Desktop](README.md) / 03 VENDAS
 <!-- NAVIGATION:END -->
 
 # PDV Desktop
@@ -464,12 +464,11 @@ Conheça as formas de recebimento suportadas pelo PDV Desktop, pagamento misto, 
 
 <!-- NAVIGATION_FOOTER:START -->
 ---
-### Veja também
-
-- [README](../../README.md)
-- [02 - Operação de Caixa](02-OPERACAO-DE-CAIXA.md)
-- [04 - Pagamentos](04-PAGAMENTOS.md)
-
+### Veja tambem
+- [README principal](../../README.md)
+- [Indice da documentacao](README.md)
+- [Proximo](04-PEDIDOS-E-ORCAMENTOS.md)
 ---
-**Navegação:** ⬅️ [02 - Operação de Caixa](02-OPERACAO-DE-CAIXA.md) | 🏠 [README](../../README.md) | ➡️ [04 - Pagamentos](04-PAGAMENTOS.md)
+**Navegacao:** [Anterior](02-OPERACAO-DE-CAIXA.md) | [Inicio](../../README.md) | [Proximo](04-PEDIDOS-E-ORCAMENTOS.md)
 <!-- NAVIGATION_FOOTER:END -->
+

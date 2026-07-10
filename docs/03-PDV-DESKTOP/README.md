@@ -1,8 +1,8 @@
-<!-- NAVIGATION:START -->
+﻿<!-- NAVIGATION:START -->
 ---
-[README principal](../../README.md) | [PDV Desktop](00-APRESENTACAO.md) | [Modules Index](../00-INTRODUCTION/MODULES-INDEX.md)
+[README principal](../../README.md) | [Indice da documentacao](README.md) | Anterior | [Proximo](00-APRESENTACAO.md)
 ---
-> **Breadcrumbs:** [Início](../../README.md) / [PDV Desktop](README.md)
+> **Caminho:** [Inicio](../../README.md) / [PDV Desktop](README.md) / README
 <!-- NAVIGATION:END -->
 
 # PDV Desktop
@@ -93,41 +93,39 @@ Através de parametrizações é possível adaptar seu funcionamento para divers
 # Fluxo Operacional
 
 ```text
-				 Cliente
+                        Cliente
 
-					│
+                           │
 
-					▼
+                           ▼
 
-				  Venda
+                         Venda
 
-					│
+                           │
 
- ┌──────────────────┬──────────────┐
+             ┌─────────────┼─────────────┐
 
- ▼                  ▼              ▼
+             ▼             ▼             ▼
 
-Pedido          Delivery         Mesa
+          Pedido       Delivery        Mesa
 
- │                  │              │
+             │             │             │
 
- └──────────────────┴──────────────┘
-	
-					▼
+             └─────────────┼─────────────┘
 
-				Pagamento
+                        Pagamento
 
-					▼
+                           ▼
 
-			Documento Fiscal
+                    Documento Fiscal
 
-					▼
+                           ▼
 
-			Sincronização
+                     Sincronização
 
-					▼
+                           ▼
 
-					ERP
+                           ERP
 ```
 
 ---
@@ -249,4 +247,14 @@ Consulte também o **README principal** para acessar os demais componentes da pl
 
 ---
 **Navegação:** [Início](../../README.md) | [PDV Desktop](README.md) | **Próximo:** [00 - Apresentação](00-APRESENTACAO.md)
+
+<!-- NAVIGATION_FOOTER:START -->
+---
+### Veja tambem
+- [README principal](../../README.md)
+- [Indice da documentacao](README.md)
+- [Proximo](00-APRESENTACAO.md)
+---
+**Navegacao:** Anterior | [Inicio](../../README.md) | [Proximo](00-APRESENTACAO.md)
 <!-- NAVIGATION_FOOTER:END -->
+

@@ -1,8 +1,8 @@
-<!-- NAVIGATION:START -->
+﻿<!-- NAVIGATION:START -->
 ---
-[README principal](../../README.md) | [PDV Desktop](00-APRESENTACAO.md) | [Modules Index](../00-INTRODUCTION/MODULES-INDEX.md)
+[README principal](../../README.md) | [Indice da documentacao](README.md) | [Anterior](05-MESAS-E-COMANDAS.md) | [Proximo](07-PRODUCAO.md)
 ---
-> **Breadcrumbs:** [Início](../../README.md) / [PDV Desktop](00-APRESENTACAO.md) / 06-DELIVERY-E-ENCOMENDAS
+> **Caminho:** [Inicio](../../README.md) / [PDV Desktop](README.md) / 06 DELIVERY E ENCOMENDAS
 <!-- NAVIGATION:END -->
 
 # PDV Desktop
@@ -326,12 +326,11 @@ Conheça os recursos de impressão automática para cozinha, bar, pizzaria e dem
 
 <!-- NAVIGATION_FOOTER:START -->
 ---
-### Veja também
-
-- [README](../../README.md)
-- [05 - Mesas e Comandas](05-MESAS-E-COMANDAS.md)
-- [07 - Produção e Impressão Remota](07-PRODUCAO-E-IMPRESSAO-REMOTA.md)
-
+### Veja tambem
+- [README principal](../../README.md)
+- [Indice da documentacao](README.md)
+- [Proximo](07-PRODUCAO.md)
 ---
-**Navegação:** ⬅️ [05 - Mesas e Comandas](05-MESAS-E-COMANDAS.md) | 🏠 [README](../../README.md) | ➡️ [07 - Produção e Impressão Remota](07-PRODUCAO-E-IMPRESSAO-REMOTA.md)
+**Navegacao:** [Anterior](05-MESAS-E-COMANDAS.md) | [Inicio](../../README.md) | [Proximo](07-PRODUCAO.md)
 <!-- NAVIGATION_FOOTER:END -->
+

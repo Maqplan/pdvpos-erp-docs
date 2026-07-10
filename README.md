@@ -76,6 +76,41 @@ docs/01-FUNCTIONAL-MODULES/
 
 ---
 
+# 📱 PDV SmartPOS (Android - Frente de Caixa)
+
+Localização:
+
+```text
+docs/02-PDV-SMARTPOS/
+```
+
+| Documento | Descrição |
+|-----------|-----------|
+| [README](docs/02-PDV-SMARTPOS/README.md) | Página inicial da documentação do PDV SmartPOS |
+| [00 - Apresentação](docs/02-PDV-SMARTPOS/00-APRESENTACAO.md) | Visão geral do PDV SmartPOS |
+| [01 - Arquitetura](docs/02-PDV-SMARTPOS/01-ARQUITETURA.md) | Arquitetura da aplicação, banco local, sincronização e integração com ERP |
+| [02 - Configuração](docs/02-PDV-SMARTPOS/02-CONFIGURACAO.md) | Configuração inicial, parametrização e recursos disponíveis no aplicativo |
+| [03 - Vendas](docs/02-PDV-SMARTPOS/03-VENDAS.md) | Processo completo de vendas, pagamentos e emissão fiscal |
+| [04 - Carrinho](docs/02-PDV-SMARTPOS/04-CARRINHO.md) | Carrinho de compras, descontos, observações e edição de itens |
+| [05 - Pedidos de Venda](docs/02-PDV-SMARTPOS/05-PEDIDOS-DE-VENDA.md) | Pedidos, orçamentos, pré-vendas e integração entre canais |
+| [06 - Mesas e Comandas](docs/02-PDV-SMARTPOS/06-MESAS-E-COMANDAS.md) | Atendimento para restaurantes e gestão de comandas |
+| [07 - Caixa](docs/02-PDV-SMARTPOS/07-CAIXA.md) | Abertura, fechamento, sangrias, suprimentos e conferência |
+| [08 - Histórico de Vendas](docs/02-PDV-SMARTPOS/08-HISTORICO-DE-VENDAS.md) | Consulta de vendas, auditoria, cancelamentos e reimpressão |
+| [09 - Histórico de Caixas](docs/02-PDV-SMARTPOS/09-HISTORICO-DE-CAIXAS.md) | Histórico dos caixas e detalhes das movimentações |
+| [10 - Clientes](docs/02-PDV-SMARTPOS/10-CLIENTES.md) | Cadastro e manutenção de clientes diretamente no terminal |
+| [11 - Estoque](docs/02-PDV-SMARTPOS/11-ESTOQUE.md) | Estrutura do estoque e organização do catálogo |
+| [12 - Produtos](docs/02-PDV-SMARTPOS/12-PRODUTOS.md) | Cadastro de produtos e serviços, preços, estoque e dados fiscais |
+| [13 - Grupos e Categorias](docs/02-PDV-SMARTPOS/13-GRUPOS-E-CATEGORIAS.md) | Organização hierárquica do catálogo |
+| [14 - Documentos Fiscais](docs/02-PDV-SMARTPOS/14-DOCUMENTOS-FISCAIS.md) | Emissão fiscal, contingência e cancelamentos |
+| [15 - Pagamentos e TEF](docs/02-PDV-SMARTPOS/15-PAGAMENTOS-E-TEF.md) | PIX, TEF, cartões, troco e integração financeira |
+| [16 - Sincronização](docs/02-PDV-SMARTPOS/16-SINCRONIZACAO.md) | Sincronização automática entre o PDV SmartPOS e o ERP |
+| [17 - Configurações](docs/02-PDV-SMARTPOS/17-CONFIGURACOES.md) | Configurações avançadas, recursos habilitados e parametrizações |
+| [18 - Relatórios e Impressão](docs/02-PDV-SMARTPOS/18-RELATORIOS-E-IMPRESSAO.md) | Relatórios operacionais, comprovantes e reimpressões |
+| [19 - Diferenciais](docs/02-PDV-SMARTPOS/19-DIFERENCIAIS.md) | Principais diferenciais competitivos do PDV SmartPOS |
+| [20 - Fluxos Operacionais](docs/02-PDV-SMARTPOS/20-FLUXOS-OPERACIONAIS.md) | Fluxos completos das principais operações do aplicativo |
+
+---
+
 # 🖥️ PDV (Desktop Windows - Frente de Caixa)
 
 Localização:
@@ -126,9 +161,13 @@ docs/03-PDV-DESKTOP/
 
 10. Módulos Funcionais do ERP
 
+## PDV (SmartPOS Android)
+
+11. Documentação do PDV SmartPOS
+
 ## PDV (Desktop Windows)
 
-11. Documentação do PDV Desktop
+12. Documentação do PDV Desktop
 
 ---
 

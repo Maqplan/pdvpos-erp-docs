@@ -1,8 +1,8 @@
-<!-- NAVIGATION:START -->
+﻿<!-- NAVIGATION:START -->
 ---
-[README principal](../../README.md) | [PDV Desktop](00-APRESENTACAO.md) | [Modules Index](../00-INTRODUCTION/MODULES-INDEX.md)
+[README principal](../../README.md) | [Indice da documentacao](README.md) | [Anterior](03-VENDAS.md) | [Proximo](05-MESAS-E-COMANDAS.md)
 ---
-> **Breadcrumbs:** [Início](../../README.md) / [PDV Desktop](00-APRESENTACAO.md) / 04-PEDIDOS-E-ORCAMENTOS
+> **Caminho:** [Inicio](../../README.md) / [PDV Desktop](README.md) / 04 PEDIDOS E ORCAMENTOS
 <!-- NAVIGATION:END -->
 
 # PDV Desktop
@@ -357,12 +357,11 @@ Conheça o módulo de atendimento para restaurantes, bares, pizzarias e estabele
 
 <!-- NAVIGATION_FOOTER:START -->
 ---
-### Veja também
-
-- [README](../../README.md)
-- [03 - Vendas](03-VENDAS.md)
-- [05 - Mesas e Comandas](05-MESAS-E-COMANDAS.md)
-
+### Veja tambem
+- [README principal](../../README.md)
+- [Indice da documentacao](README.md)
+- [Proximo](05-MESAS-E-COMANDAS.md)
 ---
-**Navegação:** ⬅️ [03 - Vendas](03-VENDAS.md) | 🏠 [README](../../README.md) | ➡️ [05 - Mesas e Comandas](05-MESAS-E-COMANDAS.md)
+**Navegacao:** [Anterior](03-VENDAS.md) | [Inicio](../../README.md) | [Proximo](05-MESAS-E-COMANDAS.md)
 <!-- NAVIGATION_FOOTER:END -->
+

@@ -1,8 +1,8 @@
-<!-- NAVIGATION:START -->
+﻿<!-- NAVIGATION:START -->
 ---
-[README principal](../../README.md) | [PDV Desktop](00-APRESENTACAO.md) | [Modules Index](../00-INTRODUCTION/MODULES-INDEX.md)
+[README principal](../../README.md) | [Indice da documentacao](README.md) | [Anterior](09-DOCUMENTOS-FISCAIS.md) | [Proximo](12-RELATORIOS.md)
 ---
-> **Breadcrumbs:** [Início](../../README.md) / [PDV Desktop](00-APRESENTACAO.md) / 10-TEF-E-PAGAMENTOS
+> **Caminho:** [Inicio](../../README.md) / [PDV Desktop](README.md) / 10 TEF E PAGAMENTOS
 <!-- NAVIGATION:END -->
 
 # PDV Desktop
@@ -350,12 +350,11 @@ Conheça os recursos administrativos disponíveis no PDV Desktop, incluindo cons
 
 <!-- NAVIGATION_FOOTER:START -->
 ---
-### Veja também
-
-- [README](../../README.md)
-- [09 - Documentos Fiscais](09-DOCUMENTOS-FISCAIS.md)
-- [11 - Operações Administrativas](11-OPERACOES-ADMINISTRATIVAS.md)
-
+### Veja tambem
+- [README principal](../../README.md)
+- [Indice da documentacao](README.md)
+- [Proximo](12-RELATORIOS.md)
 ---
-**Navegação:** ⬅️ [09 - Documentos Fiscais](09-DOCUMENTOS-FISCAIS.md) | 🏠 [README](../../README.md) | ➡️ [11 - Operações Administrativas](11-OPERACOES-ADMINISTRATIVAS.md)
+**Navegacao:** [Anterior](09-DOCUMENTOS-FISCAIS.md) | [Inicio](../../README.md) | [Proximo](12-RELATORIOS.md)
 <!-- NAVIGATION_FOOTER:END -->
+

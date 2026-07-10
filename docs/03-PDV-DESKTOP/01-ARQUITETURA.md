@@ -1,8 +1,8 @@
-<!-- NAVIGATION:START -->
+﻿<!-- NAVIGATION:START -->
 ---
-[README principal](../../README.md) | [PDV Desktop](README.md) | [Modules Index](../00-INTRODUCTION/MODULES-INDEX.md)
+[README principal](../../README.md) | [Indice da documentacao](README.md) | [Anterior](00-APRESENTACAO.md) | [Proximo](02-OPERACAO-DE-CAIXA.md)
 ---
-> **Breadcrumbs:** [Início](../../README.md) / [PDV Desktop](README.md) / 01-ARQUITETURA
+> **Caminho:** [Inicio](../../README.md) / [PDV Desktop](README.md) / 01 ARQUITETURA
 <!-- NAVIGATION:END -->
 
 # PDV Desktop
@@ -299,12 +299,11 @@ Conheça o assistente de configuração e descubra como o mesmo executável pode
 
 <!-- NAVIGATION_FOOTER:START -->
 ---
-### Veja também
-
-- [README](README.md)
-- [00 - Apresentação](00-APRESENTACAO.md)
-- [02 - Configuração Inicial](02-CONFIGURACAO-INICIAL.md)
-
+### Veja tambem
+- [README principal](../../README.md)
+- [Indice da documentacao](README.md)
+- [Proximo](02-OPERACAO-DE-CAIXA.md)
 ---
-**Navegação:** ⬅️ [00 - Apresentação](00-APRESENTACAO.md) | 🏠 [README](README.md) | ➡️ [02 - Configuração Inicial](02-CONFIGURACAO-INICIAL.md)
+**Navegacao:** [Anterior](00-APRESENTACAO.md) | [Inicio](../../README.md) | [Proximo](02-OPERACAO-DE-CAIXA.md)
 <!-- NAVIGATION_FOOTER:END -->
+

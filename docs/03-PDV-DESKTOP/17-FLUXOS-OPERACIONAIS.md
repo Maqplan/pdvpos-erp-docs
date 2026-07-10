@@ -1,8 +1,8 @@
-<!-- NAVIGATION:START -->
+﻿<!-- NAVIGATION:START -->
 ---
-[README principal](../../README.md) | [PDV Desktop](00-APRESENTACAO.md) | [Modules Index](../00-INTRODUCTION/MODULES-INDEX.md)
+[README principal](../../README.md) | [Indice da documentacao](README.md) | [Anterior](16-ATALHOS-E-PRODUTIVIDADE.md) | Proximo
 ---
-> **Breadcrumbs:** [Início](../../README.md) / [PDV Desktop](00-APRESENTACAO.md) / 17-FLUXOS-OPERACIONAIS
+> **Caminho:** [Inicio](../../README.md) / [PDV Desktop](README.md) / 17 FLUXOS OPERACIONAIS
 <!-- NAVIGATION:END -->
 
 # PDV Desktop
@@ -792,12 +792,11 @@ Essa arquitetura permite que empresas de diferentes segmentos utilizem exatament
 
 <!-- NAVIGATION_FOOTER:START -->
 ---
-### Veja também
-
-- [README](../../README.md)
-- [16 - Atalhos e Produtividade](16-ATALHOS-E-PRODUTIVIDADE.md)
-- [14 - Diferenciais](14-DIFERENCIAIS.md)
-
+### Veja tambem
+- [README principal](../../README.md)
+- [Indice da documentacao](README.md)
+- [Anterior](16-ATALHOS-E-PRODUTIVIDADE.md)
 ---
-**Navegação:** ⬅️ [16 - Atalhos e Produtividade](16-ATALHOS-E-PRODUTIVIDADE.md) | 🏠 [README](../../README.md) | ⬆️ [14 - Diferenciais](14-DIFERENCIAIS.md)
+**Navegacao:** [Anterior](16-ATALHOS-E-PRODUTIVIDADE.md) | [Inicio](../../README.md) | Proximo
 <!-- NAVIGATION_FOOTER:END -->
+

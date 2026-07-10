@@ -1,8 +1,8 @@
-<!-- NAVIGATION:START -->
+﻿<!-- NAVIGATION:START -->
 ---
-[README principal](../../README.md) | [PDV Desktop](00-APRESENTACAO.md) | [Modules Index](../00-INTRODUCTION/MODULES-INDEX.md)
+[README principal](../../README.md) | [Indice da documentacao](README.md) | [Anterior](14-DIFERENCIAIS.md) | [Proximo](16-ATALHOS-E-PRODUTIVIDADE.md)
 ---
-> **Breadcrumbs:** [Início](../../README.md) / [PDV Desktop](00-APRESENTACAO.md) / 15-CONFIGURACAO-INICIAL
+> **Caminho:** [Inicio](../../README.md) / [PDV Desktop](README.md) / 15 CONFIGURACAO INICIAL
 <!-- NAVIGATION:END -->
 
 # PDV Desktop
@@ -354,12 +354,11 @@ Essa flexibilidade é um dos fatores que tornam a plataforma escalável e prepar
 
 <!-- NAVIGATION_FOOTER:START -->
 ---
-### Veja também
-
-- [README](../../README.md)
-- [00 - Apresentação](00-APRESENTACAO.md)
-- [01 - Arquitetura](01-ARQUITETURA.md)
-
+### Veja tambem
+- [README principal](../../README.md)
+- [Indice da documentacao](README.md)
+- [Proximo](16-ATALHOS-E-PRODUTIVIDADE.md)
 ---
-**Navegação:** 🏠 [README](../../README.md) | ⬅️ [14 - Diferenciais](14-DIFERENCIAIS.md) | 🔝 [00 - Apresentação](00-APRESENTACAO.md)
+**Navegacao:** [Anterior](14-DIFERENCIAIS.md) | [Inicio](../../README.md) | [Proximo](16-ATALHOS-E-PRODUTIVIDADE.md)
 <!-- NAVIGATION_FOOTER:END -->
+

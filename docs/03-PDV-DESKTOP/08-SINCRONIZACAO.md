@@ -1,8 +1,8 @@
-<!-- NAVIGATION:START -->
+﻿<!-- NAVIGATION:START -->
 ---
-[README principal](../../README.md) | [PDV Desktop](00-APRESENTACAO.md) | [Modules Index](../00-INTRODUCTION/MODULES-INDEX.md)
+[README principal](../../README.md) | [Indice da documentacao](README.md) | [Anterior](07-PRODUCAO.md) | [Proximo](09-DOCUMENTOS-FISCAIS.md)
 ---
-> **Breadcrumbs:** [Início](../../README.md) / [PDV Desktop](00-APRESENTACAO.md) / 10-SINCRONIZACAO
+> **Caminho:** [Inicio](../../README.md) / [PDV Desktop](README.md) / 08 SINCRONIZACAO
 <!-- NAVIGATION:END -->
 
 # PDV Desktop
@@ -320,12 +320,11 @@ Conheça os recursos de emissão fiscal do PDV Desktop, incluindo NFC-e, NF-e, N
 
 <!-- NAVIGATION_FOOTER:START -->
 ---
-### Veja também
-
-- [README](../../README.md)
-- [09 - Produção](09-PRODUCAO.md)
-- [11 - Documentos Fiscais](11-DOCUMENTOS-FISCAIS.md)
-
+### Veja tambem
+- [README principal](../../README.md)
+- [Indice da documentacao](README.md)
+- [Proximo](09-DOCUMENTOS-FISCAIS.md)
 ---
-**Navegação:** ⬅️ [09 - Produção](09-PRODUCAO.md) | 🏠 [README](../../README.md) | ➡️ [11 - Documentos Fiscais](11-DOCUMENTOS-FISCAIS.md)
+**Navegacao:** [Anterior](07-PRODUCAO.md) | [Inicio](../../README.md) | [Proximo](09-DOCUMENTOS-FISCAIS.md)
 <!-- NAVIGATION_FOOTER:END -->
+

@@ -1,8 +1,8 @@
-<!-- NAVIGATION:START -->
+﻿<!-- NAVIGATION:START -->
 ---
-[README principal](../../README.md) | [PDV Desktop](README.md) | [Modules Index](../00-INTRODUCTION/MODULES-INDEX.md)
+[README principal](../../README.md) | [Indice da documentacao](README.md) | [Anterior](13-TROCAS-E-DEVOLUCOES.md) | [Proximo](15-CONFIGURACAO-INICIAL.md)
 ---
-> **Breadcrumbs:** [Início](../../README.md) / [PDV Desktop](README.md) / 14-DIFERENCIAIS
+> **Caminho:** [Inicio](../../README.md) / [PDV Desktop](README.md) / 14 DIFERENCIAIS
 <!-- NAVIGATION:END -->
 
 # PDV Desktop
@@ -335,12 +335,11 @@ Aliado ao motor transacional unificado, à integração nativa com ERP e Connect
 
 <!-- NAVIGATION_FOOTER:START -->
 ---
-### Veja também
-
-- [README](README.md)
-- [13 - Trocas e Devoluções](13-TROCAS-E-DEVOLUCOES.md)
-- [15 - Configuração Inicial](15-CONFIGURACAO-INICIAL.md)
-
+### Veja tambem
+- [README principal](../../README.md)
+- [Indice da documentacao](README.md)
+- [Proximo](15-CONFIGURACAO-INICIAL.md)
 ---
-**Navegação:** ⬅️ [13 - Trocas e Devoluções](13-TROCAS-E-DEVOLUCOES.md) | 🏠 [README](README.md) | ➡️ [15 - Configuração Inicial](15-CONFIGURACAO-INICIAL.md)
+**Navegacao:** [Anterior](13-TROCAS-E-DEVOLUCOES.md) | [Inicio](../../README.md) | [Proximo](15-CONFIGURACAO-INICIAL.md)
 <!-- NAVIGATION_FOOTER:END -->
+
