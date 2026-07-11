@@ -11,7 +11,7 @@ O Gerenciador Padrão é um módulo de compatibilidade do ConnectTEF desenvolvid
 
 Ele interpreta automaticamente as requisições baseadas no padrão INTPOS e as converte para a arquitetura moderna do ConnectTEF.
 
-Na prática, isso permite que ERPs desenvolvidos há muitos anos possam operar com SmartPOS modernos sem reescrever sua integração.
+Na prática, isso permite que PDVs desenvolvidos há muitos anos possam operar com SmartPOS modernos sem reescrever sua integração.
 
 ---
 
@@ -31,7 +31,7 @@ Quando esses sistemas desejam utilizar SmartPOS modernos, normalmente enfrentam 
 
 Sem uma camada de compatibilidade, seria necessário:
 
-- alterar o ERP;
+- alterar o PDV;
 - desenvolver uma nova integração;
 - homologar novamente toda a operação;
 - implantar uma nova arquitetura.
@@ -44,10 +44,10 @@ Esse processo costuma ser caro, demorado e arriscado.
 
 O Gerenciador Padrão elimina essa necessidade.
 
-Ele atua como uma camada intermediária entre o ERP e o ConnectTEF.
+Ele atua como uma camada intermediária entre o PDV e o ConnectTEF.
 
 ```text
-             ERP
+             PDV
 
               │
 
@@ -72,7 +72,7 @@ Ele atua como uma camada intermediária entre o ERP e o ConnectTEF.
           SmartPOS
 ```
 
-O ERP continua gerando exatamente os mesmos arquivos.
+O PDV continua gerando exatamente os mesmos arquivos.
 
 O ConnectTEF interpreta essas informações e executa toda a comunicação com o SmartPOS.
 
@@ -82,11 +82,11 @@ O ConnectTEF interpreta essas informações e executa toda a comunicação com o
 
 O fluxo é totalmente transparente para o sistema de gestão.
 
-1. O ERP gera os arquivos INTPOS normalmente.
+1. O PDV gera os arquivos INTPOS normalmente.
 2. O Gerenciador Padrão identifica a operação.
 3. O ConnectTEF interpreta a solicitação.
 4. A transação é enviada ao SmartPOS.
-5. O resultado retorna ao ERP utilizando o mesmo padrão esperado.
+5. O resultado retorna ao PDV utilizando o mesmo padrão esperado.
 
 Nenhuma alteração é necessária na lógica do sistema.
 
@@ -122,7 +122,7 @@ Ao utilizar o Gerenciador Padrão, sua empresa obtém:
 
 O Gerenciador Padrão é recomendado quando:
 
-- o ERP já utiliza troca de arquivos INTPOS;
+- o PDV já utiliza troca de arquivos INTPOS;
 - não há interesse em alterar a integração existente;
 - deseja-se migrar para SmartPOS modernos;
 - busca-se uma transição gradual para APIs mais modernas.
@@ -147,7 +147,7 @@ Isso reduz riscos e facilita a modernização da aplicação.
 | Utiliza arquivos INTPOS | Utiliza APIs modernas |
 | Implantação rápida | Maior flexibilidade |
 | Ideal para migração | Ideal para novos projetos |
-| Menor impacto no ERP | Arquitetura mais moderna |
+| Menor impacto no PDV | Arquitetura mais moderna |
 
 As duas abordagens podem coexistir durante o processo de evolução do sistema.
 
