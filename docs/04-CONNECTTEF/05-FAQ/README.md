@@ -20,7 +20,7 @@ A seção de Perguntas Frequentes reune respostas rápidas para as dúvidas mais
 | [03 - FAQ SmartPOS](03-FAQ-SMARTPOS.md) | Perguntas relacionadas aos dispositivos SmartPOS. |
 | [04 - FAQ White Label](04-FAQ-WHITE-LABEL.md) | Informações sobre parceria e personalização. |
 | [05 - FAQ Operacional](05-FAQ-OPERACIONAL.md) | Operação diária, falhas e boas práticas. |
-| [06 - FAQ Arquitetura](06-FAQ-ARQUITETURAL.md) | Arquitetura da plataforma, comunicação entre componentes e princípios de integração. |
+| [06 - FAQ Arquitetural](06-FAQ-ARQUITETURAL.md) | Arquitetura da plataforma, comunicação entre componentes e princípios de integração. |
 
 ---
 

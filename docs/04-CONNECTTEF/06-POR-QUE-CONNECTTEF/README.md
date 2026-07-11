@@ -1,6 +1,6 @@
 ﻿<!-- NAVIGATION:START -->
 ---
-[README ConnectTEF](../README.md) | [Índice da Seção](README.md) | [Anterior](../05-FAQ/05-FAQ-OPERACIONAL.md) | [Próximo](01-POR-QUE-UMA-UNICA-INTEGRACAO.md)
+[README ConnectTEF](../README.md) | [Índice da Seção](README.md) | [Anterior](../05-FAQ/05-FAQ-ARQUITETURAL.md) | [Próximo](01-POR-QUE-UMA-UNICA-INTEGRACAO.md)
 ---
 > **Caminho:** [Início](../README.md) / Por que ConnectTEF / README
 <!-- NAVIGATION:END -->
