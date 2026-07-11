@@ -1,8 +1,8 @@
 ﻿<!-- NAVIGATION:START -->
 ---
-[README ConnectTEF](../README.md) | [Índice da Seção](README.md) | [Anterior](09-POR-QUE-CONNECTTEF.md) | Proximo
+[README ConnectTEF](../README.md) | [Índice da Seção](README.md) | [Anterior](09-POR-QUE-CONNECTTEF.md) | Próximo
 ---
-> **Caminho:** [Inicio](../README.md) / Por que ConnectTEF / Custo de Manter Integracoes Proprias
+> **Caminho:** [Início](../README.md) / Por que ConnectTEF / Custo de Manter Integrações Proprias
 <!-- NAVIGATION:END -->
 
 # 10 - O custo de manter integrações próprias
@@ -192,9 +192,9 @@ Assim, a software house pode concentrar sua equipe naquilo que realmente diferen
 
 <!-- NAVIGATION_FOOTER:START -->
 ---
-### Veja tambem
+### Veja também
 - [README ConnectTEF](../README.md)
 - [Índice da Seção](README.md)
 ---
-**Navegacao:** [Anterior](09-POR-QUE-CONNECTTEF.md) | [Inicio](../README.md) | Proximo
+**Navegação:** [Anterior](09-POR-QUE-CONNECTTEF.md) | [Início](../README.md) | Próximo
 <!-- NAVIGATION_FOOTER:END -->

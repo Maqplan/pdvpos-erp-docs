@@ -1,8 +1,8 @@
 ﻿<!-- NAVIGATION:START -->
 ---
-[README ConnectTEF](../README.md) | [Índice da Seção](README.md) | [Anterior](08-O-QUE-E-PROVIDER.md) | [Proximo](10-O-QUE-E-API-LOCAL.md)
+[README ConnectTEF](../README.md) | [Índice da Seção](README.md) | [Anterior](08-O-QUE-E-PROVIDER.md) | [Próximo](10-O-QUE-E-API-LOCAL.md)
 ---
-> **Caminho:** [Inicio](../README.md) / Conceitos / O que e Intent
+> **Caminho:** [Início](../README.md) / Conceitos / O que e Intent
 <!-- NAVIGATION:END -->
 
 # O que � Android Intent?
@@ -192,10 +192,10 @@ Agora conheceremos a **API Local**, uma das formas de integra��o disponibili
 
 <!-- NAVIGATION_FOOTER:START -->
 ---
-### Veja tambem
+### Veja também
 - [README ConnectTEF](../README.md)
 - [Índice da Seção](README.md)
 - [O que e API Local](10-O-QUE-E-API-LOCAL.md)
 ---
-**Navegacao:** [Anterior](08-O-QUE-E-PROVIDER.md) | [Inicio](../README.md) | [Proximo](10-O-QUE-E-API-LOCAL.md)
+**Navegação:** [Anterior](08-O-QUE-E-PROVIDER.md) | [Início](../README.md) | [Próximo](10-O-QUE-E-API-LOCAL.md)
 <!-- NAVIGATION_FOOTER:END -->

@@ -1,8 +1,8 @@
 ﻿<!-- NAVIGATION:START -->
 ---
-[README ConnectTEF](../README.md) | [Índice da Seção](README.md) | [Anterior](01-VISAO-GERAL.md) | [Proximo](03-FLUXO-DE-PAGAMENTO.md)
+[README ConnectTEF](../README.md) | [Índice da Seção](README.md) | [Anterior](01-VISAO-GERAL.md) | [Próximo](03-FLUXO-DE-PAGAMENTO.md)
 ---
-> **Caminho:** [Inicio](../README.md) / Arquitetura / Componentes
+> **Caminho:** [Início](../README.md) / Arquitetura / Componentes
 <!-- NAVIGATION:END -->
 
 # Componentes da Arquitetura
@@ -303,10 +303,10 @@ No próximo capítulo acompanharemos uma transação completa dentro do ConnectT
 
 <!-- NAVIGATION_FOOTER:START -->
 ---
-### Veja tambem
+### Veja também
 - [README ConnectTEF](../README.md)
 - [Índice da Seção](README.md)
 - [Fluxo de Pagamento](03-FLUXO-DE-PAGAMENTO.md)
 ---
-**Navegacao:** [Anterior](01-VISAO-GERAL.md) | [Inicio](../README.md) | [Proximo](03-FLUXO-DE-PAGAMENTO.md)
+**Navegação:** [Anterior](01-VISAO-GERAL.md) | [Início](../README.md) | [Próximo](03-FLUXO-DE-PAGAMENTO.md)
 <!-- NAVIGATION_FOOTER:END -->

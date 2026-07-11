@@ -1,8 +1,8 @@
 ﻿<!-- NAVIGATION:START -->
 ---
-[README ConnectTEF](../README.md) | [Índice da Seção](README.md) | [Anterior](02-POR-QUE-SMARTPOS.md) | [Proximo](04-POR-QUE-OFFLINE.md)
+[README ConnectTEF](../README.md) | [Índice da Seção](README.md) | [Anterior](02-POR-QUE-SMARTPOS.md) | [Próximo](04-POR-QUE-OFFLINE.md)
 ---
-> **Caminho:** [Inicio](../README.md) / Por que ConnectTEF / Por que API Rest
+> **Caminho:** [Início](../README.md) / Por que ConnectTEF / Por que API Rest
 <!-- NAVIGATION:END -->
 
 # 03 - Por que API REST?
@@ -183,10 +183,10 @@ Mais do que uma tecnologia de comunicação, a REST API faz parte da estratégia
 
 <!-- NAVIGATION_FOOTER:START -->
 ---
-### Veja tambem
+### Veja também
 - [README ConnectTEF](../README.md)
 - [Índice da Seção](README.md)
 - [Por que Offline](04-POR-QUE-OFFLINE.md)
 ---
-**Navegacao:** [Anterior](02-POR-QUE-SMARTPOS.md) | [Inicio](../README.md) | [Proximo](04-POR-QUE-OFFLINE.md)
+**Navegação:** [Anterior](02-POR-QUE-SMARTPOS.md) | [Início](../README.md) | [Próximo](04-POR-QUE-OFFLINE.md)
 <!-- NAVIGATION_FOOTER:END -->

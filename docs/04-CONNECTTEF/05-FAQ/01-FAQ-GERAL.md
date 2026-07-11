@@ -1,8 +1,8 @@
 ﻿<!-- NAVIGATION:START -->
 ---
-[README ConnectTEF](../README.md) | [Índice da Seção](README.md) | [Anterior](README.md) | [Proximo](02-FAQ-INTEGRADORES.md)
+[README ConnectTEF](../README.md) | [Índice da Seção](README.md) | [Anterior](README.md) | [Próximo](02-FAQ-INTEGRADORES.md)
 ---
-> **Caminho:** [Inicio](../README.md) / FAQ / FAQ Geral
+> **Caminho:** [Início](../README.md) / FAQ / FAQ Geral
 <!-- NAVIGATION:END -->
 
 # 01 - FAQ Geral
@@ -242,10 +242,10 @@ O próximo capítulo responde às principais dúvidas relacionadas aos modelos d
 
 <!-- NAVIGATION_FOOTER:START -->
 ---
-### Veja tambem
+### Veja também
 - [README ConnectTEF](../README.md)
 - [Índice da Seção](README.md)
 - [FAQ Integradores](02-FAQ-INTEGRADORES.md)
 ---
-**Navegacao:** [Anterior](README.md) | [Inicio](../README.md) | [Proximo](02-FAQ-INTEGRADORES.md)
+**Navegação:** [Anterior](README.md) | [Início](../README.md) | [Próximo](02-FAQ-INTEGRADORES.md)
 <!-- NAVIGATION_FOOTER:END -->

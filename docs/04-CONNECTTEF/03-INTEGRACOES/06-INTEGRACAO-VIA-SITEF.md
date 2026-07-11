@@ -1,8 +1,8 @@
 ﻿<!-- NAVIGATION:START -->
 ---
-[README ConnectTEF](../README.md) | [Índice da Seção](README.md) | [Anterior](05-INTEGRACAO-VIA-INTPOS.md) | [Proximo](07-INTEGRACAO-VIA-ELGIN.md)
+[README ConnectTEF](../README.md) | [Índice da Seção](README.md) | [Anterior](05-INTEGRACAO-VIA-INTPOS.md) | [Próximo](07-INTEGRACAO-VIA-ELGIN.md)
 ---
-> **Caminho:** [Inicio](../README.md) / Integracoes / Integracao via Sitef
+> **Caminho:** [Início](../README.md) / Integrações / Integracao via Sitef
 <!-- NAVIGATION:END -->
 
 # 06 - Integração via SiTef
@@ -171,10 +171,10 @@ O próximo capítulo apresenta os mecanismos de compatibilidade disponibilizados
 
 <!-- NAVIGATION_FOOTER:START -->
 ---
-### Veja tambem
+### Veja também
 - [README ConnectTEF](../README.md)
 - [Índice da Seção](README.md)
 - [Integracao via Elgin](07-INTEGRACAO-VIA-ELGIN.md)
 ---
-**Navegacao:** [Anterior](05-INTEGRACAO-VIA-INTPOS.md) | [Inicio](../README.md) | [Proximo](07-INTEGRACAO-VIA-ELGIN.md)
+**Navegação:** [Anterior](05-INTEGRACAO-VIA-INTPOS.md) | [Início](../README.md) | [Próximo](07-INTEGRACAO-VIA-ELGIN.md)
 <!-- NAVIGATION_FOOTER:END -->

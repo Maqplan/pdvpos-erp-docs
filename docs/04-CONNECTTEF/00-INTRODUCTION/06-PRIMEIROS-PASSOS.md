@@ -1,8 +1,8 @@
 ﻿<!-- NAVIGATION:START -->
 ---
-[README ConnectTEF](../README.md) | [Índice da Seção](README.md) | [Anterior](05-ECOSSISTEMA-CONNECTTEF.md) | [Proximo](MODULES-INDEX.md)
+[README ConnectTEF](../README.md) | [Índice da Seção](README.md) | [Anterior](05-ECOSSISTEMA-CONNECTTEF.md) | [Próximo](MODULES-INDEX.md)
 ---
-> **Caminho:** [Inicio](../README.md) / Introducao / Primeiros Passos
+> **Caminho:** [Início](../README.md) / Introdução / Primeiros Passos
 <!-- NAVIGATION:END -->
 
 # Primeiros Passos
@@ -299,10 +299,10 @@ Ao escolher corretamente a arquitetura e compreender os conceitos fundamentais d
 
 <!-- NAVIGATION_FOOTER:START -->
 ---
-### Veja tambem
+### Veja também
 - [README ConnectTEF](../README.md)
 - [Índice da Seção](README.md)
 - [Índice de Módulos](MODULES-INDEX.md)
 ---
-**Navegacao:** [Anterior](05-ECOSSISTEMA-CONNECTTEF.md) | [Inicio](../README.md) | [Proximo](MODULES-INDEX.md)
+**Navegação:** [Anterior](05-ECOSSISTEMA-CONNECTTEF.md) | [Início](../README.md) | [Próximo](MODULES-INDEX.md)
 <!-- NAVIGATION_FOOTER:END -->

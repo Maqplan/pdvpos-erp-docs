@@ -1,18 +1,18 @@
 ﻿<!-- NAVIGATION:START -->
 ---
-[README ConnectTEF](../README.md) | [Índice da Seção](README.md) | [Anterior](10-INTEGRACAO-WEB.md) | [Proximo](12-BOAS-PRATICAS.md)
+[README ConnectTEF](../README.md) | [Índice da Seção](README.md) | [Anterior](10-INTEGRACAO-WEB.md) | [Próximo](12-BOAS-PRATICAS.md)
 ---
-> **Caminho:** [Inicio](../README.md) / Integracoes / Integracao Android
+> **Caminho:** [Início](../README.md) / Integrações / Integracao Android
 <!-- NAVIGATION:END -->
 
 
 
 <!-- NAVIGATION_FOOTER:START -->
 ---
-### Veja tambem
+### Veja também
 - [README ConnectTEF](../README.md)
 - [Índice da Seção](README.md)
 - [Boas Praticas](12-BOAS-PRATICAS.md)
 ---
-**Navegacao:** [Anterior](10-INTEGRACAO-WEB.md) | [Inicio](../README.md) | [Proximo](12-BOAS-PRATICAS.md)
+**Navegação:** [Anterior](10-INTEGRACAO-WEB.md) | [Início](../README.md) | [Próximo](12-BOAS-PRATICAS.md)
 <!-- NAVIGATION_FOOTER:END -->

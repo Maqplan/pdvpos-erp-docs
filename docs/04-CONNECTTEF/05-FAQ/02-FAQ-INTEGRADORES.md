@@ -1,8 +1,8 @@
 ﻿<!-- NAVIGATION:START -->
 ---
-[README ConnectTEF](../README.md) | [Índice da Seção](README.md) | [Anterior](01-FAQ-GERAL.md) | [Proximo](03-FAQ-SMARTPOS.md)
+[README ConnectTEF](../README.md) | [Índice da Seção](README.md) | [Anterior](01-FAQ-GERAL.md) | [Próximo](03-FAQ-SMARTPOS.md)
 ---
-> **Caminho:** [Inicio](../README.md) / FAQ / FAQ Integradores
+> **Caminho:** [Início](../README.md) / FAQ / FAQ Integradores
 <!-- NAVIGATION:END -->
 
 # 02 - FAQ Integradores
@@ -238,10 +238,10 @@ O próximo capítulo apresenta as principais dúvidas relacionadas ao ecossistem
 
 <!-- NAVIGATION_FOOTER:START -->
 ---
-### Veja tambem
+### Veja também
 - [README ConnectTEF](../README.md)
 - [Índice da Seção](README.md)
 - [FAQ SmartPOS](03-FAQ-SMARTPOS.md)
 ---
-**Navegacao:** [Anterior](01-FAQ-GERAL.md) | [Inicio](../README.md) | [Proximo](03-FAQ-SMARTPOS.md)
+**Navegação:** [Anterior](01-FAQ-GERAL.md) | [Início](../README.md) | [Próximo](03-FAQ-SMARTPOS.md)
 <!-- NAVIGATION_FOOTER:END -->

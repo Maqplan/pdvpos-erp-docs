@@ -1,8 +1,8 @@
 ﻿<!-- NAVIGATION:START -->
 ---
-[README ConnectTEF](../README.md) | [Índice da Seção](README.md) | [Anterior](README.md) | [Proximo](02-POR-QUE-SMARTPOS.md)
+[README ConnectTEF](../README.md) | [Índice da Seção](README.md) | [Anterior](README.md) | [Próximo](02-POR-QUE-SMARTPOS.md)
 ---
-> **Caminho:** [Inicio](../README.md) / Por que ConnectTEF / Por que Uma Unica Integracao
+> **Caminho:** [Início](../README.md) / Por que ConnectTEF / Por que Uma Unica Integracao
 <!-- NAVIGATION:END -->
 
 # 01 - Por que uma única integração?
@@ -186,10 +186,10 @@ Ao integrar apenas uma vez, a software house reduz custos, acelera implantaçõe
 
 <!-- NAVIGATION_FOOTER:START -->
 ---
-### Veja tambem
+### Veja também
 - [README ConnectTEF](../README.md)
 - [Índice da Seção](README.md)
 - [Por que SmartPOS](02-POR-QUE-SMARTPOS.md)
 ---
-**Navegacao:** [Anterior](README.md) | [Inicio](../README.md) | [Proximo](02-POR-QUE-SMARTPOS.md)
+**Navegação:** [Anterior](README.md) | [Início](../README.md) | [Próximo](02-POR-QUE-SMARTPOS.md)
 <!-- NAVIGATION_FOOTER:END -->

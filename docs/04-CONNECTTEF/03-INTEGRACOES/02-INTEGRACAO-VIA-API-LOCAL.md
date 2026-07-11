@@ -1,8 +1,8 @@
 ﻿<!-- NAVIGATION:START -->
 ---
-[README ConnectTEF](../README.md) | [Índice da Seção](README.md) | [Anterior](01-INTEGRACAO-VIA-API-REST.md) | [Proximo](03-INTEGRACAO-VIA-PROVIDER.md)
+[README ConnectTEF](../README.md) | [Índice da Seção](README.md) | [Anterior](01-INTEGRACAO-VIA-API-REST.md) | [Próximo](03-INTEGRACAO-VIA-PROVIDER.md)
 ---
-> **Caminho:** [Inicio](../README.md) / Integracoes / Integracao via API Local
+> **Caminho:** [Início](../README.md) / Integrações / Integracao via API Local
 <!-- NAVIGATION:END -->
 
 # 02 - Integração via API Local
@@ -184,10 +184,10 @@ Nos próximos capítulos serão apresentados outros modelos de integração, inc
 
 <!-- NAVIGATION_FOOTER:START -->
 ---
-### Veja tambem
+### Veja também
 - [README ConnectTEF](../README.md)
 - [Índice da Seção](README.md)
 - [Integracao via Provider](03-INTEGRACAO-VIA-PROVIDER.md)
 ---
-**Navegacao:** [Anterior](01-INTEGRACAO-VIA-API-REST.md) | [Inicio](../README.md) | [Proximo](03-INTEGRACAO-VIA-PROVIDER.md)
+**Navegação:** [Anterior](01-INTEGRACAO-VIA-API-REST.md) | [Início](../README.md) | [Próximo](03-INTEGRACAO-VIA-PROVIDER.md)
 <!-- NAVIGATION_FOOTER:END -->

@@ -1,8 +1,8 @@
 ﻿<!-- NAVIGATION:START -->
 ---
-[README ConnectTEF](../README.md) | [Índice da Seção](README.md) | [Anterior](04-O-QUE-E-FACILITADORA.md) | [Proximo](06-O-QUE-E-INTPOS.md)
+[README ConnectTEF](../README.md) | [Índice da Seção](README.md) | [Anterior](04-O-QUE-E-FACILITADORA.md) | [Próximo](06-O-QUE-E-INTPOS.md)
 ---
-> **Caminho:** [Inicio](../README.md) / Conceitos / O que e Gerenciador Padrao
+> **Caminho:** [Início](../README.md) / Conceitos / O que e Gerenciador Padrao
 <!-- NAVIGATION:END -->
 
 # O que é o Gerenciador Padrão?
@@ -177,10 +177,10 @@ Agora conheceremos o padrão **INTPOS**, utilizado por milhares de sistemas de g
 
 <!-- NAVIGATION_FOOTER:START -->
 ---
-### Veja tambem
+### Veja também
 - [README ConnectTEF](../README.md)
 - [Índice da Seção](README.md)
 - [O que e INTPOS](06-O-QUE-E-INTPOS.md)
 ---
-**Navegacao:** [Anterior](04-O-QUE-E-FACILITADORA.md) | [Inicio](../README.md) | [Proximo](06-O-QUE-E-INTPOS.md)
+**Navegação:** [Anterior](04-O-QUE-E-FACILITADORA.md) | [Início](../README.md) | [Próximo](06-O-QUE-E-INTPOS.md)
 <!-- NAVIGATION_FOOTER:END -->

@@ -1,8 +1,8 @@
 ﻿<!-- NAVIGATION:START -->
 ---
-[README ConnectTEF](../README.md) | [Índice da Seção](README.md) | [Anterior](06-POR-QUE-MIGRAR-DO-SITEF.md) | [Proximo](08-POR-QUE-GERENCIADOR-PADRAO.md)
+[README ConnectTEF](../README.md) | [Índice da Seção](README.md) | [Anterior](06-POR-QUE-MIGRAR-DO-SITEF.md) | [Próximo](08-POR-QUE-GERENCIADOR-PADRAO.md)
 ---
-> **Caminho:** [Inicio](../README.md) / Por que ConnectTEF / Por que Migrar do INTPOS
+> **Caminho:** [Início](../README.md) / Por que ConnectTEF / Por que Migrar do INTPOS
 <!-- NAVIGATION:END -->
 
 # 07 - Por que migrar do INTPOS?
@@ -161,10 +161,10 @@ Essa abordagem reduz riscos, protege investimentos e permite que a evolução oc
 
 <!-- NAVIGATION_FOOTER:START -->
 ---
-### Veja tambem
+### Veja também
 - [README ConnectTEF](../README.md)
 - [Índice da Seção](README.md)
 - [Por que Gerenciador Padrao](08-POR-QUE-GERENCIADOR-PADRAO.md)
 ---
-**Navegacao:** [Anterior](06-POR-QUE-MIGRAR-DO-SITEF.md) | [Inicio](../README.md) | [Proximo](08-POR-QUE-GERENCIADOR-PADRAO.md)
+**Navegação:** [Anterior](06-POR-QUE-MIGRAR-DO-SITEF.md) | [Início](../README.md) | [Próximo](08-POR-QUE-GERENCIADOR-PADRAO.md)
 <!-- NAVIGATION_FOOTER:END -->

@@ -1,8 +1,8 @@
 ﻿<!-- NAVIGATION:START -->
 ---
-[README ConnectTEF](../README.md) | [Índice da Seção](README.md) | [Anterior](02-POR-QUE-CONNECTTEF.md) | [Proximo](04-ARQUITETURA-GERAL.md)
+[README ConnectTEF](../README.md) | [Índice da Seção](README.md) | [Anterior](02-POR-QUE-CONNECTTEF.md) | [Próximo](04-ARQUITETURA-GERAL.md)
 ---
-> **Caminho:** [Inicio](../README.md) / Introducao / Como Funciona
+> **Caminho:** [Início](../README.md) / Introdução / Como Funciona
 <!-- NAVIGATION:END -->
 
 # Como o ConnectTEF Funciona
@@ -274,10 +274,10 @@ Agora que entendemos o funcionamento geral da plataforma, veremos sua arquitetur
 
 <!-- NAVIGATION_FOOTER:START -->
 ---
-### Veja tambem
+### Veja também
 - [README ConnectTEF](../README.md)
 - [Índice da Seção](README.md)
 - [Arquitetura Geral](04-ARQUITETURA-GERAL.md)
 ---
-**Navegacao:** [Anterior](02-POR-QUE-CONNECTTEF.md) | [Inicio](../README.md) | [Proximo](04-ARQUITETURA-GERAL.md)
+**Navegação:** [Anterior](02-POR-QUE-CONNECTTEF.md) | [Início](../README.md) | [Próximo](04-ARQUITETURA-GERAL.md)
 <!-- NAVIGATION_FOOTER:END -->

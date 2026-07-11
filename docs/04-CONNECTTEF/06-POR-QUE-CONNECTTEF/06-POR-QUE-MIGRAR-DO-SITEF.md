@@ -1,8 +1,8 @@
 ﻿<!-- NAVIGATION:START -->
 ---
-[README ConnectTEF](../README.md) | [Índice da Seção](README.md) | [Anterior](05-POR-QUE-WHITE-LABEL.md) | [Proximo](07-POR-QUE-MIGRAR-DO-INTPOS.md)
+[README ConnectTEF](../README.md) | [Índice da Seção](README.md) | [Anterior](05-POR-QUE-WHITE-LABEL.md) | [Próximo](07-POR-QUE-MIGRAR-DO-INTPOS.md)
 ---
-> **Caminho:** [Inicio](../README.md) / Por que ConnectTEF / Por que Migrar do Sitef
+> **Caminho:** [Início](../README.md) / Por que ConnectTEF / Por que Migrar do Sitef
 <!-- NAVIGATION:END -->
 
 # 06 - Por que migrar do SiTef?
@@ -157,10 +157,10 @@ O ConnectTEF reduz a complexidade técnica, protege a software house e transform
 
 <!-- NAVIGATION_FOOTER:START -->
 ---
-### Veja tambem
+### Veja também
 - [README ConnectTEF](../README.md)
 - [Índice da Seção](README.md)
 - [Por que Migrar do INTPOS](07-POR-QUE-MIGRAR-DO-INTPOS.md)
 ---
-**Navegacao:** [Anterior](05-POR-QUE-WHITE-LABEL.md) | [Inicio](../README.md) | [Proximo](07-POR-QUE-MIGRAR-DO-INTPOS.md)
+**Navegação:** [Anterior](05-POR-QUE-WHITE-LABEL.md) | [Início](../README.md) | [Próximo](07-POR-QUE-MIGRAR-DO-INTPOS.md)
 <!-- NAVIGATION_FOOTER:END -->

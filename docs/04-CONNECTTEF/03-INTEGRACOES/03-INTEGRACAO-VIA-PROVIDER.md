@@ -1,8 +1,8 @@
 ﻿<!-- NAVIGATION:START -->
 ---
-[README ConnectTEF](../README.md) | [Índice da Seção](README.md) | [Anterior](02-INTEGRACAO-VIA-API-LOCAL.md) | [Proximo](04-INTEGRACAO-VIA-INTENT.md)
+[README ConnectTEF](../README.md) | [Índice da Seção](README.md) | [Anterior](02-INTEGRACAO-VIA-API-LOCAL.md) | [Próximo](04-INTEGRACAO-VIA-INTENT.md)
 ---
-> **Caminho:** [Inicio](../README.md) / Integracoes / Integracao via Provider
+> **Caminho:** [Início](../README.md) / Integrações / Integracao via Provider
 <!-- NAVIGATION:END -->
 
 # 03 - Integração via Provider
@@ -179,10 +179,10 @@ O próximo capítulo apresenta a integração utilizando **Intent**, outro mecan
 
 <!-- NAVIGATION_FOOTER:START -->
 ---
-### Veja tambem
+### Veja também
 - [README ConnectTEF](../README.md)
 - [Índice da Seção](README.md)
 - [Integracao via Intent](04-INTEGRACAO-VIA-INTENT.md)
 ---
-**Navegacao:** [Anterior](02-INTEGRACAO-VIA-API-LOCAL.md) | [Inicio](../README.md) | [Proximo](04-INTEGRACAO-VIA-INTENT.md)
+**Navegação:** [Anterior](02-INTEGRACAO-VIA-API-LOCAL.md) | [Início](../README.md) | [Próximo](04-INTEGRACAO-VIA-INTENT.md)
 <!-- NAVIGATION_FOOTER:END -->

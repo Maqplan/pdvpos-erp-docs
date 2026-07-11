@@ -1,8 +1,8 @@
 ﻿<!-- NAVIGATION:START -->
 ---
-[README ConnectTEF](../README.md) | [Índice da Seção](README.md) | [Anterior](01-POR-QUE-UMA-UNICA-INTEGRACAO.md) | [Proximo](03-POR-QUE-API-REST.md)
+[README ConnectTEF](../README.md) | [Índice da Seção](README.md) | [Anterior](01-POR-QUE-UMA-UNICA-INTEGRACAO.md) | [Próximo](03-POR-QUE-API-REST.md)
 ---
-> **Caminho:** [Inicio](../README.md) / Por que ConnectTEF / Por que SmartPOS
+> **Caminho:** [Início](../README.md) / Por que ConnectTEF / Por que SmartPOS
 <!-- NAVIGATION:END -->
 
 # 02 - Por que SmartPOS?
@@ -223,10 +223,10 @@ Com o ConnectTEF, essa transformação ocorre através de uma única integraçã
 
 <!-- NAVIGATION_FOOTER:START -->
 ---
-### Veja tambem
+### Veja também
 - [README ConnectTEF](../README.md)
 - [Índice da Seção](README.md)
 - [Por que API Rest](03-POR-QUE-API-REST.md)
 ---
-**Navegacao:** [Anterior](01-POR-QUE-UMA-UNICA-INTEGRACAO.md) | [Inicio](../README.md) | [Proximo](03-POR-QUE-API-REST.md)
+**Navegação:** [Anterior](01-POR-QUE-UMA-UNICA-INTEGRACAO.md) | [Início](../README.md) | [Próximo](03-POR-QUE-API-REST.md)
 <!-- NAVIGATION_FOOTER:END -->

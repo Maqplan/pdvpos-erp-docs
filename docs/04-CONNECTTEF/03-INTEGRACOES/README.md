@@ -1,8 +1,8 @@
 ﻿<!-- NAVIGATION:START -->
 ---
-[README ConnectTEF](../README.md) | [Índice da Seção](README.md) | [Anterior](../02-ARQUITETURA/09-SEGURANCA.md) | [Proximo](00-VISAO-GERAL.md)
+[README ConnectTEF](../README.md) | [Índice da Seção](README.md) | [Anterior](../02-ARQUITETURA/09-SEGURANCA.md) | [Próximo](00-VISAO-GERAL.md)
 ---
-> **Caminho:** [Inicio](../README.md) / Integracoes / README
+> **Caminho:** [Início](../README.md) / Integrações / README
 <!-- NAVIGATION:END -->
 
 # 03 - Integrações
@@ -212,10 +212,10 @@ Seja através de APIs modernas, bibliotecas nativas, mecanismos Android ou camad
 
 <!-- NAVIGATION_FOOTER:START -->
 ---
-### Veja tambem
+### Veja também
 - [README ConnectTEF](../README.md)
 - [Índice da Seção](README.md)
 - [Visao Geral](00-VISAO-GERAL.md)
 ---
-**Navegacao:** [Anterior](../02-ARQUITETURA/09-SEGURANCA.md) | [Inicio](../README.md) | [Proximo](00-VISAO-GERAL.md)
+**Navegação:** [Anterior](../02-ARQUITETURA/09-SEGURANCA.md) | [Início](../README.md) | [Próximo](00-VISAO-GERAL.md)
 <!-- NAVIGATION_FOOTER:END -->

@@ -1,8 +1,8 @@
 ﻿<!-- NAVIGATION:START -->
 ---
-[README ConnectTEF](../README.md) | [Índice da Seção](README.md) | [Anterior](08-EVENTOS.md) | [Proximo](../03-INTEGRACOES/README.md)
+[README ConnectTEF](../README.md) | [Índice da Seção](README.md) | [Anterior](08-EVENTOS.md) | [Próximo](../03-INTEGRACOES/README.md)
 ---
-> **Caminho:** [Inicio](../README.md) / Arquitetura / Seguranca
+> **Caminho:** [Início](../README.md) / Arquitetura / Seguranca
 <!-- NAVIGATION:END -->
 
 # Seguran�a da Plataforma
@@ -266,10 +266,10 @@ Agora que voc� conhece a arquitetura da plataforma, prossiga para a se��o 
 
 <!-- NAVIGATION_FOOTER:START -->
 ---
-### Veja tambem
+### Veja também
 - [README ConnectTEF](../README.md)
 - [Índice da Seção](README.md)
 - [README](../03-INTEGRACOES/README.md)
 ---
-**Navegacao:** [Anterior](08-EVENTOS.md) | [Inicio](../README.md) | [Proximo](../03-INTEGRACOES/README.md)
+**Navegação:** [Anterior](08-EVENTOS.md) | [Início](../README.md) | [Próximo](../03-INTEGRACOES/README.md)
 <!-- NAVIGATION_FOOTER:END -->

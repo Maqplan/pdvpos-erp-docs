@@ -1,8 +1,8 @@
 ﻿<!-- NAVIGATION:START -->
 ---
-[README ConnectTEF](../README.md) | [Índice da Seção](README.md) | [Anterior](04-POR-QUE-OFFLINE.md) | [Proximo](06-POR-QUE-MIGRAR-DO-SITEF.md)
+[README ConnectTEF](../README.md) | [Índice da Seção](README.md) | [Anterior](04-POR-QUE-OFFLINE.md) | [Próximo](06-POR-QUE-MIGRAR-DO-SITEF.md)
 ---
-> **Caminho:** [Inicio](../README.md) / Por que ConnectTEF / Por que White Label
+> **Caminho:** [Início](../README.md) / Por que ConnectTEF / Por que White Label
 <!-- NAVIGATION:END -->
 
 # 05 - Por que White Label?
@@ -208,10 +208,10 @@ Enquanto o ConnectTEF cuida da evolução tecnológica, integrações e compatib
 
 <!-- NAVIGATION_FOOTER:START -->
 ---
-### Veja tambem
+### Veja também
 - [README ConnectTEF](../README.md)
 - [Índice da Seção](README.md)
 - [Por que Migrar do Sitef](06-POR-QUE-MIGRAR-DO-SITEF.md)
 ---
-**Navegacao:** [Anterior](04-POR-QUE-OFFLINE.md) | [Inicio](../README.md) | [Proximo](06-POR-QUE-MIGRAR-DO-SITEF.md)
+**Navegação:** [Anterior](04-POR-QUE-OFFLINE.md) | [Início](../README.md) | [Próximo](06-POR-QUE-MIGRAR-DO-SITEF.md)
 <!-- NAVIGATION_FOOTER:END -->

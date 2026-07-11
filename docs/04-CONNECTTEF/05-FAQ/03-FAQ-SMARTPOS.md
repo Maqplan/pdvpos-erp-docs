@@ -1,8 +1,8 @@
 ﻿<!-- NAVIGATION:START -->
 ---
-[README ConnectTEF](../README.md) | [Índice da Seção](README.md) | [Anterior](02-FAQ-INTEGRADORES.md) | [Proximo](04-FAQ-WHITE-LABEL.md)
+[README ConnectTEF](../README.md) | [Índice da Seção](README.md) | [Anterior](02-FAQ-INTEGRADORES.md) | [Próximo](04-FAQ-WHITE-LABEL.md)
 ---
-> **Caminho:** [Inicio](../README.md) / FAQ / FAQ SmartPOS
+> **Caminho:** [Início](../README.md) / FAQ / FAQ SmartPOS
 <!-- NAVIGATION:END -->
 
 # 03 - FAQ SmartPOS
@@ -227,10 +227,10 @@ O próximo capítulo responde às dúvidas mais frequentes relacionadas aos paga
 
 <!-- NAVIGATION_FOOTER:START -->
 ---
-### Veja tambem
+### Veja também
 - [README ConnectTEF](../README.md)
 - [Índice da Seção](README.md)
 - [FAQ White Label](04-FAQ-WHITE-LABEL.md)
 ---
-**Navegacao:** [Anterior](02-FAQ-INTEGRADORES.md) | [Inicio](../README.md) | [Proximo](04-FAQ-WHITE-LABEL.md)
+**Navegação:** [Anterior](02-FAQ-INTEGRADORES.md) | [Início](../README.md) | [Próximo](04-FAQ-WHITE-LABEL.md)
 <!-- NAVIGATION_FOOTER:END -->

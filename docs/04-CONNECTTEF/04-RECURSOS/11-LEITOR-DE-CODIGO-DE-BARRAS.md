@@ -1,18 +1,18 @@
 ﻿<!-- NAVIGATION:START -->
 ---
-[README ConnectTEF](../README.md) | [Índice da Seção](README.md) | [Anterior](10-PESQUISA-NPS.md) | [Proximo](12-IMPRESSAO.md)
+[README ConnectTEF](../README.md) | [Índice da Seção](README.md) | [Anterior](10-PESQUISA-NPS.md) | [Próximo](12-IMPRESSAO.md)
 ---
-> **Caminho:** [Inicio](../README.md) / Recursos / Leitor de Codigo de Barras
+> **Caminho:** [Início](../README.md) / Recursos / Leitor de Codigo de Barras
 <!-- NAVIGATION:END -->
 
 
 
 <!-- NAVIGATION_FOOTER:START -->
 ---
-### Veja tambem
+### Veja também
 - [README ConnectTEF](../README.md)
 - [Índice da Seção](README.md)
 - [Impressao](12-IMPRESSAO.md)
 ---
-**Navegacao:** [Anterior](10-PESQUISA-NPS.md) | [Inicio](../README.md) | [Proximo](12-IMPRESSAO.md)
+**Navegação:** [Anterior](10-PESQUISA-NPS.md) | [Início](../README.md) | [Próximo](12-IMPRESSAO.md)
 <!-- NAVIGATION_FOOTER:END -->

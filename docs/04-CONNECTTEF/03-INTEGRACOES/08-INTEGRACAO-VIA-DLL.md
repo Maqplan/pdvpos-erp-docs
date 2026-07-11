@@ -1,8 +1,8 @@
 ﻿<!-- NAVIGATION:START -->
 ---
-[README ConnectTEF](../README.md) | [Índice da Seção](README.md) | [Anterior](07-INTEGRACAO-VIA-ELGIN.md) | [Proximo](09-INTEGRACAO-DESKTOP.md)
+[README ConnectTEF](../README.md) | [Índice da Seção](README.md) | [Anterior](07-INTEGRACAO-VIA-ELGIN.md) | [Próximo](09-INTEGRACAO-DESKTOP.md)
 ---
-> **Caminho:** [Inicio](../README.md) / Integracoes / Integracao via Dll
+> **Caminho:** [Início](../README.md) / Integrações / Integracao via Dll
 <!-- NAVIGATION:END -->
 
 # 08 - Integração via Windows DLL
@@ -180,10 +180,10 @@ No próximo capítulo serão apresentadas as recomendações para integração d
 
 <!-- NAVIGATION_FOOTER:START -->
 ---
-### Veja tambem
+### Veja também
 - [README ConnectTEF](../README.md)
 - [Índice da Seção](README.md)
 - [Integracao Desktop](09-INTEGRACAO-DESKTOP.md)
 ---
-**Navegacao:** [Anterior](07-INTEGRACAO-VIA-ELGIN.md) | [Inicio](../README.md) | [Proximo](09-INTEGRACAO-DESKTOP.md)
+**Navegação:** [Anterior](07-INTEGRACAO-VIA-ELGIN.md) | [Início](../README.md) | [Próximo](09-INTEGRACAO-DESKTOP.md)
 <!-- NAVIGATION_FOOTER:END -->

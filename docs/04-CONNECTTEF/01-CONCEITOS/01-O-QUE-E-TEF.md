@@ -1,8 +1,8 @@
 ﻿<!-- NAVIGATION:START -->
 ---
-[README ConnectTEF](../README.md) | [Índice da Seção](README.md) | [Anterior](README.md) | [Proximo](02-O-QUE-E-SMARTPOS.md)
+[README ConnectTEF](../README.md) | [Índice da Seção](README.md) | [Anterior](README.md) | [Próximo](02-O-QUE-E-SMARTPOS.md)
 ---
-> **Caminho:** [Inicio](../README.md) / Conceitos / O que e TEF
+> **Caminho:** [Início](../README.md) / Conceitos / O que e TEF
 <!-- NAVIGATION:END -->
 
 # O que � TEF?
@@ -258,10 +258,10 @@ Agora que compreendemos o conceito de TEF, conheceremos o principal equipamento 
 
 <!-- NAVIGATION_FOOTER:START -->
 ---
-### Veja tambem
+### Veja também
 - [README ConnectTEF](../README.md)
 - [Índice da Seção](README.md)
 - [O que e SmartPOS](02-O-QUE-E-SMARTPOS.md)
 ---
-**Navegacao:** [Anterior](README.md) | [Inicio](../README.md) | [Proximo](02-O-QUE-E-SMARTPOS.md)
+**Navegação:** [Anterior](README.md) | [Início](../README.md) | [Próximo](02-O-QUE-E-SMARTPOS.md)
 <!-- NAVIGATION_FOOTER:END -->

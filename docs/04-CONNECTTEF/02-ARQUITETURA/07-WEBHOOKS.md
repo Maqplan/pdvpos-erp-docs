@@ -1,8 +1,8 @@
 ﻿<!-- NAVIGATION:START -->
 ---
-[README ConnectTEF](../README.md) | [Índice da Seção](README.md) | [Anterior](06-AUTENTICACAO.md) | [Proximo](08-EVENTOS.md)
+[README ConnectTEF](../README.md) | [Índice da Seção](README.md) | [Anterior](06-AUTENTICACAO.md) | [Próximo](08-EVENTOS.md)
 ---
-> **Caminho:** [Inicio](../README.md) / Arquitetura / Webhooks
+> **Caminho:** [Início](../README.md) / Arquitetura / Webhooks
 <!-- NAVIGATION:END -->
 
 # Webhooks
@@ -240,10 +240,10 @@ Agora conheceremos como a arquitetura do ConnectTEF foi projetada para crescer c
 
 <!-- NAVIGATION_FOOTER:START -->
 ---
-### Veja tambem
+### Veja também
 - [README ConnectTEF](../README.md)
 - [Índice da Seção](README.md)
 - [Eventos](08-EVENTOS.md)
 ---
-**Navegacao:** [Anterior](06-AUTENTICACAO.md) | [Inicio](../README.md) | [Proximo](08-EVENTOS.md)
+**Navegação:** [Anterior](06-AUTENTICACAO.md) | [Início](../README.md) | [Próximo](08-EVENTOS.md)
 <!-- NAVIGATION_FOOTER:END -->

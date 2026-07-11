@@ -1,8 +1,8 @@
 ﻿<!-- NAVIGATION:START -->
 ---
-[README ConnectTEF](../README.md) | [Índice da Seção](README.md) | [Anterior](02-O-QUE-E-SMARTPOS.md) | [Proximo](04-O-QUE-E-FACILITADORA.md)
+[README ConnectTEF](../README.md) | [Índice da Seção](README.md) | [Anterior](02-O-QUE-E-SMARTPOS.md) | [Próximo](04-O-QUE-E-FACILITADORA.md)
 ---
-> **Caminho:** [Inicio](../README.md) / Conceitos / O que e Adquirente
+> **Caminho:** [Início](../README.md) / Conceitos / O que e Adquirente
 <!-- NAVIGATION:END -->
 
 # O que é uma Adquirente?
@@ -209,10 +209,10 @@ Agora conheceremos o conceito de **Facilitadora**, responsável por oferecer sol
 
 <!-- NAVIGATION_FOOTER:START -->
 ---
-### Veja tambem
+### Veja também
 - [README ConnectTEF](../README.md)
 - [Índice da Seção](README.md)
 - [O que e Facilitadora](04-O-QUE-E-FACILITADORA.md)
 ---
-**Navegacao:** [Anterior](02-O-QUE-E-SMARTPOS.md) | [Inicio](../README.md) | [Proximo](04-O-QUE-E-FACILITADORA.md)
+**Navegação:** [Anterior](02-O-QUE-E-SMARTPOS.md) | [Início](../README.md) | [Próximo](04-O-QUE-E-FACILITADORA.md)
 <!-- NAVIGATION_FOOTER:END -->

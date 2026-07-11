@@ -1,8 +1,8 @@
 ﻿<!-- NAVIGATION:START -->
 ---
-[README ConnectTEF](../README.md) | [Índice da Seção](README.md) | [Anterior](03-INTEGRACAO-VIA-PROVIDER.md) | [Proximo](05-INTEGRACAO-VIA-INTPOS.md)
+[README ConnectTEF](../README.md) | [Índice da Seção](README.md) | [Anterior](03-INTEGRACAO-VIA-PROVIDER.md) | [Próximo](05-INTEGRACAO-VIA-INTPOS.md)
 ---
-> **Caminho:** [Inicio](../README.md) / Integracoes / Integracao via Intent
+> **Caminho:** [Início](../README.md) / Integrações / Integracao via Intent
 <!-- NAVIGATION:END -->
 
 # 04 - Integração via Intent
@@ -205,10 +205,10 @@ O próximo capítulo apresenta a integração utilizando **Windows DLL**, destin
 
 <!-- NAVIGATION_FOOTER:START -->
 ---
-### Veja tambem
+### Veja também
 - [README ConnectTEF](../README.md)
 - [Índice da Seção](README.md)
 - [Integracao via INTPOS](05-INTEGRACAO-VIA-INTPOS.md)
 ---
-**Navegacao:** [Anterior](03-INTEGRACAO-VIA-PROVIDER.md) | [Inicio](../README.md) | [Proximo](05-INTEGRACAO-VIA-INTPOS.md)
+**Navegação:** [Anterior](03-INTEGRACAO-VIA-PROVIDER.md) | [Início](../README.md) | [Próximo](05-INTEGRACAO-VIA-INTPOS.md)
 <!-- NAVIGATION_FOOTER:END -->

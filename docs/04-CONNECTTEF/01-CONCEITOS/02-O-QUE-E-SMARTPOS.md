@@ -1,8 +1,8 @@
 ﻿<!-- NAVIGATION:START -->
 ---
-[README ConnectTEF](../README.md) | [Índice da Seção](README.md) | [Anterior](01-O-QUE-E-TEF.md) | [Proximo](03-O-QUE-E-ADQUIRENTE.md)
+[README ConnectTEF](../README.md) | [Índice da Seção](README.md) | [Anterior](01-O-QUE-E-TEF.md) | [Próximo](03-O-QUE-E-ADQUIRENTE.md)
 ---
-> **Caminho:** [Inicio](../README.md) / Conceitos / O que e SmartPOS
+> **Caminho:** [Início](../README.md) / Conceitos / O que e SmartPOS
 <!-- NAVIGATION:END -->
 
 # O que é SmartPOS?
@@ -222,10 +222,10 @@ Agora conheceremos outro componente fundamental do ecossistema de pagamentos: a 
 
 <!-- NAVIGATION_FOOTER:START -->
 ---
-### Veja tambem
+### Veja também
 - [README ConnectTEF](../README.md)
 - [Índice da Seção](README.md)
 - [O que e Adquirente](03-O-QUE-E-ADQUIRENTE.md)
 ---
-**Navegacao:** [Anterior](01-O-QUE-E-TEF.md) | [Inicio](../README.md) | [Proximo](03-O-QUE-E-ADQUIRENTE.md)
+**Navegação:** [Anterior](01-O-QUE-E-TEF.md) | [Início](../README.md) | [Próximo](03-O-QUE-E-ADQUIRENTE.md)
 <!-- NAVIGATION_FOOTER:END -->

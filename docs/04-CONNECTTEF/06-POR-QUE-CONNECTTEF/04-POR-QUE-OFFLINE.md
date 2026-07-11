@@ -1,8 +1,8 @@
 ﻿<!-- NAVIGATION:START -->
 ---
-[README ConnectTEF](../README.md) | [Índice da Seção](README.md) | [Anterior](03-POR-QUE-API-REST.md) | [Proximo](05-POR-QUE-WHITE-LABEL.md)
+[README ConnectTEF](../README.md) | [Índice da Seção](README.md) | [Anterior](03-POR-QUE-API-REST.md) | [Próximo](05-POR-QUE-WHITE-LABEL.md)
 ---
-> **Caminho:** [Inicio](../README.md) / Por que ConnectTEF / Por que Offline
+> **Caminho:** [Início](../README.md) / Por que ConnectTEF / Por que Offline
 <!-- NAVIGATION:END -->
 
 # 04 - Por que Offline?
@@ -127,10 +127,10 @@ Ao reduzir a dependência da conectividade entre a aplicação comercial e a pla
 
 <!-- NAVIGATION_FOOTER:START -->
 ---
-### Veja tambem
+### Veja também
 - [README ConnectTEF](../README.md)
 - [Índice da Seção](README.md)
 - [Por que White Label](05-POR-QUE-WHITE-LABEL.md)
 ---
-**Navegacao:** [Anterior](03-POR-QUE-API-REST.md) | [Inicio](../README.md) | [Proximo](05-POR-QUE-WHITE-LABEL.md)
+**Navegação:** [Anterior](03-POR-QUE-API-REST.md) | [Início](../README.md) | [Próximo](05-POR-QUE-WHITE-LABEL.md)
 <!-- NAVIGATION_FOOTER:END -->

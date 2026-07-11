@@ -1,18 +1,18 @@
 ﻿<!-- NAVIGATION:START -->
 ---
-[README ConnectTEF](../README.md) | [Índice da Seção](README.md) | [Anterior](08-CAPTURA-DE-E-MAIL.md) | [Proximo](10-PESQUISA-NPS.md)
+[README ConnectTEF](../README.md) | [Índice da Seção](README.md) | [Anterior](08-CAPTURA-DE-E-MAIL.md) | [Próximo](10-PESQUISA-NPS.md)
 ---
-> **Caminho:** [Inicio](../README.md) / Recursos / Captura de Telefone
+> **Caminho:** [Início](../README.md) / Recursos / Captura de Telefone
 <!-- NAVIGATION:END -->
 
 
 
 <!-- NAVIGATION_FOOTER:START -->
 ---
-### Veja tambem
+### Veja também
 - [README ConnectTEF](../README.md)
 - [Índice da Seção](README.md)
 - [Pesquisa NPS](10-PESQUISA-NPS.md)
 ---
-**Navegacao:** [Anterior](08-CAPTURA-DE-E-MAIL.md) | [Inicio](../README.md) | [Proximo](10-PESQUISA-NPS.md)
+**Navegação:** [Anterior](08-CAPTURA-DE-E-MAIL.md) | [Início](../README.md) | [Próximo](10-PESQUISA-NPS.md)
 <!-- NAVIGATION_FOOTER:END -->

@@ -1,8 +1,8 @@
 ﻿<!-- NAVIGATION:START -->
 ---
-[README ConnectTEF](../README.md) | [Índice da Seção](README.md) | [Anterior](05-FLUXO-OFFLINE.md) | [Proximo](07-WEBHOOKS.md)
+[README ConnectTEF](../README.md) | [Índice da Seção](README.md) | [Anterior](05-FLUXO-OFFLINE.md) | [Próximo](07-WEBHOOKS.md)
 ---
-> **Caminho:** [Inicio](../README.md) / Arquitetura / Autenticacao
+> **Caminho:** [Início](../README.md) / Arquitetura / Autenticacao
 <!-- NAVIGATION:END -->
 
 # Autenticação
@@ -243,10 +243,10 @@ No próximo capítulo conheceremos a arquitetura de segurança do ConnectTEF e o
 
 <!-- NAVIGATION_FOOTER:START -->
 ---
-### Veja tambem
+### Veja também
 - [README ConnectTEF](../README.md)
 - [Índice da Seção](README.md)
 - [Webhooks](07-WEBHOOKS.md)
 ---
-**Navegacao:** [Anterior](05-FLUXO-OFFLINE.md) | [Inicio](../README.md) | [Proximo](07-WEBHOOKS.md)
+**Navegação:** [Anterior](05-FLUXO-OFFLINE.md) | [Início](../README.md) | [Próximo](07-WEBHOOKS.md)
 <!-- NAVIGATION_FOOTER:END -->

@@ -1,8 +1,8 @@
 ﻿<!-- NAVIGATION:START -->
 ---
-[README ConnectTEF](../README.md) | [Índice da Seção](README.md) | [Anterior](07-O-QUE-E-SITEF.md) | [Proximo](09-O-QUE-E-INTENT.md)
+[README ConnectTEF](../README.md) | [Índice da Seção](README.md) | [Anterior](07-O-QUE-E-SITEF.md) | [Próximo](09-O-QUE-E-INTENT.md)
 ---
-> **Caminho:** [Inicio](../README.md) / Conceitos / O que e Provider
+> **Caminho:** [Início](../README.md) / Conceitos / O que e Provider
 <!-- NAVIGATION:END -->
 
 # O que � o Provider Android?
@@ -178,10 +178,10 @@ Agora conheceremos o **Android Intent**, outro mecanismo de comunica��o supo
 
 <!-- NAVIGATION_FOOTER:START -->
 ---
-### Veja tambem
+### Veja também
 - [README ConnectTEF](../README.md)
 - [Índice da Seção](README.md)
 - [O que e Intent](09-O-QUE-E-INTENT.md)
 ---
-**Navegacao:** [Anterior](07-O-QUE-E-SITEF.md) | [Inicio](../README.md) | [Proximo](09-O-QUE-E-INTENT.md)
+**Navegação:** [Anterior](07-O-QUE-E-SITEF.md) | [Início](../README.md) | [Próximo](09-O-QUE-E-INTENT.md)
 <!-- NAVIGATION_FOOTER:END -->

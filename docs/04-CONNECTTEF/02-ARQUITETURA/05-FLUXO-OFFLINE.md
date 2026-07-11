@@ -1,8 +1,8 @@
 ﻿<!-- NAVIGATION:START -->
 ---
-[README ConnectTEF](../README.md) | [Índice da Seção](README.md) | [Anterior](04-FLUXO-DE-COMUNICACAO.md) | [Proximo](06-AUTENTICACAO.md)
+[README ConnectTEF](../README.md) | [Índice da Seção](README.md) | [Anterior](04-FLUXO-DE-COMUNICACAO.md) | [Próximo](06-AUTENTICACAO.md)
 ---
-> **Caminho:** [Inicio](../README.md) / Arquitetura / Fluxo Offline
+> **Caminho:** [Início](../README.md) / Arquitetura / Fluxo Offline
 <!-- NAVIGATION:END -->
 
 # Arquitetura de Operação Offline
@@ -261,10 +261,10 @@ Agora conheceremos como a arquitetura do ConnectTEF foi projetada para escalar, 
 
 <!-- NAVIGATION_FOOTER:START -->
 ---
-### Veja tambem
+### Veja também
 - [README ConnectTEF](../README.md)
 - [Índice da Seção](README.md)
 - [Autenticacao](06-AUTENTICACAO.md)
 ---
-**Navegacao:** [Anterior](04-FLUXO-DE-COMUNICACAO.md) | [Inicio](../README.md) | [Proximo](06-AUTENTICACAO.md)
+**Navegação:** [Anterior](04-FLUXO-DE-COMUNICACAO.md) | [Início](../README.md) | [Próximo](06-AUTENTICACAO.md)
 <!-- NAVIGATION_FOOTER:END -->

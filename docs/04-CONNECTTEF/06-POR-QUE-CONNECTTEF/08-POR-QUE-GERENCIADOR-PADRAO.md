@@ -1,8 +1,8 @@
 ﻿<!-- NAVIGATION:START -->
 ---
-[README ConnectTEF](../README.md) | [Índice da Seção](README.md) | [Anterior](07-POR-QUE-MIGRAR-DO-INTPOS.md) | [Proximo](09-POR-QUE-CONNECTTEF.md)
+[README ConnectTEF](../README.md) | [Índice da Seção](README.md) | [Anterior](07-POR-QUE-MIGRAR-DO-INTPOS.md) | [Próximo](09-POR-QUE-CONNECTTEF.md)
 ---
-> **Caminho:** [Inicio](../README.md) / Por que ConnectTEF / Por que Gerenciador Padrao
+> **Caminho:** [Início](../README.md) / Por que ConnectTEF / Por que Gerenciador Padrao
 <!-- NAVIGATION:END -->
 
 # 08 - Por que Gerenciador Padrão?
@@ -176,10 +176,10 @@ Mais do que uma integração, o ConnectTEF estabelece uma arquitetura sustentáv
 
 <!-- NAVIGATION_FOOTER:START -->
 ---
-### Veja tambem
+### Veja também
 - [README ConnectTEF](../README.md)
 - [Índice da Seção](README.md)
 - [Por que ConnectTEF](09-POR-QUE-CONNECTTEF.md)
 ---
-**Navegacao:** [Anterior](07-POR-QUE-MIGRAR-DO-INTPOS.md) | [Inicio](../README.md) | [Proximo](09-POR-QUE-CONNECTTEF.md)
+**Navegação:** [Anterior](07-POR-QUE-MIGRAR-DO-INTPOS.md) | [Início](../README.md) | [Próximo](09-POR-QUE-CONNECTTEF.md)
 <!-- NAVIGATION_FOOTER:END -->

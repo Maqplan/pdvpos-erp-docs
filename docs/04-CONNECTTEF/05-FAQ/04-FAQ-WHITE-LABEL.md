@@ -1,8 +1,8 @@
 ﻿<!-- NAVIGATION:START -->
 ---
-[README ConnectTEF](../README.md) | [Índice da Seção](README.md) | [Anterior](03-FAQ-SMARTPOS.md) | [Proximo](05-FAQ-OPERACIONAL.md)
+[README ConnectTEF](../README.md) | [Índice da Seção](README.md) | [Anterior](03-FAQ-SMARTPOS.md) | [Próximo](05-FAQ-OPERACIONAL.md)
 ---
-> **Caminho:** [Inicio](../README.md) / FAQ / FAQ White Label
+> **Caminho:** [Início](../README.md) / FAQ / FAQ White Label
 <!-- NAVIGATION:END -->
 
 # 04 - FAQ White Label
@@ -228,10 +228,10 @@ O próximo capítulo apresenta as dúvidas mais frequentes relacionadas aos paga
 
 <!-- NAVIGATION_FOOTER:START -->
 ---
-### Veja tambem
+### Veja também
 - [README ConnectTEF](../README.md)
 - [Índice da Seção](README.md)
 - [FAQ Operacional](05-FAQ-OPERACIONAL.md)
 ---
-**Navegacao:** [Anterior](03-FAQ-SMARTPOS.md) | [Inicio](../README.md) | [Proximo](05-FAQ-OPERACIONAL.md)
+**Navegação:** [Anterior](03-FAQ-SMARTPOS.md) | [Início](../README.md) | [Próximo](05-FAQ-OPERACIONAL.md)
 <!-- NAVIGATION_FOOTER:END -->

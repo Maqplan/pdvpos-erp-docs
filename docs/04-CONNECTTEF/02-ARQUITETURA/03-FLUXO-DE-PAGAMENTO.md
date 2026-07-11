@@ -1,8 +1,8 @@
 ﻿<!-- NAVIGATION:START -->
 ---
-[README ConnectTEF](../README.md) | [Índice da Seção](README.md) | [Anterior](02-COMPONENTES.md) | [Proximo](04-FLUXO-DE-COMUNICACAO.md)
+[README ConnectTEF](../README.md) | [Índice da Seção](README.md) | [Anterior](02-COMPONENTES.md) | [Próximo](04-FLUXO-DE-COMUNICACAO.md)
 ---
-> **Caminho:** [Inicio](../README.md) / Arquitetura / Fluxo de Pagamento
+> **Caminho:** [Início](../README.md) / Arquitetura / Fluxo de Pagamento
 <!-- NAVIGATION:END -->
 
 # Fluxo de Processamento de uma Transação
@@ -335,10 +335,10 @@ Agora conheceremos como a plataforma está organizada internamente em camadas ar
 
 <!-- NAVIGATION_FOOTER:START -->
 ---
-### Veja tambem
+### Veja também
 - [README ConnectTEF](../README.md)
 - [Índice da Seção](README.md)
 - [Fluxo de Comunicacao](04-FLUXO-DE-COMUNICACAO.md)
 ---
-**Navegacao:** [Anterior](02-COMPONENTES.md) | [Inicio](../README.md) | [Proximo](04-FLUXO-DE-COMUNICACAO.md)
+**Navegação:** [Anterior](02-COMPONENTES.md) | [Início](../README.md) | [Próximo](04-FLUXO-DE-COMUNICACAO.md)
 <!-- NAVIGATION_FOOTER:END -->

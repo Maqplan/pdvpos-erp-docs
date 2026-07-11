@@ -1,8 +1,8 @@
 ﻿<!-- NAVIGATION:START -->
 ---
-[README ConnectTEF](../README.md) | [Índice da Seção](README.md) | [Anterior](01-O-QUE-E-O-CONNECTTEF.md) | [Proximo](03-COMO-FUNCIONA.md)
+[README ConnectTEF](../README.md) | [Índice da Seção](README.md) | [Anterior](01-O-QUE-E-O-CONNECTTEF.md) | [Próximo](03-COMO-FUNCIONA.md)
 ---
-> **Caminho:** [Inicio](../README.md) / Introducao / Por que ConnectTEF
+> **Caminho:** [Início](../README.md) / Introdução / Por que ConnectTEF
 <!-- NAVIGATION:END -->
 
 # Por que utilizar o ConnectTEF?
@@ -242,10 +242,10 @@ Agora que entendemos por que o ConnectTEF existe, veremos como a plataforma func
 
 <!-- NAVIGATION_FOOTER:START -->
 ---
-### Veja tambem
+### Veja também
 - [README ConnectTEF](../README.md)
 - [Índice da Seção](README.md)
 - [Como Funciona](03-COMO-FUNCIONA.md)
 ---
-**Navegacao:** [Anterior](01-O-QUE-E-O-CONNECTTEF.md) | [Inicio](../README.md) | [Proximo](03-COMO-FUNCIONA.md)
+**Navegação:** [Anterior](01-O-QUE-E-O-CONNECTTEF.md) | [Início](../README.md) | [Próximo](03-COMO-FUNCIONA.md)
 <!-- NAVIGATION_FOOTER:END -->

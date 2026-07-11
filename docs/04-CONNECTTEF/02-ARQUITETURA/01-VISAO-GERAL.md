@@ -1,8 +1,8 @@
 ﻿<!-- NAVIGATION:START -->
 ---
-[README ConnectTEF](../README.md) | [Índice da Seção](README.md) | [Anterior](README.md) | [Proximo](02-COMPONENTES.md)
+[README ConnectTEF](../README.md) | [Índice da Seção](README.md) | [Anterior](README.md) | [Próximo](02-COMPONENTES.md)
 ---
-> **Caminho:** [Inicio](../README.md) / Arquitetura / Visao Geral
+> **Caminho:** [Início](../README.md) / Arquitetura / Visao Geral
 <!-- NAVIGATION:END -->
 
 # Visão Geral da Arquitetura
@@ -291,10 +291,10 @@ No próximo capítulo conheceremos em detalhes cada um dos componentes que forma
 
 <!-- NAVIGATION_FOOTER:START -->
 ---
-### Veja tambem
+### Veja também
 - [README ConnectTEF](../README.md)
 - [Índice da Seção](README.md)
 - [Componentes](02-COMPONENTES.md)
 ---
-**Navegacao:** [Anterior](README.md) | [Inicio](../README.md) | [Proximo](02-COMPONENTES.md)
+**Navegação:** [Anterior](README.md) | [Início](../README.md) | [Próximo](02-COMPONENTES.md)
 <!-- NAVIGATION_FOOTER:END -->

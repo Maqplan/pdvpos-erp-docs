@@ -1,8 +1,8 @@
 ﻿<!-- NAVIGATION:START -->
 ---
-[README ConnectTEF](../README.md) | [Índice da Seção](README.md) | [Anterior](../05-FAQ/05-FAQ-OPERACIONAL.md) | [Proximo](01-POR-QUE-UMA-UNICA-INTEGRACAO.md)
+[README ConnectTEF](../README.md) | [Índice da Seção](README.md) | [Anterior](../05-FAQ/05-FAQ-OPERACIONAL.md) | [Próximo](01-POR-QUE-UMA-UNICA-INTEGRACAO.md)
 ---
-> **Caminho:** [Inicio](../README.md) / Por que ConnectTEF / README
+> **Caminho:** [Início](../README.md) / Por que ConnectTEF / README
 <!-- NAVIGATION:END -->
 
 # 06 - Por que ConnectTEF
@@ -28,10 +28,10 @@ Esta secao consolida os argumentos de valor e os motivos estrategicos para adota
 
 <!-- NAVIGATION_FOOTER:START -->
 ---
-### Veja tambem
+### Veja também
 - [README ConnectTEF](../README.md)
 - [Índice da Seção](README.md)
 - [Por que Uma Unica Integracao](01-POR-QUE-UMA-UNICA-INTEGRACAO.md)
 ---
-**Navegacao:** [Anterior](../05-FAQ/05-FAQ-OPERACIONAL.md) | [Inicio](../README.md) | [Proximo](01-POR-QUE-UMA-UNICA-INTEGRACAO.md)
+**Navegação:** [Anterior](../05-FAQ/05-FAQ-OPERACIONAL.md) | [Início](../README.md) | [Próximo](01-POR-QUE-UMA-UNICA-INTEGRACAO.md)
 <!-- NAVIGATION_FOOTER:END -->

@@ -1,8 +1,8 @@
 ﻿<!-- NAVIGATION:START -->
 ---
-[README ConnectTEF](../README.md) | [Índice da Seção](README.md) | [Anterior](06-INTEGRACAO-VIA-SITEF.md) | [Proximo](08-INTEGRACAO-VIA-DLL.md)
+[README ConnectTEF](../README.md) | [Índice da Seção](README.md) | [Anterior](06-INTEGRACAO-VIA-SITEF.md) | [Próximo](08-INTEGRACAO-VIA-DLL.md)
 ---
-> **Caminho:** [Inicio](../README.md) / Integracoes / Integracao via Elgin
+> **Caminho:** [Início](../README.md) / Integrações / Integracao via Elgin
 <!-- NAVIGATION:END -->
 
 # 07 - Integração via Elgin
@@ -192,10 +192,10 @@ O próximo capítulo apresenta a integração através de **Windows DLL**, indic
 
 <!-- NAVIGATION_FOOTER:START -->
 ---
-### Veja tambem
+### Veja também
 - [README ConnectTEF](../README.md)
 - [Índice da Seção](README.md)
 - [Integracao via Dll](08-INTEGRACAO-VIA-DLL.md)
 ---
-**Navegacao:** [Anterior](06-INTEGRACAO-VIA-SITEF.md) | [Inicio](../README.md) | [Proximo](08-INTEGRACAO-VIA-DLL.md)
+**Navegação:** [Anterior](06-INTEGRACAO-VIA-SITEF.md) | [Início](../README.md) | [Próximo](08-INTEGRACAO-VIA-DLL.md)
 <!-- NAVIGATION_FOOTER:END -->

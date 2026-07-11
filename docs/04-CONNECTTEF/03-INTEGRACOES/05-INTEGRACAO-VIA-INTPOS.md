@@ -1,8 +1,8 @@
 ﻿<!-- NAVIGATION:START -->
 ---
-[README ConnectTEF](../README.md) | [Índice da Seção](README.md) | [Anterior](04-INTEGRACAO-VIA-INTENT.md) | [Proximo](06-INTEGRACAO-VIA-SITEF.md)
+[README ConnectTEF](../README.md) | [Índice da Seção](README.md) | [Anterior](04-INTEGRACAO-VIA-INTENT.md) | [Próximo](06-INTEGRACAO-VIA-SITEF.md)
 ---
-> **Caminho:** [Inicio](../README.md) / Integracoes / Integracao via INTPOS
+> **Caminho:** [Início](../README.md) / Integrações / Integracao via INTPOS
 <!-- NAVIGATION:END -->
 
 # 05 - Integração via INTPOS
@@ -173,10 +173,10 @@ Os próximos capítulos apresentam os mecanismos de compatibilidade disponibiliz
 
 <!-- NAVIGATION_FOOTER:START -->
 ---
-### Veja tambem
+### Veja também
 - [README ConnectTEF](../README.md)
 - [Índice da Seção](README.md)
 - [Integracao via Sitef](06-INTEGRACAO-VIA-SITEF.md)
 ---
-**Navegacao:** [Anterior](04-INTEGRACAO-VIA-INTENT.md) | [Inicio](../README.md) | [Proximo](06-INTEGRACAO-VIA-SITEF.md)
+**Navegação:** [Anterior](04-INTEGRACAO-VIA-INTENT.md) | [Início](../README.md) | [Próximo](06-INTEGRACAO-VIA-SITEF.md)
 <!-- NAVIGATION_FOOTER:END -->

@@ -1,8 +1,8 @@
 ﻿<!-- NAVIGATION:START -->
 ---
-[README ConnectTEF](../README.md) | [Índice da Seção](README.md) | [Anterior](09-O-QUE-E-INTENT.md) | [Proximo](11-O-QUE-E-API-REST.md)
+[README ConnectTEF](../README.md) | [Índice da Seção](README.md) | [Anterior](09-O-QUE-E-INTENT.md) | [Próximo](11-O-QUE-E-API-REST.md)
 ---
-> **Caminho:** [Inicio](../README.md) / Conceitos / O que e API Local
+> **Caminho:** [Início](../README.md) / Conceitos / O que e API Local
 <!-- NAVIGATION:END -->
 
 # O que � a API Local?
@@ -191,10 +191,10 @@ Agora conheceremos a **API REST**, a principal interface de integra��o do Co
 
 <!-- NAVIGATION_FOOTER:START -->
 ---
-### Veja tambem
+### Veja também
 - [README ConnectTEF](../README.md)
 - [Índice da Seção](README.md)
 - [O que e API Rest](11-O-QUE-E-API-REST.md)
 ---
-**Navegacao:** [Anterior](09-O-QUE-E-INTENT.md) | [Inicio](../README.md) | [Proximo](11-O-QUE-E-API-REST.md)
+**Navegação:** [Anterior](09-O-QUE-E-INTENT.md) | [Início](../README.md) | [Próximo](11-O-QUE-E-API-REST.md)
 <!-- NAVIGATION_FOOTER:END -->

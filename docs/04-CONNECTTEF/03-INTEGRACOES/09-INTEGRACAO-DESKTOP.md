@@ -1,8 +1,8 @@
 ﻿<!-- NAVIGATION:START -->
 ---
-[README ConnectTEF](../README.md) | [Índice da Seção](README.md) | [Anterior](08-INTEGRACAO-VIA-DLL.md) | [Proximo](10-INTEGRACAO-WEB.md)
+[README ConnectTEF](../README.md) | [Índice da Seção](README.md) | [Anterior](08-INTEGRACAO-VIA-DLL.md) | [Próximo](10-INTEGRACAO-WEB.md)
 ---
-> **Caminho:** [Inicio](../README.md) / Integracoes / Integracao Desktop
+> **Caminho:** [Início](../README.md) / Integrações / Integracao Desktop
 <!-- NAVIGATION:END -->
 
 # 09 - Integração Desktop
@@ -205,10 +205,10 @@ No próximo capítulo será apresentada a integração destinada às aplicaçõe
 
 <!-- NAVIGATION_FOOTER:START -->
 ---
-### Veja tambem
+### Veja também
 - [README ConnectTEF](../README.md)
 - [Índice da Seção](README.md)
 - [Integracao Web](10-INTEGRACAO-WEB.md)
 ---
-**Navegacao:** [Anterior](08-INTEGRACAO-VIA-DLL.md) | [Inicio](../README.md) | [Proximo](10-INTEGRACAO-WEB.md)
+**Navegação:** [Anterior](08-INTEGRACAO-VIA-DLL.md) | [Início](../README.md) | [Próximo](10-INTEGRACAO-WEB.md)
 <!-- NAVIGATION_FOOTER:END -->

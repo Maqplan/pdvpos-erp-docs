@@ -1,8 +1,8 @@
 ﻿<!-- NAVIGATION:START -->
 ---
-[README ConnectTEF](../README.md) | [Índice da Seção](README.md) | [Anterior](README.md) | [Proximo](01-INTEGRACAO-VIA-API-REST.md)
+[README ConnectTEF](../README.md) | [Índice da Seção](README.md) | [Anterior](README.md) | [Próximo](01-INTEGRACAO-VIA-API-REST.md)
 ---
-> **Caminho:** [Inicio](../README.md) / Integracoes / Visao Geral
+> **Caminho:** [Início](../README.md) / Integrações / Visao Geral
 <!-- NAVIGATION:END -->
 
 # 00 - Visão Geral
@@ -167,10 +167,10 @@ Nos próximos capítulos serão apresentados em detalhes cada um dos modelos de 
 
 <!-- NAVIGATION_FOOTER:START -->
 ---
-### Veja tambem
+### Veja também
 - [README ConnectTEF](../README.md)
 - [Índice da Seção](README.md)
 - [Integracao via API Rest](01-INTEGRACAO-VIA-API-REST.md)
 ---
-**Navegacao:** [Anterior](README.md) | [Inicio](../README.md) | [Proximo](01-INTEGRACAO-VIA-API-REST.md)
+**Navegação:** [Anterior](README.md) | [Início](../README.md) | [Próximo](01-INTEGRACAO-VIA-API-REST.md)
 <!-- NAVIGATION_FOOTER:END -->

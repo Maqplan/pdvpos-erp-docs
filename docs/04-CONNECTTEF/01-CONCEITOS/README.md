@@ -1,8 +1,8 @@
 ﻿<!-- NAVIGATION:START -->
 ---
-[README ConnectTEF](../README.md) | [Índice da Seção](README.md) | [Anterior](../00-INTRODUCTION/MODULES-INDEX.md) | [Proximo](01-O-QUE-E-TEF.md)
+[README ConnectTEF](../README.md) | [Índice da Seção](README.md) | [Anterior](../00-INTRODUCTION/MODULES-INDEX.md) | [Próximo](01-O-QUE-E-TEF.md)
 ---
-> **Caminho:** [Inicio](../README.md) / Conceitos / README
+> **Caminho:** [Início](../README.md) / Conceitos / README
 <!-- NAVIGATION:END -->
 
 # Conceitos Fundamentais
@@ -228,10 +228,10 @@ Ao finalizar esta se��o, voc� ter� uma vis�o clara dos principais part
 
 <!-- NAVIGATION_FOOTER:START -->
 ---
-### Veja tambem
+### Veja também
 - [README ConnectTEF](../README.md)
 - [Índice da Seção](README.md)
 - [O que e TEF](01-O-QUE-E-TEF.md)
 ---
-**Navegacao:** [Anterior](../00-INTRODUCTION/MODULES-INDEX.md) | [Inicio](../README.md) | [Proximo](01-O-QUE-E-TEF.md)
+**Navegação:** [Anterior](../00-INTRODUCTION/MODULES-INDEX.md) | [Início](../README.md) | [Próximo](01-O-QUE-E-TEF.md)
 <!-- NAVIGATION_FOOTER:END -->

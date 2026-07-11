@@ -1,8 +1,8 @@
 ﻿<!-- NAVIGATION:START -->
 ---
-[README ConnectTEF](README.md) | [Índice da Seção](README.md) | Anterior | [Proximo](00-INTRODUCTION/README.md)
+[README ConnectTEF](README.md) | [Índice da Seção](README.md) | Anterior | [Próximo](00-INTRODUCTION/README.md)
 ---
-> **Caminho:** [Inicio](README.md) / ConnectTEF / README
+> **Caminho:** [Início](README.md) / ConnectTEF / README
 <!-- NAVIGATION:END -->
 
 # ConnectTEF
@@ -202,9 +202,9 @@ Nele serão apresentados os conceitos fundamentais da plataforma, sua arquitetur
 
 <!-- NAVIGATION_FOOTER:START -->
 ---
-### Veja tambem
+### Veja também
 - [README ConnectTEF](README.md)
 - [README](00-INTRODUCTION/README.md)
 ---
-**Navegacao:** Anterior | [Inicio](README.md) | [Proximo](00-INTRODUCTION/README.md)
+**Navegação:** Anterior | [Início](README.md) | [Próximo](00-INTRODUCTION/README.md)
 <!-- NAVIGATION_FOOTER:END -->

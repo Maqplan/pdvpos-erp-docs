@@ -1,8 +1,8 @@
 ﻿<!-- NAVIGATION:START -->
 ---
-[README ConnectTEF](../README.md) | [Índice da Seção](README.md) | [Anterior](../04-RECURSOS/20-INTEGRACAO-COM-MESAS.md) | [Proximo](01-FAQ-GERAL.md)
+[README ConnectTEF](../README.md) | [Índice da Seção](README.md) | [Anterior](../04-RECURSOS/20-INTEGRACAO-COM-MESAS.md) | [Próximo](01-FAQ-GERAL.md)
 ---
-> **Caminho:** [Inicio](../README.md) / FAQ / README
+> **Caminho:** [Início](../README.md) / FAQ / README
 <!-- NAVIGATION:END -->
 
 # 05 - FAQ
@@ -33,10 +33,10 @@ A secao de Perguntas Frequentes reune respostas rapidas para as duvidas mais com
 
 <!-- NAVIGATION_FOOTER:START -->
 ---
-### Veja tambem
+### Veja também
 - [README ConnectTEF](../README.md)
 - [Índice da Seção](README.md)
 - [FAQ Geral](01-FAQ-GERAL.md)
 ---
-**Navegacao:** [Anterior](../04-RECURSOS/20-INTEGRACAO-COM-MESAS.md) | [Inicio](../README.md) | [Proximo](01-FAQ-GERAL.md)
+**Navegação:** [Anterior](../04-RECURSOS/20-INTEGRACAO-COM-MESAS.md) | [Início](../README.md) | [Próximo](01-FAQ-GERAL.md)
 <!-- NAVIGATION_FOOTER:END -->

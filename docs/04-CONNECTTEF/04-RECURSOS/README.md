@@ -1,8 +1,8 @@
 ﻿<!-- NAVIGATION:START -->
 ---
-[README ConnectTEF](../README.md) | [Índice da Seção](README.md) | [Anterior](../03-INTEGRACOES/12-BOAS-PRATICAS.md) | [Proximo](01-PAGAMENTO.md)
+[README ConnectTEF](../README.md) | [Índice da Seção](README.md) | [Anterior](../03-INTEGRACOES/12-BOAS-PRATICAS.md) | [Próximo](01-PAGAMENTO.md)
 ---
-> **Caminho:** [Inicio](../README.md) / Recursos / README
+> **Caminho:** [Início](../README.md) / Recursos / README
 <!-- NAVIGATION:END -->
 
 # 04 - Recursos
@@ -38,10 +38,10 @@ Esta secao detalha os recursos operacionais disponiveis no ConnectTEF.
 
 <!-- NAVIGATION_FOOTER:START -->
 ---
-### Veja tambem
+### Veja também
 - [README ConnectTEF](../README.md)
 - [Índice da Seção](README.md)
 - [Pagamento](01-PAGAMENTO.md)
 ---
-**Navegacao:** [Anterior](../03-INTEGRACOES/12-BOAS-PRATICAS.md) | [Inicio](../README.md) | [Proximo](01-PAGAMENTO.md)
+**Navegação:** [Anterior](../03-INTEGRACOES/12-BOAS-PRATICAS.md) | [Início](../README.md) | [Próximo](01-PAGAMENTO.md)
 <!-- NAVIGATION_FOOTER:END -->

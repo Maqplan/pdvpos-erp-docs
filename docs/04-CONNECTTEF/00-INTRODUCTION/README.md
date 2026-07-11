@@ -1,8 +1,8 @@
 ﻿<!-- NAVIGATION:START -->
 ---
-[README ConnectTEF](../README.md) | [Índice da Seção](README.md) | [Anterior](../README.md) | [Proximo](00-APRESENTACAO.md)
+[README ConnectTEF](../README.md) | [Índice da Seção](README.md) | [Anterior](../README.md) | [Próximo](00-APRESENTACAO.md)
 ---
-> **Caminho:** [Inicio](../README.md) / Introducao / README
+> **Caminho:** [Início](../README.md) / Introdução / README
 <!-- NAVIGATION:END -->
 
 # Introdução
@@ -90,10 +90,10 @@ Continue para **00 - Apresentação**, onde será apresentada uma visão geral d
 
 <!-- NAVIGATION_FOOTER:START -->
 ---
-### Veja tambem
+### Veja também
 - [README ConnectTEF](../README.md)
 - [Índice da Seção](README.md)
-- [Apresentacao](00-APRESENTACAO.md)
+- [Apresentação](00-APRESENTACAO.md)
 ---
-**Navegacao:** [Anterior](../README.md) | [Inicio](../README.md) | [Proximo](00-APRESENTACAO.md)
+**Navegação:** [Anterior](../README.md) | [Início](../README.md) | [Próximo](00-APRESENTACAO.md)
 <!-- NAVIGATION_FOOTER:END -->

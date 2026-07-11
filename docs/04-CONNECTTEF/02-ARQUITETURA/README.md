@@ -1,8 +1,8 @@
 ﻿<!-- NAVIGATION:START -->
 ---
-[README ConnectTEF](../README.md) | [Índice da Seção](README.md) | [Anterior](../01-CONCEITOS/12-GLOSSARIO.md) | [Proximo](01-VISAO-GERAL.md)
+[README ConnectTEF](../README.md) | [Índice da Seção](README.md) | [Anterior](../01-CONCEITOS/12-GLOSSARIO.md) | [Próximo](01-VISAO-GERAL.md)
 ---
-> **Caminho:** [Inicio](../README.md) / Arquitetura / README
+> **Caminho:** [Início](../README.md) / Arquitetura / README
 <!-- NAVIGATION:END -->
 
 # Arquitetura
@@ -199,10 +199,10 @@ A compreensão desses conceitos facilitará a implementação das integrações 
 
 <!-- NAVIGATION_FOOTER:START -->
 ---
-### Veja tambem
+### Veja também
 - [README ConnectTEF](../README.md)
 - [Índice da Seção](README.md)
 - [Visao Geral](01-VISAO-GERAL.md)
 ---
-**Navegacao:** [Anterior](../01-CONCEITOS/12-GLOSSARIO.md) | [Inicio](../README.md) | [Proximo](01-VISAO-GERAL.md)
+**Navegação:** [Anterior](../01-CONCEITOS/12-GLOSSARIO.md) | [Início](../README.md) | [Próximo](01-VISAO-GERAL.md)
 <!-- NAVIGATION_FOOTER:END -->

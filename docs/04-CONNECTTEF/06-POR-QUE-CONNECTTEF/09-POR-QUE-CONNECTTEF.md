@@ -1,8 +1,8 @@
 ﻿<!-- NAVIGATION:START -->
 ---
-[README ConnectTEF](../README.md) | [Índice da Seção](README.md) | [Anterior](08-POR-QUE-GERENCIADOR-PADRAO.md) | [Proximo](10-CUSTO-DE-MANTER-INTEGRACOES-PROPRIAS.md)
+[README ConnectTEF](../README.md) | [Índice da Seção](README.md) | [Anterior](08-POR-QUE-GERENCIADOR-PADRAO.md) | [Próximo](10-CUSTO-DE-MANTER-INTEGRACOES-PROPRIAS.md)
 ---
-> **Caminho:** [Inicio](../README.md) / Por que ConnectTEF / Por que ConnectTEF
+> **Caminho:** [Início](../README.md) / Por que ConnectTEF / Por que ConnectTEF
 <!-- NAVIGATION:END -->
 
 # 09 - Por que ConnectTEF?
@@ -193,10 +193,10 @@ Mais do que integrar equipamentos, o ConnectTEF permite que empresas desenvolvam
 
 <!-- NAVIGATION_FOOTER:START -->
 ---
-### Veja tambem
+### Veja também
 - [README ConnectTEF](../README.md)
 - [Índice da Seção](README.md)
-- [Custo de Manter Integracoes Proprias](10-CUSTO-DE-MANTER-INTEGRACOES-PROPRIAS.md)
+- [Custo de Manter Integrações Proprias](10-CUSTO-DE-MANTER-INTEGRACOES-PROPRIAS.md)
 ---
-**Navegacao:** [Anterior](08-POR-QUE-GERENCIADOR-PADRAO.md) | [Inicio](../README.md) | [Proximo](10-CUSTO-DE-MANTER-INTEGRACOES-PROPRIAS.md)
+**Navegação:** [Anterior](08-POR-QUE-GERENCIADOR-PADRAO.md) | [Início](../README.md) | [Próximo](10-CUSTO-DE-MANTER-INTEGRACOES-PROPRIAS.md)
 <!-- NAVIGATION_FOOTER:END -->

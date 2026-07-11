@@ -1,8 +1,8 @@
 ﻿<!-- NAVIGATION:START -->
 ---
-[README ConnectTEF](../README.md) | [Índice da Seção](README.md) | [Anterior](10-O-QUE-E-API-LOCAL.md) | [Proximo](12-GLOSSARIO.md)
+[README ConnectTEF](../README.md) | [Índice da Seção](README.md) | [Anterior](10-O-QUE-E-API-LOCAL.md) | [Próximo](12-GLOSSARIO.md)
 ---
-> **Caminho:** [Inicio](../README.md) / Conceitos / O que e API Rest
+> **Caminho:** [Início](../README.md) / Conceitos / O que e API Rest
 <!-- NAVIGATION:END -->
 
 # O que � a API REST?
@@ -186,10 +186,10 @@ Agora que voc� conhece os principais conceitos utilizados pelo ConnectTEF, con
 
 <!-- NAVIGATION_FOOTER:START -->
 ---
-### Veja tambem
+### Veja também
 - [README ConnectTEF](../README.md)
 - [Índice da Seção](README.md)
 - [Glossario](12-GLOSSARIO.md)
 ---
-**Navegacao:** [Anterior](10-O-QUE-E-API-LOCAL.md) | [Inicio](../README.md) | [Proximo](12-GLOSSARIO.md)
+**Navegação:** [Anterior](10-O-QUE-E-API-LOCAL.md) | [Início](../README.md) | [Próximo](12-GLOSSARIO.md)
 <!-- NAVIGATION_FOOTER:END -->

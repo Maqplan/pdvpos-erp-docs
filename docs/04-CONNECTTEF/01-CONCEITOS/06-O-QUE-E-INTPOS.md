@@ -1,8 +1,8 @@
 ﻿<!-- NAVIGATION:START -->
 ---
-[README ConnectTEF](../README.md) | [Índice da Seção](README.md) | [Anterior](05-O-QUE-E-GERENCIADOR-PADRAO.md) | [Proximo](07-O-QUE-E-SITEF.md)
+[README ConnectTEF](../README.md) | [Índice da Seção](README.md) | [Anterior](05-O-QUE-E-GERENCIADOR-PADRAO.md) | [Próximo](07-O-QUE-E-SITEF.md)
 ---
-> **Caminho:** [Inicio](../README.md) / Conceitos / O que e INTPOS
+> **Caminho:** [Início](../README.md) / Conceitos / O que e INTPOS
 <!-- NAVIGATION:END -->
 
 # O que é INTPOS?
@@ -220,10 +220,10 @@ Agora conheceremos o **SiTef**, uma das arquiteturas de TEF mais utilizadas no m
 
 <!-- NAVIGATION_FOOTER:START -->
 ---
-### Veja tambem
+### Veja também
 - [README ConnectTEF](../README.md)
 - [Índice da Seção](README.md)
 - [O que e Sitef](07-O-QUE-E-SITEF.md)
 ---
-**Navegacao:** [Anterior](05-O-QUE-E-GERENCIADOR-PADRAO.md) | [Inicio](../README.md) | [Proximo](07-O-QUE-E-SITEF.md)
+**Navegação:** [Anterior](05-O-QUE-E-GERENCIADOR-PADRAO.md) | [Início](../README.md) | [Próximo](07-O-QUE-E-SITEF.md)
 <!-- NAVIGATION_FOOTER:END -->

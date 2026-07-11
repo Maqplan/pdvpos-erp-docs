@@ -1,18 +1,18 @@
 ﻿<!-- NAVIGATION:START -->
 ---
-[README ConnectTEF](../README.md) | [Índice da Seção](README.md) | [Anterior](01-PAGAMENTO.md) | [Proximo](03-REIMPRESSAO.md)
+[README ConnectTEF](../README.md) | [Índice da Seção](README.md) | [Anterior](01-PAGAMENTO.md) | [Próximo](03-REIMPRESSAO.md)
 ---
-> **Caminho:** [Inicio](../README.md) / Recursos / Cancelamento
+> **Caminho:** [Início](../README.md) / Recursos / Cancelamento
 <!-- NAVIGATION:END -->
 
 
 
 <!-- NAVIGATION_FOOTER:START -->
 ---
-### Veja tambem
+### Veja também
 - [README ConnectTEF](../README.md)
 - [Índice da Seção](README.md)
 - [Reimpressao](03-REIMPRESSAO.md)
 ---
-**Navegacao:** [Anterior](01-PAGAMENTO.md) | [Inicio](../README.md) | [Proximo](03-REIMPRESSAO.md)
+**Navegação:** [Anterior](01-PAGAMENTO.md) | [Início](../README.md) | [Próximo](03-REIMPRESSAO.md)
 <!-- NAVIGATION_FOOTER:END -->
