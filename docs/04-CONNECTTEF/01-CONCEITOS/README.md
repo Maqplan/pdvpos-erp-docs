@@ -35,7 +35,7 @@ Ao concluir esta seção você compreenderá:
 
 Entenda o conceito de Transferência Eletrônica de Fundos e seu papel na automação comercial.
 
-📄 **01-O-QUE-E-TEF.md**
+📄 [**01-O-QUE-E-TEF.md**](01-O-QUE-E-TEF.md)
 
 ---
 
@@ -43,7 +43,7 @@ Entenda o conceito de Transferência Eletrônica de Fundos e seu papel na automa
 
 Conheça os terminais inteligentes utilizados pelo ConnectTEF e como eles diferem das soluções tradicionais de pagamento.
 
-📄 **02-O-QUE-E-SMARTPOS.md**
+📄 [**02-O-QUE-E-SMARTPOS.md**](02-O-QUE-E-SMARTPOS.md)
 
 ---
 
@@ -51,7 +51,7 @@ Conheça os terminais inteligentes utilizados pelo ConnectTEF e como eles difere
 
 Entenda o papel das empresas responsáveis pelo processamento e autorização das transações financeiras.
 
-📄 **03-O-QUE-E-ADQUIRENTE.md**
+📄 [**03-O-QUE-E-ADQUIRENTE.md**](03-O-QUE-E-ADQUIRENTE.md)
 
 ---
 
@@ -59,7 +59,7 @@ Entenda o papel das empresas responsáveis pelo processamento e autorização da
 
 Conheça as empresas que simplificam o acesso aos meios de pagamento e sua participação no ecossistema.
 
-📄 **04-O-QUE-E-FACILITADORA.md**
+📄 [**04-O-QUE-E-FACILITADORA.md**](04-O-QUE-E-FACILITADORA.md)
 
 ---
 
@@ -67,7 +67,7 @@ Conheça as empresas que simplificam o acesso aos meios de pagamento e sua parti
 
 Descubra como o ConnectTEF permite integrar sistemas legados baseados em INTPOS sem alterar o ERP.
 
-📄 **05-O-QUE-E-GERENCIADOR-PADRAO.md**
+📄 [**05-O-QUE-E-GERENCIADOR-PADRAO.md**](05-O-QUE-E-GERENCIADOR-PADRAO.md)
 
 ---
 
@@ -75,7 +75,7 @@ Descubra como o ConnectTEF permite integrar sistemas legados baseados em INTPOS 
 
 Conheça o padrão tradicional de comunicação baseado em troca de arquivos e sua importância para sistemas legados.
 
-📄 **06-O-QUE-E-INTPOS.md**
+📄 [**06-O-QUE-E-INTPOS.md**](06-O-QUE-E-INTPOS.md)
 
 ---
 
@@ -83,7 +83,7 @@ Conheça o padrão tradicional de comunicação baseado em troca de arquivos e s
 
 Entenda o conceito do SiTef e sua relação com a arquitetura do ConnectTEF.
 
-📄 **07-O-QUE-E-SITEF.md**
+📄 [**07-O-QUE-E-SITEF.md**](07-O-QUE-E-SITEF.md)
 
 ---
 
@@ -91,7 +91,7 @@ Entenda o conceito do SiTef e sua relação com a arquitetura do ConnectTEF.
 
 Conheça uma das formas nativas de integração entre aplicações Android e o ConnectTEF.
 
-📄 **08-O-QUE-E-PROVIDER.md**
+📄 [**08-O-QUE-E-PROVIDER.md**](08-O-QUE-E-PROVIDER.md)
 
 ---
 
@@ -99,7 +99,7 @@ Conheça uma das formas nativas de integração entre aplicações Android e o C
 
 Entenda como aplicações Android podem solicitar operações ao ConnectTEF utilizando recursos do próprio sistema operacional.
 
-📄 **09-O-QUE-E-INTENT.md**
+📄 [**09-O-QUE-E-INTENT.md**](09-O-QUE-E-INTENT.md)
 
 ---
 
@@ -107,7 +107,7 @@ Entenda como aplicações Android podem solicitar operações ao ConnectTEF util
 
 Conheça a interface HTTP local destinada principalmente a aplicações Desktop e ambientes locais.
 
-📄 **10-O-QUE-E-API-LOCAL.md**
+📄 [**10-O-QUE-E-API-LOCAL.md**](10-O-QUE-E-API-LOCAL.md)
 
 ---
 
@@ -115,7 +115,7 @@ Conheça a interface HTTP local destinada principalmente a aplicações Desktop 
 
 Entenda a principal interface de integração do ConnectTEF para aplicações Web, SaaS e arquiteturas modernas.
 
-📄 **11-O-QUE-E-API-REST.md**
+📄 [**11-O-QUE-E-API-REST.md**](11-O-QUE-E-API-REST.md)
 
 ---
 
@@ -123,7 +123,7 @@ Entenda a principal interface de integração do ConnectTEF para aplicações We
 
 Consulte rapidamente os principais termos utilizados em toda a documentação.
 
-📄 **12-GLOSSARIO.md**
+📄 [**12-GLOSSARIO.md**](12-GLOSSARIO.md)
 
 ---
 
