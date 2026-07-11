@@ -133,7 +133,7 @@ docs/03-PDV-DESKTOP/
 | [08 - Sincronização](docs/03-PDV-DESKTOP/08-SINCRONIZACAO.md) | Funcionamento offline e sincronização com o ERP |
 | [09 - Documentos Fiscais](docs/03-PDV-DESKTOP/09-DOCUMENTOS-FISCAIS.md) | NFC-e, NF-e, NFS-e, contingência e emissão fiscal |
 | [10 - TEF e Pagamentos](docs/03-PDV-DESKTOP/10-TEF-E-PAGAMENTOS.md) | ConnectTEF, PIX, cartões e pagamento misto |
-| [11 - Operações de Caixa](docs/03-PDV-DESKTOP/11-OPERACOES-DE-CAIXA.md) | Conferência, fechamento, sangrias e suprimentos |
+| [11 - Operações de Caixa](docs/03-PDV-DESKTOP/02-OPERACAO-DE-CAIXA.md) | Conferência, fechamento, sangrias e suprimentos |
 | [12 - Relatórios](docs/03-PDV-DESKTOP/12-RELATORIOS.md) | Relatórios operacionais, fiscais e gerenciais |
 | [13 - Trocas e Devoluções](docs/03-PDV-DESKTOP/13-TROCAS-E-DEVOLUCOES.md) | Processo integrado de trocas e devoluções |
 | [14 - Diferenciais](docs/03-PDV-DESKTOP/14-DIFERENCIAIS.md) | Principais diferenciais competitivos do PDV Desktop |
@@ -159,15 +159,8 @@ docs/04-CONNECTTEF/
 | [02 - Arquitetura](docs/04-CONNECTTEF/02-ARQUITETURA/README.md) | Componentes, fluxos, segurança, autenticação, eventos e webhooks |
 | [03 - Integrações](docs/04-CONNECTTEF/03-INTEGRACOES/README.md) | Estratégias de integração via REST, API Local, Provider, Intent, INTPOS e SiTef |
 | [04 - Recursos](docs/04-CONNECTTEF/04-RECURSOS/README.md) | Recursos operacionais: pagamento, cancelamento, impressão, offline, marketing e captura de dados |
-| [05 - Compatibilidade](docs/04-CONNECTTEF/05-COMPATIBILIDADE/README.md) | Compatibilidade com SmartPOS, fabricantes, adquirentes, ERPs e PDVs |
-| [06 - API](docs/04-CONNECTTEF/06-API/README.md) | Endpoints, autenticação, transações, status, webhooks, erros e exemplos |
-| [07 - Migração](docs/04-CONNECTTEF/07-MIGRACAO/README.md) | Guias de migração de SiTef, INTPOS, Elgin e cenários legados |
-| [08 - White Label](docs/04-CONNECTTEF/08-WHITE-LABEL/README.md) | Modelo White Label, personalização, distribuição, suporte e onboarding |
-| [09 - Operação](docs/04-CONNECTTEF/09-OPERACAO/README.md) | Monitoramento, logs, diagnóstico, atualizações, backup e troubleshooting |
-| [10 - Casos de Uso](docs/04-CONNECTTEF/10-CASOS-DE-USO/README.md) | Aplicações práticas em diferentes segmentos de negócio |
-| [11 - FAQ](docs/04-CONNECTTEF/11-FAQ/README.md) | Perguntas frequentes para operação, integração e suporte |
-| [12 - Roadmap](docs/04-CONNECTTEF/12-ROADMAP/README.md) | Novidades, versões e deprecações planejadas |
-| [13 - Por que ConnectTEF](docs/04-CONNECTTEF/13-POR-QUE-CONNECTTEF/README.md) | Argumentos de valor, estratégia de integração única e benefícios de longo prazo |
+| [05 - FAQ](docs/04-CONNECTTEF/05-FAQ/README.md) | Perguntas frequentes para operação, integração e suporte |
+| [06 - Por que ConnectTEF](docs/04-CONNECTTEF/06-POR-QUE-CONNECTTEF/README.md) | Argumentos de valor, estratégia de integração única e benefícios de longo prazo |
 
 
 ---
@@ -225,3 +218,4 @@ docs/04-CONNECTTEF/
 ---
 **Navegação:** [Início](README.md)
 <!-- NAVIGATION_FOOTER:END -->
+

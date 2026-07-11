@@ -1,8 +1,8 @@
-<!-- NAVIGATION:START -->
+﻿<!-- NAVIGATION:START -->
 ---
-[README Principal](../README.md) | [Anterior](../01-CONCEITOS/README.md) | [Próximo](01-VISAO-GERAL.md)
+[README ConnectTEF](../README.md) | [Índice da Seção](README.md) | [Anterior](../01-CONCEITOS/12-GLOSSARIO.md) | [Proximo](01-VISAO-GERAL.md)
 ---
-> **Caminho:** [Início](../README.md) / Arquitetura
+> **Caminho:** [Inicio](../README.md) / Arquitetura / README
 <!-- NAVIGATION:END -->
 
 # Arquitetura
@@ -54,7 +54,7 @@ Explica cada módulo que compõe o ConnectTEF e sua responsabilidade dentro da a
 
 Mostra como uma operação percorre toda a plataforma desde a solicitação do ERP até o retorno da resposta.
 
-📄 **03-FLUXO-DE-TRANSACOES.md**
+📄 **03-FLUXO-DE-PAGAMENTO.md**
 
 ---
 
@@ -199,12 +199,10 @@ A compreensão desses conceitos facilitará a implementação das integrações 
 
 <!-- NAVIGATION_FOOTER:START -->
 ---
-### Próximos passos
-
-- [01 - Visão Geral](01-VISAO-GERAL.md)
-- [03 - Integrações](../03-INTEGRACOES/README.md)
-- [README Principal](../README.md)
-
+### Veja tambem
+- [README ConnectTEF](../README.md)
+- [Índice da Seção](README.md)
+- [Visao Geral](01-VISAO-GERAL.md)
 ---
-**Navegação:** [Anterior](../01-CONCEITOS/README.md) | [Próximo](01-VISAO-GERAL.md)
+**Navegacao:** [Anterior](../01-CONCEITOS/12-GLOSSARIO.md) | [Inicio](../README.md) | [Proximo](01-VISAO-GERAL.md)
 <!-- NAVIGATION_FOOTER:END -->

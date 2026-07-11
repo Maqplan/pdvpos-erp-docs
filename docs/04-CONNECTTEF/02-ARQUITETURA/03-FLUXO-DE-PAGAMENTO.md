@@ -1,8 +1,8 @@
-<!-- NAVIGATION:START -->
+﻿<!-- NAVIGATION:START -->
 ---
-[README Principal](../README.md) | [Índice da Arquitetura](README.md) | [Anterior](02-COMPONENTES.md) | [Próximo](04-CAMADAS-DA-PLATAFORMA.md)
+[README ConnectTEF](../README.md) | [Índice da Seção](README.md) | [Anterior](02-COMPONENTES.md) | [Proximo](04-FLUXO-DE-COMUNICACAO.md)
 ---
-> **Caminho:** [Início](../README.md) / [Arquitetura](README.md) / Fluxo de Processamento de uma Transação
+> **Caminho:** [Inicio](../README.md) / Arquitetura / Fluxo de Pagamento
 <!-- NAVIGATION:END -->
 
 # Fluxo de Processamento de uma Transação
@@ -335,12 +335,10 @@ Agora conheceremos como a plataforma está organizada internamente em camadas ar
 
 <!-- NAVIGATION_FOOTER:START -->
 ---
-### Veja também
-
-- [04 - Camadas da Plataforma](04-CAMADAS-DA-PLATAFORMA.md)
-- [Componentes](02-COMPONENTES.md)
-- [Visão Geral](01-VISAO-GERAL.md)
-
+### Veja tambem
+- [README ConnectTEF](../README.md)
+- [Índice da Seção](README.md)
+- [Fluxo de Comunicacao](04-FLUXO-DE-COMUNICACAO.md)
 ---
-**Navegação:** [Anterior](02-COMPONENTES.md) | [Próximo](04-CAMADAS-DA-PLATAFORMA.md)
+**Navegacao:** [Anterior](02-COMPONENTES.md) | [Inicio](../README.md) | [Proximo](04-FLUXO-DE-COMUNICACAO.md)
 <!-- NAVIGATION_FOOTER:END -->

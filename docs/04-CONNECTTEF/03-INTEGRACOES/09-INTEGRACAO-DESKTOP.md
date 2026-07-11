@@ -1,8 +1,8 @@
-<!-- NAVIGATION:START -->
+﻿<!-- NAVIGATION:START -->
 ---
-[README Principal](../README.md) | [Índice da Documentação](../README.md) | [Anterior](08-COMPATIBILIDADE-ELGIN.md) | [Próximo](10-INTEGRACAO-SMARTPOS.md)
+[README ConnectTEF](../README.md) | [Índice da Seção](README.md) | [Anterior](08-INTEGRACAO-VIA-DLL.md) | [Proximo](10-INTEGRACAO-WEB.md)
 ---
-> **Caminho:** [Início](../README.md) / **03 - Integrações** / 09 - Integração Desktop
+> **Caminho:** [Inicio](../README.md) / Integracoes / Integracao Desktop
 <!-- NAVIGATION:END -->
 
 # 09 - Integração Desktop
@@ -205,12 +205,10 @@ No próximo capítulo será apresentada a integração destinada às aplicaçõe
 
 <!-- NAVIGATION_FOOTER:START -->
 ---
-### Veja também
-
-- [01 - Integração via API REST](01-INTEGRACAO-VIA-API-REST.md)
-- [02 - Integração via API Local](02-INTEGRACAO-VIA-API-LOCAL.md)
-- [10 - Integração SmartPOS](10-INTEGRACAO-SMARTPOS.md)
-
+### Veja tambem
+- [README ConnectTEF](../README.md)
+- [Índice da Seção](README.md)
+- [Integracao Web](10-INTEGRACAO-WEB.md)
 ---
-**Navegação:** [Anterior](08-COMPATIBILIDADE-ELGIN.md) | [README](../README.md) | [Próximo](10-INTEGRACAO-SMARTPOS.md)
+**Navegacao:** [Anterior](08-INTEGRACAO-VIA-DLL.md) | [Inicio](../README.md) | [Proximo](10-INTEGRACAO-WEB.md)
 <!-- NAVIGATION_FOOTER:END -->

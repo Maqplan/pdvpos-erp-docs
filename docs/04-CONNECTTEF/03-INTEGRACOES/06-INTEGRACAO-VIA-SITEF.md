@@ -1,8 +1,8 @@
-<!-- NAVIGATION:START -->
+﻿<!-- NAVIGATION:START -->
 ---
-[README Principal](../README.md) | [Índice da Documentação](../README.md) | [Anterior](05-INTEGRACAO-VIA-INTPOS.md) | [Próximo](07-INTEGRACAO-VIA-ELGIN.md)
+[README ConnectTEF](../README.md) | [Índice da Seção](README.md) | [Anterior](05-INTEGRACAO-VIA-INTPOS.md) | [Proximo](07-INTEGRACAO-VIA-ELGIN.md)
 ---
-> **Caminho:** [Início](../README.md) / **03 - Integrações** / 06 - Integração via SiTef
+> **Caminho:** [Inicio](../README.md) / Integracoes / Integracao via Sitef
 <!-- NAVIGATION:END -->
 
 # 06 - Integração via SiTef
@@ -171,12 +171,10 @@ O próximo capítulo apresenta os mecanismos de compatibilidade disponibilizados
 
 <!-- NAVIGATION_FOOTER:START -->
 ---
-### Veja também
-
-- [05 - Integração via INTPOS](05-INTEGRACAO-VIA-INTPOS.md)
-- [07 - Integração via Elgin](07-INTEGRACAO-VIA-ELGIN.md)
-- [09 - Integração Desktop](09-INTEGRACAO-DESKTOP.md)
-
+### Veja tambem
+- [README ConnectTEF](../README.md)
+- [Índice da Seção](README.md)
+- [Integracao via Elgin](07-INTEGRACAO-VIA-ELGIN.md)
 ---
-**Navegação:** [Anterior](05-INTEGRACAO-VIA-INTPOS.md) | [README](../README.md) | [Próximo](07-INTEGRACAO-VIA-ELGIN.md)
+**Navegacao:** [Anterior](05-INTEGRACAO-VIA-INTPOS.md) | [Inicio](../README.md) | [Proximo](07-INTEGRACAO-VIA-ELGIN.md)
 <!-- NAVIGATION_FOOTER:END -->

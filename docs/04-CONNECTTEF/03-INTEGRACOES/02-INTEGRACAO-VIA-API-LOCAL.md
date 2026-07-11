@@ -1,8 +1,8 @@
-<!-- NAVIGATION:START -->
+﻿<!-- NAVIGATION:START -->
 ---
-[README Principal](../README.md) | [Índice da Documentação](../README.md) | [Anterior](01-INTEGRACAO-VIA-API-REST.md) | [Próximo](03-INTEGRACAO-VIA-WINDOWS-DLL.md)
+[README ConnectTEF](../README.md) | [Índice da Seção](README.md) | [Anterior](01-INTEGRACAO-VIA-API-REST.md) | [Proximo](03-INTEGRACAO-VIA-PROVIDER.md)
 ---
-> **Caminho:** [Início](../README.md) / **03 - Integrações** / 02 - Integração via API Local
+> **Caminho:** [Inicio](../README.md) / Integracoes / Integracao via API Local
 <!-- NAVIGATION:END -->
 
 # 02 - Integração via API Local
@@ -184,12 +184,10 @@ Nos próximos capítulos serão apresentados outros modelos de integração, inc
 
 <!-- NAVIGATION_FOOTER:START -->
 ---
-### Veja também
-
-- [01 - Integração via API REST](01-INTEGRACAO-VIA-API-REST.md)
-- [03 - Integração via Windows DLL](03-INTEGRACAO-VIA-WINDOWS-DLL.md)
-- [11 - Autenticação](11-AUTENTICACAO.md)
-
+### Veja tambem
+- [README ConnectTEF](../README.md)
+- [Índice da Seção](README.md)
+- [Integracao via Provider](03-INTEGRACAO-VIA-PROVIDER.md)
 ---
-**Navegação:** [Anterior](01-INTEGRACAO-VIA-API-REST.md) | [README](../README.md) | [Próximo](03-INTEGRACAO-VIA-WINDOWS-DLL.md)
+**Navegacao:** [Anterior](01-INTEGRACAO-VIA-API-REST.md) | [Inicio](../README.md) | [Proximo](03-INTEGRACAO-VIA-PROVIDER.md)
 <!-- NAVIGATION_FOOTER:END -->

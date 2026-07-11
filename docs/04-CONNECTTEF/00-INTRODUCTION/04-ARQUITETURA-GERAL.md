@@ -1,8 +1,8 @@
-<!-- NAVIGATION:START -->
+﻿<!-- NAVIGATION:START -->
 ---
-[README Principal](../README.md) | [Índice da documentação](MODULES-INDEX.md) | [Anterior](03-COMO-FUNCIONA.md) | [Próximo](05-ECOSSISTEMA-CONNECTTEF.md)
+[README ConnectTEF](../README.md) | [Índice da Seção](README.md) | [Anterior](03-COMO-FUNCIONA.md) | [Proximo](05-ECOSSISTEMA-CONNECTTEF.md)
 ---
-> **Caminho:** [Início](../README.md) / [Introdução](README.md) / 04 - Arquitetura Geral
+> **Caminho:** [Inicio](../README.md) / Introducao / Arquitetura Geral
 <!-- NAVIGATION:END -->
 
 # Arquitetura Geral
@@ -333,11 +333,10 @@ Agora conheceremos o ecossistema ConnectTEF e entenderemos como a plataforma se 
 
 <!-- NAVIGATION_FOOTER:START -->
 ---
-### Veja também
-
-- [03 - Como Funciona](03-COMO-FUNCIONA.md)
-- [05 - Ecossistema ConnectTEF](05-ECOSSISTEMA-CONNECTTEF.md)
-
+### Veja tambem
+- [README ConnectTEF](../README.md)
+- [Índice da Seção](README.md)
+- [Ecossistema ConnectTEF](05-ECOSSISTEMA-CONNECTTEF.md)
 ---
-**Navegação:** [Anterior](03-COMO-FUNCIONA.md) | [Próximo](05-ECOSSISTEMA-CONNECTTEF.md)
+**Navegacao:** [Anterior](03-COMO-FUNCIONA.md) | [Inicio](../README.md) | [Proximo](05-ECOSSISTEMA-CONNECTTEF.md)
 <!-- NAVIGATION_FOOTER:END -->

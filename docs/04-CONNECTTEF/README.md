@@ -1,8 +1,8 @@
-<!-- NAVIGATION:START -->
+﻿<!-- NAVIGATION:START -->
 ---
-[README principal](../../README.md) | [Indice da documentacao](README.md) | [Anterior](../03-PDV-DESKTOP/README.md) | [Proximo](00-INTRODUCTION/README.md)
+[README ConnectTEF](README.md) | [Índice da Seção](README.md) | Anterior | [Proximo](00-INTRODUCTION/README.md)
 ---
-> **Caminho:** [Inicio](../../README.md) / [ConnectTEF](README.md) / README
+> **Caminho:** [Inicio](README.md) / ConnectTEF / README
 <!-- NAVIGATION:END -->
 
 # ConnectTEF
@@ -126,13 +126,10 @@ Recomendamos a seguinte sequência de leitura:
 1. Introdução
 2. Conceitos
 3. Arquitetura
-4. Formas de Integração
+4. Integrações
 5. Recursos
-6. Compatibilidade
-7. APIs
-8. Migração
-9. Operação
-10. FAQ
+6. FAQ
+7. Por que ConnectTEF
 
 ---
 
@@ -159,23 +156,11 @@ Recursos
 
 ↓
 
-Compatibilidade
-
-↓
-
-APIs
-
-↓
-
-Migração
-
-↓
-
-Operação
-
-↓
-
 FAQ
+
+↓
+
+Por que ConnectTEF
 ```
 
 ---
@@ -217,10 +202,9 @@ Nele serão apresentados os conceitos fundamentais da plataforma, sua arquitetur
 
 <!-- NAVIGATION_FOOTER:START -->
 ---
-### Veja também
-- [README principal](../../README.md)
-- [00 - Introdução](00-INTRODUCTION/README.md)
-- [01 - Conceitos](01-CONCEITOS/README.md)
+### Veja tambem
+- [README ConnectTEF](README.md)
+- [README](00-INTRODUCTION/README.md)
 ---
-**Navegacao:** [Anterior](../03-PDV-DESKTOP/README.md) | [Inicio](../../README.md) | [Proximo](00-INTRODUCTION/README.md)
+**Navegacao:** Anterior | [Inicio](README.md) | [Proximo](00-INTRODUCTION/README.md)
 <!-- NAVIGATION_FOOTER:END -->

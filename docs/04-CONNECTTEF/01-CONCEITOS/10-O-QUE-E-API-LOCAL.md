@@ -1,21 +1,21 @@
-<!-- NAVIGATION:START -->
+﻿<!-- NAVIGATION:START -->
 ---
-[README Principal](../README.md) | [Índice dos Conceitos](README.md) | [Anterior](09-O-QUE-E-INTENT.md) | [Próximo](11-O-QUE-E-API-REST.md)
+[README ConnectTEF](../README.md) | [Índice da Seção](README.md) | [Anterior](09-O-QUE-E-INTENT.md) | [Proximo](11-O-QUE-E-API-REST.md)
 ---
-> **Caminho:** [Início](../README.md) / [Conceitos](README.md) / O que é API Local
+> **Caminho:** [Inicio](../README.md) / Conceitos / O que e API Local
 <!-- NAVIGATION:END -->
 
-# O que é a API Local?
+# O que � a API Local?
 
-A API Local é uma interface de comunicação disponibilizada pelo ConnectTEF que permite que aplicações executadas no mesmo computador ou na mesma rede local se comuniquem com a plataforma utilizando requisições HTTP.
+A API Local � uma interface de comunica��o disponibilizada pelo ConnectTEF que permite que aplica��es executadas no mesmo computador ou na mesma rede local se comuniquem com a plataforma utilizando requisi��es HTTP.
 
-Ela foi projetada para simplificar a integração de sistemas Desktop, aplicações legadas e ambientes locais, oferecendo uma interface moderna sem exigir comunicação direta com os SmartPOS.
+Ela foi projetada para simplificar a integra��o de sistemas Desktop, aplica��es legadas e ambientes locais, oferecendo uma interface moderna sem exigir comunica��o direta com os SmartPOS.
 
 ---
 
 # Objetivo
 
-Compreender o conceito da API Local, seu funcionamento e os cenários em que ela representa a melhor alternativa de integração com o ConnectTEF.
+Compreender o conceito da API Local, seu funcionamento e os cen�rios em que ela representa a melhor alternativa de integra��o com o ConnectTEF.
 
 ---
 
@@ -23,18 +23,18 @@ Compreender o conceito da API Local, seu funcionamento e os cenários em que ela
 
 Muitos sistemas comerciais ainda executam localmente.
 
-É comum encontrar:
+� comum encontrar:
 
 - ERPs Desktop
 - PDVs Windows
-- Aplicações Delphi
+- Aplica��es Delphi
 - Sistemas C#
-- Aplicações Java
+- Aplica��es Java
 - Sistemas legados
 
 Esses sistemas normalmente precisam conversar com dispositivos presentes na mesma loja.
 
-Criar integrações específicas para cada fabricante aumenta significativamente o custo de desenvolvimento.
+Criar integra��es espec�ficas para cada fabricante aumenta significativamente o custo de desenvolvimento.
 
 A API Local foi criada para resolver esse problema.
 
@@ -42,45 +42,45 @@ A API Local foi criada para resolver esse problema.
 
 # Como funciona?
 
-O ConnectTEF disponibiliza um serviço HTTP executando localmente.
+O ConnectTEF disponibiliza um servi�o HTTP executando localmente.
 
-O ERP envia requisições para esse serviço.
+O ERP envia requisi��es para esse servi�o.
 
-A plataforma interpreta os comandos e realiza toda a comunicação com o SmartPOS.
+A plataforma interpreta os comandos e realiza toda a comunica��o com o SmartPOS.
 
 ```text
 ERP / PDV
 
-      │
+      �
 
 HTTP Local
 
-      │
+      �
 
-      ▼
+      ?
 
 API Local ConnectTEF
 
-      │
+      �
 
-      ▼
+      ?
 
 ConnectTEF
 
-      │
+      �
 
-      ▼
+      ?
 
 SmartPOS
 
-      │
+      �
 
-      ▼
+      ?
 
 Pagamento
 ```
 
-Para o ERP, a integração acontece através de uma API HTTP convencional.
+Para o ERP, a integra��o acontece atrav�s de uma API HTTP convencional.
 
 Toda a complexidade permanece encapsulada na plataforma.
 
@@ -90,37 +90,37 @@ Toda a complexidade permanece encapsulada na plataforma.
 
 A API Local oferece uma forma simples de modernizar sistemas existentes.
 
-Em vez de implementar protocolos específicos para cada equipamento, o ERP passa a utilizar uma interface HTTP padronizada.
+Em vez de implementar protocolos espec�ficos para cada equipamento, o ERP passa a utilizar uma interface HTTP padronizada.
 
-Essa abordagem facilita o desenvolvimento, reduz o acoplamento e simplifica futuras evoluções da plataforma.
+Essa abordagem facilita o desenvolvimento, reduz o acoplamento e simplifica futuras evolu��es da plataforma.
 
 ---
 
 # Quando utilizar?
 
-A API Local é recomendada quando:
+A API Local � recomendada quando:
 
-- o sistema é Desktop;
+- o sistema � Desktop;
 - o ERP e o ConnectTEF executam no mesmo computador;
-- os equipamentos estão na mesma rede local;
-- deseja-se comunicação HTTP sem depender de serviços externos;
-- busca-se uma integração simples e padronizada.
+- os equipamentos est�o na mesma rede local;
+- deseja-se comunica��o HTTP sem depender de servi�os externos;
+- busca-se uma integra��o simples e padronizada.
 
 ---
 
 # API Local x API REST
 
-Embora ambas utilizem HTTP, elas atendem cenários diferentes.
+Embora ambas utilizem HTTP, elas atendem cen�rios diferentes.
 
 | API Local | API REST |
 |------------|----------|
-| Comunicação local | Comunicação remota |
-| Executa no ambiente do cliente | Executa através da infraestrutura da plataforma |
-| Ideal para sistemas Desktop | Ideal para aplicações Web e SaaS |
-| Baixa latência | Maior flexibilidade |
-| Não depende de acesso externo | Pode ser acessada pela Internet |
+| Comunica��o local | Comunica��o remota |
+| Executa no ambiente do cliente | Executa atrav�s da infraestrutura da plataforma |
+| Ideal para sistemas Desktop | Ideal para aplica��es Web e SaaS |
+| Baixa lat�ncia | Maior flexibilidade |
+| N�o depende de acesso externo | Pode ser acessada pela Internet |
 
-A escolha depende da arquitetura da aplicação.
+A escolha depende da arquitetura da aplica��o.
 
 ---
 
@@ -128,35 +128,35 @@ A escolha depende da arquitetura da aplicação.
 
 | API Local | Provider Android |
 |------------|------------------|
-| HTTP | Comunicação nativa Android |
-| Desktop e aplicações locais | Aplicações Android |
+| HTTP | Comunica��o nativa Android |
+| Desktop e aplica��es locais | Aplica��es Android |
 | Multiplataforma | Exclusivo para Android |
-| Integração via rede local | Integração dentro do dispositivo |
+| Integra��o via rede local | Integra��o dentro do dispositivo |
 
 ---
 
-# Benefícios
+# Benef�cios
 
-A utilização da API Local proporciona:
+A utiliza��o da API Local proporciona:
 
-- integração simples através de HTTP;
+- integra��o simples atrav�s de HTTP;
 - menor acoplamento entre ERP e SmartPOS;
 - baixo impacto em sistemas legados;
 - arquitetura padronizada;
-- evolução transparente da plataforma;
-- menor custo de manutenção.
+- evolu��o transparente da plataforma;
+- menor custo de manuten��o.
 
 ---
 
 # O papel do ConnectTEF
 
-A API Local é apenas uma das portas de entrada da plataforma.
+A API Local � apenas uma das portas de entrada da plataforma.
 
-Independentemente da tecnologia utilizada pelo ERP, o ConnectTEF continua responsável por:
+Independentemente da tecnologia utilizada pelo ERP, o ConnectTEF continua respons�vel por:
 
-- interpretar as requisições;
+- interpretar as requisi��es;
 - comunicar-se com os SmartPOS;
-- controlar o fluxo das transações;
+- controlar o fluxo das transa��es;
 - padronizar os retornos;
 - disponibilizar novos recursos da plataforma.
 
@@ -164,39 +164,37 @@ Isso permite que diferentes tecnologias utilizem exatamente a mesma infraestrutu
 
 ---
 
-# Quando NÃO utilizar?
+# Quando N�O utilizar?
 
-A API Local normalmente não é indicada quando:
+A API Local normalmente n�o � indicada quando:
 
-- a aplicação está hospedada na nuvem;
-- o sistema é um SaaS acessado remotamente;
-- o ERP não possui acesso ao ambiente local;
-- a comunicação precisa ocorrer através da Internet.
+- a aplica��o est� hospedada na nuvem;
+- o sistema � um SaaS acessado remotamente;
+- o ERP n�o possui acesso ao ambiente local;
+- a comunica��o precisa ocorrer atrav�s da Internet.
 
-Nesses cenários, recomenda-se utilizar a **API REST** do ConnectTEF.
+Nesses cen�rios, recomenda-se utilizar a **API REST** do ConnectTEF.
 
 ---
 
 # Resumo
 
-A API Local é uma interface HTTP executada localmente que permite integrar aplicações Desktop e sistemas locais ao ConnectTEF utilizando uma arquitetura moderna, simples e padronizada.
+A API Local � uma interface HTTP executada localmente que permite integrar aplica��es Desktop e sistemas locais ao ConnectTEF utilizando uma arquitetura moderna, simples e padronizada.
 
-Ela reduz a complexidade da integração e permite que o ERP utilize uma única interface para acessar todo o ecossistema de pagamentos.
+Ela reduz a complexidade da integra��o e permite que o ERP utilize uma �nica interface para acessar todo o ecossistema de pagamentos.
 
 ---
 
-# Próximo capítulo
+# Pr�ximo cap�tulo
 
-Agora conheceremos a **API REST**, a principal interface de integração do ConnectTEF para aplicações Web, SaaS e sistemas distribuídos.
+Agora conheceremos a **API REST**, a principal interface de integra��o do ConnectTEF para aplica��es Web, SaaS e sistemas distribu�dos.
 
 <!-- NAVIGATION_FOOTER:START -->
 ---
-### Veja também
-
-- [O que é API REST](11-O-QUE-E-API-REST.md)
-- [Integração via API Local](../03-INTEGRACOES/02-INTEGRACAO-VIA-API-LOCAL.md)
-- [Integração Desktop](../03-INTEGRACOES/09-INTEGRACAO-DESKTOP.md)
-
+### Veja tambem
+- [README ConnectTEF](../README.md)
+- [Índice da Seção](README.md)
+- [O que e API Rest](11-O-QUE-E-API-REST.md)
 ---
-**Navegação:** [Anterior](09-O-QUE-E-INTENT.md) | [Próximo](11-O-QUE-E-API-REST.md)
+**Navegacao:** [Anterior](09-O-QUE-E-INTENT.md) | [Inicio](../README.md) | [Proximo](11-O-QUE-E-API-REST.md)
 <!-- NAVIGATION_FOOTER:END -->

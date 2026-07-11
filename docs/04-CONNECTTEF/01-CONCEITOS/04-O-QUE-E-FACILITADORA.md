@@ -1,8 +1,8 @@
-<!-- NAVIGATION:START -->
+﻿<!-- NAVIGATION:START -->
 ---
-[README Principal](../README.md) | [Índice dos Conceitos](README.md) | [Anterior](03-O-QUE-E-ADQUIRENTE.md) | [Próximo](05-O-QUE-E-GERENCIADOR-PADRAO.md)
+[README ConnectTEF](../README.md) | [Índice da Seção](README.md) | [Anterior](03-O-QUE-E-ADQUIRENTE.md) | [Proximo](05-O-QUE-E-GERENCIADOR-PADRAO.md)
 ---
-> **Caminho:** [Início](../README.md) / [Conceitos](README.md) / O que é Facilitadora
+> **Caminho:** [Inicio](../README.md) / Conceitos / O que e Facilitadora
 <!-- NAVIGATION:END -->
 
 # O que é uma Facilitadora?
@@ -175,12 +175,10 @@ No próximo capítulo conheceremos o **Gerenciador Padrão**, um importante meca
 
 <!-- NAVIGATION_FOOTER:START -->
 ---
-### Veja também
-
-- [O que é uma Adquirente](03-O-QUE-E-ADQUIRENTE.md)
-- [O que é o Gerenciador Padrão](05-O-QUE-E-GERENCIADOR-PADRAO.md)
-- [Compatibilidade com Facilitadoras](../05-COMPATIBILIDADE/04-FACILITADORAS.md)
-
+### Veja tambem
+- [README ConnectTEF](../README.md)
+- [Índice da Seção](README.md)
+- [O que e Gerenciador Padrao](05-O-QUE-E-GERENCIADOR-PADRAO.md)
 ---
-**Navegação:** [Anterior](03-O-QUE-E-ADQUIRENTE.md) | [Próximo](05-O-QUE-E-GERENCIADOR-PADRAO.md)
+**Navegacao:** [Anterior](03-O-QUE-E-ADQUIRENTE.md) | [Inicio](../README.md) | [Proximo](05-O-QUE-E-GERENCIADOR-PADRAO.md)
 <!-- NAVIGATION_FOOTER:END -->

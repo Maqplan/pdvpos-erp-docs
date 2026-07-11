@@ -1,8 +1,8 @@
-<!-- NAVIGATION:START -->
+﻿<!-- NAVIGATION:START -->
 ---
-[README Principal](../README.md) | [Índice dos Conceitos](README.md) | [Anterior](11-O-QUE-E-API-REST.md) | [Próximo](../02-ARQUITETURA/README.md)
+[README ConnectTEF](../README.md) | [Índice da Seção](README.md) | [Anterior](11-O-QUE-E-API-REST.md) | [Proximo](../02-ARQUITETURA/README.md)
 ---
-> **Caminho:** [Início](../README.md) / [Conceitos](README.md) / Glossário
+> **Caminho:** [Inicio](../README.md) / Conceitos / Glossario
 <!-- NAVIGATION:END -->
 
 # Glossário
@@ -149,12 +149,10 @@ O Glossário reúne os principais conceitos utilizados ao longo da documentaçã
 
 <!-- NAVIGATION_FOOTER:START -->
 ---
-### Veja também
-
-- [Conceitos](README.md)
-- [Arquitetura](../02-ARQUITETURA/README.md)
-- [README Principal](../README.md)
-
+### Veja tambem
+- [README ConnectTEF](../README.md)
+- [Índice da Seção](README.md)
+- [README](../02-ARQUITETURA/README.md)
 ---
-**Navegação:** [Anterior](11-O-QUE-E-API-REST.md) | [Próximo](../02-ARQUITETURA/README.md)
+**Navegacao:** [Anterior](11-O-QUE-E-API-REST.md) | [Inicio](../README.md) | [Proximo](../02-ARQUITETURA/README.md)
 <!-- NAVIGATION_FOOTER:END -->

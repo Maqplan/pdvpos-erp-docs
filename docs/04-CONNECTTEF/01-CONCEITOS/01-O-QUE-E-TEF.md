@@ -1,25 +1,25 @@
-<!-- NAVIGATION:START -->
+﻿<!-- NAVIGATION:START -->
 ---
-[README Principal](../README.md) | [Índice dos Conceitos](README.md) | [Anterior](README.md) | [Próximo](02-O-QUE-E-SMARTPOS.md)
+[README ConnectTEF](../README.md) | [Índice da Seção](README.md) | [Anterior](README.md) | [Proximo](02-O-QUE-E-SMARTPOS.md)
 ---
-> **Caminho:** [Início](../README.md) / [Conceitos](README.md) / O que é TEF
+> **Caminho:** [Inicio](../README.md) / Conceitos / O que e TEF
 <!-- NAVIGATION:END -->
 
-# O que é TEF?
+# O que � TEF?
 
-TEF (Transferência Eletrônica de Fundos) é o processo responsável por realizar a comunicação entre um sistema de gestão e os meios eletrônicos de pagamento.
+TEF (Transfer�ncia Eletr�nica de Fundos) � o processo respons�vel por realizar a comunica��o entre um sistema de gest�o e os meios eletr�nicos de pagamento.
 
-Sempre que um cliente realiza um pagamento utilizando cartão de crédito, débito, PIX ou outras modalidades eletrônicas, existe uma sequência de comunicação que permite autorizar, cancelar ou consultar essa transação.
+Sempre que um cliente realiza um pagamento utilizando cart�o de cr�dito, d�bito, PIX ou outras modalidades eletr�nicas, existe uma sequ�ncia de comunica��o que permite autorizar, cancelar ou consultar essa transa��o.
 
-O TEF é o mecanismo responsável por essa comunicação.
+O TEF � o mecanismo respons�vel por essa comunica��o.
 
 ---
 
 # Objetivo
 
-Compreender o conceito de TEF, seu funcionamento e sua importância dentro de uma operação comercial.
+Compreender o conceito de TEF, seu funcionamento e sua import�ncia dentro de uma opera��o comercial.
 
-Ao final deste capítulo será possível entender como o ConnectTEF simplifica esse processo através de uma arquitetura moderna e padronizada.
+Ao final deste cap�tulo ser� poss�vel entender como o ConnectTEF simplifica esse processo atrav�s de uma arquitetura moderna e padronizada.
 
 ---
 
@@ -27,13 +27,13 @@ Ao final deste capítulo será possível entender como o ConnectTEF simplifica e
 
 Imagine um estabelecimento comercial utilizando um ERP ou PDV.
 
-Quando o operador finaliza uma venda, o sistema precisa solicitar o pagamento ao terminal responsável pela transação.
+Quando o operador finaliza uma venda, o sistema precisa solicitar o pagamento ao terminal respons�vel pela transa��o.
 
-Esse terminal, por sua vez, precisa conversar com a adquirente para verificar se a operação pode ser autorizada.
+Esse terminal, por sua vez, precisa conversar com a adquirente para verificar se a opera��o pode ser autorizada.
 
-Sem um mecanismo de comunicação, essas partes não conseguem trocar informações.
+Sem um mecanismo de comunica��o, essas partes n�o conseguem trocar informa��es.
 
-O TEF foi criado justamente para realizar essa comunicação.
+O TEF foi criado justamente para realizar essa comunica��o.
 
 ---
 
@@ -42,39 +42,39 @@ O TEF foi criado justamente para realizar essa comunicação.
 ```text
 Operador
 
-      │
+      �
 
-      ▼
+      ?
 
 ERP / PDV
 
-      │
+      �
 
-      ▼
+      ?
 
 TEF
 
-      │
+      �
 
-      ▼
+      ?
 
 Terminal de Pagamento
 
-      │
+      �
 
-      ▼
+      ?
 
 Adquirente
 
-      │
+      �
 
-      ▼
+      ?
 
-Autorização
+Autoriza��o
 
-      │
+      �
 
-      ▼
+      ?
 
 ERP
 ```
@@ -83,72 +83,72 @@ ERP
 
 # O que o TEF faz?
 
-Durante uma transação, o TEF é responsável por atividades como:
+Durante uma transa��o, o TEF � respons�vel por atividades como:
 
 - iniciar pagamentos;
-- cancelar transações;
-- consultar operações;
-- solicitar impressão de comprovantes;
-- retornar o resultado da autorização;
+- cancelar transa��es;
+- consultar opera��es;
+- solicitar impress�o de comprovantes;
+- retornar o resultado da autoriza��o;
 - informar erros ao sistema.
 
-O ERP apenas solicita a operação.
+O ERP apenas solicita a opera��o.
 
-Toda comunicação financeira acontece através do TEF.
+Toda comunica��o financeira acontece atrav�s do TEF.
 
 ---
 
-# Quem participa da operação?
+# Quem participa da opera��o?
 
-Uma transação normalmente envolve diversos participantes.
+Uma transa��o normalmente envolve diversos participantes.
 
 ```text
 Cliente
 
-      │
+      �
 
-      ▼
+      ?
 
 Operador
 
-      │
+      �
 
-      ▼
+      ?
 
 ERP / PDV
 
-      │
+      �
 
-      ▼
+      ?
 
 TEF
 
-      │
+      �
 
-      ▼
+      ?
 
 SmartPOS
 
-      │
+      �
 
-      ▼
+      ?
 
 Adquirente
 
-      │
+      �
 
-      ▼
+      ?
 
-Instituição Financeira
+Institui��o Financeira
 ```
 
-Cada componente possui uma responsabilidade específica.
+Cada componente possui uma responsabilidade espec�fica.
 
 ---
 
 # Modelos tradicionais de TEF
 
-Ao longo dos anos surgiram diferentes formas de implementação.
+Ao longo dos anos surgiram diferentes formas de implementa��o.
 
 Entre elas:
 
@@ -156,13 +156,13 @@ Entre elas:
 - TEF discado
 - TEF IP
 - SiTef
-- Gerenciador Padrão
-- DLLs proprietárias
-- Integrações por troca de arquivos
+- Gerenciador Padr�o
+- DLLs propriet�rias
+- Integra��es por troca de arquivos
 
-Cada fabricante passou a adotar tecnologias próprias.
+Cada fabricante passou a adotar tecnologias pr�prias.
 
-Isso tornou as integrações cada vez mais complexas.
+Isso tornou as integra��es cada vez mais complexas.
 
 ---
 
@@ -175,95 +175,93 @@ Hoje o mercado possui:
 - APIs distintas;
 - novas tecnologias surgindo constantemente.
 
-Isso faz com que muitos sistemas precisem manter diversas integrações simultaneamente.
+Isso faz com que muitos sistemas precisem manter diversas integra��es simultaneamente.
 
-Esse modelo aumenta significativamente o custo de desenvolvimento e manutenção.
+Esse modelo aumenta significativamente o custo de desenvolvimento e manuten��o.
 
 ---
 
 # Onde o ConnectTEF entra?
 
-O ConnectTEF atua como uma camada de abstração entre o sistema de gestão e o ecossistema de pagamentos.
+O ConnectTEF atua como uma camada de abstra��o entre o sistema de gest�o e o ecossistema de pagamentos.
 
-Em vez de integrar diretamente com diferentes tecnologias de TEF, o ERP realiza apenas uma integração com o ConnectTEF.
+Em vez de integrar diretamente com diferentes tecnologias de TEF, o ERP realiza apenas uma integra��o com o ConnectTEF.
 
 ```text
 ERP
 
-     │
+     �
 
-     ▼
+     ?
 
 ConnectTEF
 
-     │
+     �
 
-     ▼
+     ?
 
 Ecossistema de Pagamentos
 
-     │
+     �
 
-     ├── SmartPOS
+     +-- SmartPOS
 
-     ├── Adquirentes
+     +-- Adquirentes
 
-     ├── Gateways
+     +-- Gateways
 
-     └── Serviços
+     +-- Servi�os
 ```
 
-Essa arquitetura reduz a complexidade da integração e protege o ERP das constantes mudanças do mercado.
+Essa arquitetura reduz a complexidade da integra��o e protege o ERP das constantes mudan�as do mercado.
 
 ---
 
-# Benefícios
+# Benef�cios
 
 Ao utilizar uma plataforma como o ConnectTEF, o sistema passa a contar com:
 
-- uma única integração;
-- menor custo de manutenção;
-- menor esforço de homologação;
-- evolução contínua;
+- uma �nica integra��o;
+- menor custo de manuten��o;
+- menor esfor�o de homologa��o;
+- evolu��o cont�nua;
 - compatibilidade com diferentes fabricantes;
-- suporte a múltiplas formas de integração;
+- suporte a m�ltiplas formas de integra��o;
 - arquitetura preparada para crescimento.
 
 ---
 
 # Quando utilizar
 
-O TEF é necessário sempre que um sistema precisar:
+O TEF � necess�rio sempre que um sistema precisar:
 
 - receber pagamentos;
-- cancelar transações;
-- consultar operações financeiras;
+- cancelar transa��es;
+- consultar opera��es financeiras;
 - comunicar-se com SmartPOS;
 - integrar adquirentes;
-- controlar operações de pagamento.
+- controlar opera��es de pagamento.
 
 ---
 
 # Resumo
 
-O TEF é o mecanismo responsável pela comunicação entre o sistema de gestão e os meios eletrônicos de pagamento.
+O TEF � o mecanismo respons�vel pela comunica��o entre o sistema de gest�o e os meios eletr�nicos de pagamento.
 
-O ConnectTEF moderniza essa arquitetura, transformando múltiplas integrações em uma única interface de comunicação, reduzindo custos e simplificando a evolução do software.
+O ConnectTEF moderniza essa arquitetura, transformando m�ltiplas integra��es em uma �nica interface de comunica��o, reduzindo custos e simplificando a evolu��o do software.
 
 ---
 
-# Próximo capítulo
+# Pr�ximo cap�tulo
 
 Agora que compreendemos o conceito de TEF, conheceremos o principal equipamento utilizado nessa arquitetura: o SmartPOS.
 
 <!-- NAVIGATION_FOOTER:START -->
 ---
-### Veja também
-
-- [O que é SmartPOS](02-O-QUE-E-SMARTPOS.md)
-- [O que é Gerenciador Padrão](05-O-QUE-E-GERENCIADOR-PADRAO.md)
-- [O que é SiTef](07-O-QUE-E-SITEF.md)
-
+### Veja tambem
+- [README ConnectTEF](../README.md)
+- [Índice da Seção](README.md)
+- [O que e SmartPOS](02-O-QUE-E-SMARTPOS.md)
 ---
-**Navegação:** [Anterior](README.md) | [Próximo](02-O-QUE-E-SMARTPOS.md)
+**Navegacao:** [Anterior](README.md) | [Inicio](../README.md) | [Proximo](02-O-QUE-E-SMARTPOS.md)
 <!-- NAVIGATION_FOOTER:END -->

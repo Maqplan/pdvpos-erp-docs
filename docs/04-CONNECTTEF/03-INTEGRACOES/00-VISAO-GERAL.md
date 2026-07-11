@@ -1,8 +1,8 @@
-<!-- NAVIGATION:START -->
+﻿<!-- NAVIGATION:START -->
 ---
-[README Principal](../README.md) | [Índice da Documentação](../README.md) | Anterior | [Próximo](01-REST-API.md)
+[README ConnectTEF](../README.md) | [Índice da Seção](README.md) | [Anterior](README.md) | [Proximo](01-INTEGRACAO-VIA-API-REST.md)
 ---
-> **Caminho:** [Início](../README.md) / **03 - Integrações** / 00 - Visão Geral
+> **Caminho:** [Inicio](../README.md) / Integracoes / Visao Geral
 <!-- NAVIGATION:END -->
 
 # 00 - Visão Geral
@@ -167,12 +167,10 @@ Nos próximos capítulos serão apresentados em detalhes cada um dos modelos de 
 
 <!-- NAVIGATION_FOOTER:START -->
 ---
-### Veja também
-
-- [01 - REST API](01-REST-API.md)
-- [02 - REST API Local](02-REST-API-LOCAL.md)
-- [03 - Windows DLL](03-WINDOWS-DLL.md)
-
+### Veja tambem
+- [README ConnectTEF](../README.md)
+- [Índice da Seção](README.md)
+- [Integracao via API Rest](01-INTEGRACAO-VIA-API-REST.md)
 ---
-**Navegação:** Início | [README](../README.md) | [Próximo](01-REST-API.md)
+**Navegacao:** [Anterior](README.md) | [Inicio](../README.md) | [Proximo](01-INTEGRACAO-VIA-API-REST.md)
 <!-- NAVIGATION_FOOTER:END -->

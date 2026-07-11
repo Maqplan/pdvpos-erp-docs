@@ -1,8 +1,8 @@
-<!-- NAVIGATION:START -->
+﻿<!-- NAVIGATION:START -->
 ---
-[README Principal](../README.md) | [Índice da Documentação](../README.md) | [Anterior](../02-ARQUITETURA/README.md) | [Próximo](00-VISAO-GERAL.md)
+[README ConnectTEF](../README.md) | [Índice da Seção](README.md) | [Anterior](../02-ARQUITETURA/09-SEGURANCA.md) | [Proximo](00-VISAO-GERAL.md)
 ---
-> **Caminho:** [Início](../README.md) / **03 - Integrações**
+> **Caminho:** [Inicio](../README.md) / Integracoes / README
 <!-- NAVIGATION:END -->
 
 # 03 - Integrações
@@ -198,12 +198,9 @@ Esta seção é composta pelos seguintes capítulos:
 | [07 - Integração via Elgin](07-INTEGRACAO-VIA-ELGIN.md) | Compatibilidade com integrações Elgin. |
 | [08 - Integração via Windows DLL](08-INTEGRACAO-VIA-DLL.md) | Integração através de biblioteca nativa Windows. |
 | [09 - Integração Desktop](09-INTEGRACAO-DESKTOP.md) | Guia para aplicações Desktop. |
-| [10 - Integração SmartPOS](10-INTEGRACAO-SMARTPOS.md) | Guia para aplicações Android SmartPOS. |
-| [11 - Autenticação](11-AUTENTICACAO.md) | Autenticação e autorização das APIs. |
-| [12 - Segurança](12-SEGURANCA.md) | Boas práticas de segurança. |
-| [13 - Boas Práticas](13-BOAS-PRATICAS.md) | Recomendações para integrações robustas. |
-| [14 - Fluxos de Integração](14-FLUXOS-DE-INTEGRACAO.md) | Fluxos operacionais da plataforma. |
-| [15 - Exemplos](15-EXEMPLOS.md) | Exemplos de utilização das APIs e modelos de integração. |
+| [10 - Integração Web](10-INTEGRACAO-WEB.md) | Guia para aplicações Web e serviços em nuvem. |
+| [11 - Integração Android](11-INTEGRACAO-ANDROID.md) | Guia para aplicações Android SmartPOS. |
+| [12 - Boas Práticas](12-BOAS-PRATICAS.md) | Recomendações para integrações robustas e seguras. |
 
 ---
 
@@ -215,12 +212,10 @@ Seja através de APIs modernas, bibliotecas nativas, mecanismos Android ou camad
 
 <!-- NAVIGATION_FOOTER:START -->
 ---
-### Veja também
-
-- [02 - Arquitetura](../02-ARQUITETURA/README.md)
-- [00 - Visão Geral](00-VISAO-GERAL.md)
-- [04 - APIs](../04-APIS/README.md)
-
+### Veja tambem
+- [README ConnectTEF](../README.md)
+- [Índice da Seção](README.md)
+- [Visao Geral](00-VISAO-GERAL.md)
 ---
-**Navegação:** [Anterior](../02-ARQUITETURA/README.md) | [Início](../README.md) | [Próximo](00-VISAO-GERAL.md)
+**Navegacao:** [Anterior](../02-ARQUITETURA/09-SEGURANCA.md) | [Inicio](../README.md) | [Proximo](00-VISAO-GERAL.md)
 <!-- NAVIGATION_FOOTER:END -->

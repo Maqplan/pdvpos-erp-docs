@@ -1,47 +1,47 @@
-<!-- NAVIGATION:START -->
+﻿<!-- NAVIGATION:START -->
 ---
-[README Principal](../README.md) | [Índice dos Conceitos](README.md) | [Anterior](08-O-QUE-E-PROVIDER.md) | [Próximo](10-O-QUE-E-API-LOCAL.md)
+[README ConnectTEF](../README.md) | [Índice da Seção](README.md) | [Anterior](08-O-QUE-E-PROVIDER.md) | [Proximo](10-O-QUE-E-API-LOCAL.md)
 ---
-> **Caminho:** [Início](../README.md) / [Conceitos](README.md) / O que é Android Intent
+> **Caminho:** [Inicio](../README.md) / Conceitos / O que e Intent
 <!-- NAVIGATION:END -->
 
-# O que é Android Intent?
+# O que � Android Intent?
 
-O Android Intent é um mecanismo nativo do sistema operacional Android utilizado para permitir que uma aplicação solicite a execução de uma ação em outra aplicação.
+O Android Intent � um mecanismo nativo do sistema operacional Android utilizado para permitir que uma aplica��o solicite a execu��o de uma a��o em outra aplica��o.
 
-No ConnectTEF, esse mecanismo permite que um aplicativo comercial solicite operações de pagamento ao aplicativo responsável pela integração com o SmartPOS de forma simples, segura e utilizando recursos nativos do Android.
+No ConnectTEF, esse mecanismo permite que um aplicativo comercial solicite opera��es de pagamento ao aplicativo respons�vel pela integra��o com o SmartPOS de forma simples, segura e utilizando recursos nativos do Android.
 
 ---
 
 # Objetivo
 
-Compreender o conceito de Android Intent e entender quando essa forma de integração é a mais indicada para aplicações Android.
+Compreender o conceito de Android Intent e entender quando essa forma de integra��o � a mais indicada para aplica��es Android.
 
 ---
 
 # O problema
 
-Aplicações Android frequentemente precisam compartilhar funcionalidades.
+Aplica��es Android frequentemente precisam compartilhar funcionalidades.
 
 Por exemplo:
 
 - solicitar um pagamento;
 - imprimir um comprovante;
-- abrir uma tela específica;
-- capturar informações do usuário;
-- executar um serviço externo.
+- abrir uma tela espec�fica;
+- capturar informa��es do usu�rio;
+- executar um servi�o externo.
 
-Sem um mecanismo padronizado, cada aplicação precisaria implementar sua própria forma de comunicação.
+Sem um mecanismo padronizado, cada aplica��o precisaria implementar sua pr�pria forma de comunica��o.
 
 O Android Intent resolve esse problema.
 
 ---
 
-# O que é um Intent?
+# O que � um Intent?
 
-Um Intent é uma mensagem enviada de uma aplicação para outra solicitando que uma determinada ação seja executada.
+Um Intent � uma mensagem enviada de uma aplica��o para outra solicitando que uma determinada a��o seja executada.
 
-O Android identifica qual aplicação é responsável por aquela ação e realiza a comunicação automaticamente.
+O Android identifica qual aplica��o � respons�vel por aquela a��o e realiza a comunica��o automaticamente.
 
 Essa abordagem reduz o acoplamento entre os aplicativos.
 
@@ -50,80 +50,80 @@ Essa abordagem reduz o acoplamento entre os aplicativos.
 # Como funciona?
 
 ```text
-Aplicação Comercial
+Aplica��o Comercial
 
-        │
+        �
 
-        ▼
+        ?
 
 Android Intent
 
-        │
+        �
 
-        ▼
+        ?
 
 ConnectTEF
 
-        │
+        �
 
-        ▼
+        ?
 
 SmartPOS
 
-        │
+        �
 
-        ▼
+        ?
 
 Pagamento
 ```
 
-A aplicação comercial apenas solicita a operação.
+A aplica��o comercial apenas solicita a opera��o.
 
-O ConnectTEF assume toda a comunicação com o SmartPOS e retorna o resultado ao aplicativo de origem.
+O ConnectTEF assume toda a comunica��o com o SmartPOS e retorna o resultado ao aplicativo de origem.
 
 ---
 
 # Quando utilizar?
 
-A integração via Intent é recomendada quando:
+A integra��o via Intent � recomendada quando:
 
-- a aplicação é Android;
-- o ConnectTEF está instalado no mesmo dispositivo;
-- deseja-se uma integração simples;
-- as operações são pontuais;
+- a aplica��o � Android;
+- o ConnectTEF est� instalado no mesmo dispositivo;
+- deseja-se uma integra��o simples;
+- as opera��es s�o pontuais;
 - pretende-se utilizar mecanismos nativos do Android.
 
 ---
 
 # Vantagens
 
-A utilização de Intents oferece diversas vantagens.
+A utiliza��o de Intents oferece diversas vantagens.
 
 Entre elas:
 
-- integração simples;
+- integra��o simples;
 - baixo acoplamento;
-- comunicação nativa do Android;
-- menor esforço de desenvolvimento;
-- fácil manutenção;
+- comunica��o nativa do Android;
+- menor esfor�o de desenvolvimento;
+- f�cil manuten��o;
 - compatibilidade com SmartPOS Android.
 
 ---
 
 # Intent x Provider
 
-Embora ambos sejam mecanismos nativos do Android, possuem características diferentes.
+Embora ambos sejam mecanismos nativos do Android, possuem caracter�sticas diferentes.
 
 | Android Intent | Provider Android |
 |----------------|------------------|
-| Comunicação baseada em ações | Comunicação baseada em dados e serviços |
-| Implementação simples | Maior flexibilidade |
-| Ideal para operações pontuais | Ideal para integrações contínuas |
-| Baixo acoplamento | Compartilhamento estruturado de informações |
+| Comunica��o baseada em a��es | Comunica��o baseada em dados e servi�os |
+| Implementa��o simples | Maior flexibilidade |
+| Ideal para opera��es pontuais | Ideal para integra��es cont�nuas |
+| Baixo acoplamento | Compartilhamento estruturado de informa��es |
 
-O ConnectTEF oferece suporte às duas abordagens.
+O ConnectTEF oferece suporte �s duas abordagens.
 
-A escolha depende da arquitetura da aplicação.
+A escolha depende da arquitetura da aplica��o.
 
 ---
 
@@ -131,74 +131,71 @@ A escolha depende da arquitetura da aplicação.
 
 | Android Intent | API REST |
 |----------------|----------|
-| Comunicação local | Comunicação via HTTP |
+| Comunica��o local | Comunica��o via HTTP |
 | Apenas Android | Multiplataforma |
-| Não depende de servidor | Pode ser utilizada remotamente |
+| N�o depende de servidor | Pode ser utilizada remotamente |
 | Ideal para SmartPOS | Ideal para Web e Desktop |
 
 ---
 
 # O papel do ConnectTEF
 
-Independentemente da forma de integração utilizada, o ConnectTEF mantém exatamente o mesmo fluxo operacional.
+Independentemente da forma de integra��o utilizada, o ConnectTEF mant�m exatamente o mesmo fluxo operacional.
 
-Após receber a solicitação através do Intent, a plataforma:
+Ap�s receber a solicita��o atrav�s do Intent, a plataforma:
 
-- interpreta a operação;
+- interpreta a opera��o;
 - comunica-se com o SmartPOS;
-- acompanha a transação;
+- acompanha a transa��o;
 - devolve o resultado ao aplicativo.
 
 Toda a complexidade permanece encapsulada na plataforma.
 
 ---
 
-# Quando NÃO utilizar?
+# Quando N�O utilizar?
 
-O Android Intent normalmente não é recomendado quando:
+O Android Intent normalmente n�o � recomendado quando:
 
-- a aplicação não é Android;
+- a aplica��o n�o � Android;
 - ERP e SmartPOS executam em dispositivos diferentes;
-- deseja-se integração remota;
-- o sistema precisa atender aplicações Web ou Desktop.
+- deseja-se integra��o remota;
+- o sistema precisa atender aplica��es Web ou Desktop.
 
-Nesses cenários, normalmente recomenda-se utilizar a API REST do ConnectTEF.
+Nesses cen�rios, normalmente recomenda-se utilizar a API REST do ConnectTEF.
 
 ---
 
-# Benefícios
+# Benef�cios
 
 Ao utilizar Android Intent com o ConnectTEF:
 
-- a integração permanece desacoplada;
-- a comunicação é nativa do Android;
-- reduz-se o esforço de desenvolvimento;
-- a manutenção torna-se mais simples;
-- o sistema permanece preparado para futuras evoluções da plataforma.
+- a integra��o permanece desacoplada;
+- a comunica��o � nativa do Android;
+- reduz-se o esfor�o de desenvolvimento;
+- a manuten��o torna-se mais simples;
+- o sistema permanece preparado para futuras evolu��es da plataforma.
 
 ---
 
 # Resumo
 
-O Android Intent é um mecanismo nativo utilizado para comunicação entre aplicações Android.
+O Android Intent � um mecanismo nativo utilizado para comunica��o entre aplica��es Android.
 
-No ConnectTEF, ele permite que aplicações comerciais solicitem operações de pagamento de forma simples, utilizando recursos do próprio sistema operacional, enquanto toda a lógica de comunicação com o SmartPOS permanece centralizada na plataforma.
+No ConnectTEF, ele permite que aplica��es comerciais solicitem opera��es de pagamento de forma simples, utilizando recursos do pr�prio sistema operacional, enquanto toda a l�gica de comunica��o com o SmartPOS permanece centralizada na plataforma.
 
 ---
 
-# Próximo capítulo
+# Pr�ximo cap�tulo
 
-Agora conheceremos a **API Local**, uma das formas de integração disponibilizadas pelo ConnectTEF para comunicação entre aplicações executadas no mesmo ambiente.
+Agora conheceremos a **API Local**, uma das formas de integra��o disponibilizadas pelo ConnectTEF para comunica��o entre aplica��es executadas no mesmo ambiente.
 
 <!-- NAVIGATION_FOOTER:START -->
 ---
-### Veja também
-
-- [O que é API Local](10-O-QUE-E-API-LOCAL.md)
-- [O que é Provider Android](08-O-QUE-E-PROVIDER.md)
-- [Integração via Android Intent](../03-INTEGRACOES/04-INTEGRACAO-VIA-INTENT.md)
-- [Integração Android](../03-INTEGRACOES/11-INTEGRACAO-ANDROID.md)
-
+### Veja tambem
+- [README ConnectTEF](../README.md)
+- [Índice da Seção](README.md)
+- [O que e API Local](10-O-QUE-E-API-LOCAL.md)
 ---
-**Navegação:** [Anterior](08-O-QUE-E-PROVIDER.md) | [Próximo](10-O-QUE-E-API-LOCAL.md)
+**Navegacao:** [Anterior](08-O-QUE-E-PROVIDER.md) | [Inicio](../README.md) | [Proximo](10-O-QUE-E-API-LOCAL.md)
 <!-- NAVIGATION_FOOTER:END -->

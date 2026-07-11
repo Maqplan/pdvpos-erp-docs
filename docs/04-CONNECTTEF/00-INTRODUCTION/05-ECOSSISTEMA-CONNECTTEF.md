@@ -1,8 +1,8 @@
-<!-- NAVIGATION:START -->
+﻿<!-- NAVIGATION:START -->
 ---
-[README Principal](../README.md) | [Índice da documentação](MODULES-INDEX.md) | [Anterior](04-ARQUITETURA-GERAL.md) | [Próximo](06-PRIMEIROS-PASSOS.md)
+[README ConnectTEF](../README.md) | [Índice da Seção](README.md) | [Anterior](04-ARQUITETURA-GERAL.md) | [Proximo](06-PRIMEIROS-PASSOS.md)
 ---
-> **Caminho:** [Início](../README.md) / [Introdução](README.md) / 05 - Ecossistema ConnectTEF
+> **Caminho:** [Inicio](../README.md) / Introducao / Ecossistema ConnectTEF
 <!-- NAVIGATION:END -->
 
 # Ecossistema ConnectTEF
@@ -229,11 +229,10 @@ Agora que você conhece o ecossistema ConnectTEF, veremos como iniciar uma nova 
 
 <!-- NAVIGATION_FOOTER:START -->
 ---
-### Veja também
-
-- [04 - Arquitetura Geral](04-ARQUITETURA-GERAL.md)
-- [06 - Primeiros Passos](06-PRIMEIROS-PASSOS.md)
-
+### Veja tambem
+- [README ConnectTEF](../README.md)
+- [Índice da Seção](README.md)
+- [Primeiros Passos](06-PRIMEIROS-PASSOS.md)
 ---
-**Navegação:** [Anterior](04-ARQUITETURA-GERAL.md) | [Próximo](06-PRIMEIROS-PASSOS.md)
+**Navegacao:** [Anterior](04-ARQUITETURA-GERAL.md) | [Inicio](../README.md) | [Proximo](06-PRIMEIROS-PASSOS.md)
 <!-- NAVIGATION_FOOTER:END -->

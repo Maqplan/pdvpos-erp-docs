@@ -1,8 +1,8 @@
-<!-- NAVIGATION:START -->
+﻿<!-- NAVIGATION:START -->
 ---
-[README Principal](../README.md) | [Índice dos Conceitos](README.md) | [Anterior](06-O-QUE-E-INTPOS.md) | [Próximo](08-O-QUE-E-PROVIDER.md)
+[README ConnectTEF](../README.md) | [Índice da Seção](README.md) | [Anterior](06-O-QUE-E-INTPOS.md) | [Proximo](08-O-QUE-E-PROVIDER.md)
 ---
-> **Caminho:** [Início](../README.md) / [Conceitos](README.md) / O que é SiTef
+> **Caminho:** [Inicio](../README.md) / Conceitos / O que e Sitef
 <!-- NAVIGATION:END -->
 
 # O que é SiTef?
@@ -178,12 +178,10 @@ No próximo capítulo conheceremos o **Provider Android**, um dos principais mec
 
 <!-- NAVIGATION_FOOTER:START -->
 ---
-### Veja também
-
-- [O que é Provider](08-O-QUE-E-PROVIDER.md)
-- [Migrando do SiTef](../07-MIGRACAO/01-MIGRANDO-DO-SITEF.md)
-- [Integração compatível com SiTef](../03-INTEGRACOES/06-INTEGRACAO-VIA-SITEF.md)
-
+### Veja tambem
+- [README ConnectTEF](../README.md)
+- [Índice da Seção](README.md)
+- [O que e Provider](08-O-QUE-E-PROVIDER.md)
 ---
-**Navegação:** [Anterior](06-O-QUE-E-INTPOS.md) | [Próximo](08-O-QUE-E-PROVIDER.md)
+**Navegacao:** [Anterior](06-O-QUE-E-INTPOS.md) | [Inicio](../README.md) | [Proximo](08-O-QUE-E-PROVIDER.md)
 <!-- NAVIGATION_FOOTER:END -->

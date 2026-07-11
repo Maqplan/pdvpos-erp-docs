@@ -1,8 +1,8 @@
-<!-- NAVIGATION:START -->
+﻿<!-- NAVIGATION:START -->
 ---
-[README Principal](../README.md) | [Índice da Arquitetura](README.md) | [Anterior](03-FLUXO-DE-TRANSACOES.md) | [Próximo](05-CAMADAS-DA-PLATAFORMA.md)
+[README ConnectTEF](../README.md) | [Índice da Seção](README.md) | [Anterior](03-FLUXO-DE-PAGAMENTO.md) | [Proximo](05-FLUXO-OFFLINE.md)
 ---
-> **Caminho:** [Início](../README.md) / [Arquitetura](README.md) / Fluxo de Comunicação
+> **Caminho:** [Inicio](../README.md) / Arquitetura / Fluxo de Comunicacao
 <!-- NAVIGATION:END -->
 
 # Fluxo de Comunicação
@@ -304,12 +304,10 @@ Agora conheceremos como a plataforma está organizada em camadas arquiteturais e
 
 <!-- NAVIGATION_FOOTER:START -->
 ---
-### Veja também
-
-- [05 - Camadas da Plataforma](05-CAMADAS-DA-PLATAFORMA.md)
-- [03 - Fluxo de Transações](03-FLUXO-DE-TRANSACOES.md)
-- [02 - Componentes](02-COMPONENTES.md)
-
+### Veja tambem
+- [README ConnectTEF](../README.md)
+- [Índice da Seção](README.md)
+- [Fluxo Offline](05-FLUXO-OFFLINE.md)
 ---
-**Navegação:** [Anterior](03-FLUXO-DE-TRANSACOES.md) | [Próximo](05-CAMADAS-DA-PLATAFORMA.md)
+**Navegacao:** [Anterior](03-FLUXO-DE-PAGAMENTO.md) | [Inicio](../README.md) | [Proximo](05-FLUXO-OFFLINE.md)
 <!-- NAVIGATION_FOOTER:END -->

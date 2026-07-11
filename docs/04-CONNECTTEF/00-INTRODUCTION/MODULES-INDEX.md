@@ -1,8 +1,8 @@
-<!-- NAVIGATION:START -->
+﻿<!-- NAVIGATION:START -->
 ---
-[README Principal](../README.md) | [Introdução](README.md)
+[README ConnectTEF](../README.md) | [Índice da Seção](README.md) | [Anterior](06-PRIMEIROS-PASSOS.md) | [Proximo](../01-CONCEITOS/README.md)
 ---
-> **Caminho:** [Início](../README.md) / Introdução / Índice
+> **Caminho:** [Inicio](../README.md) / Introducao / Índice de Módulos
 <!-- NAVIGATION:END -->
 
 # Índice da Introdução
@@ -134,22 +134,10 @@ Integrações
 Recursos
         │
         ▼
-Compatibilidade
-        │
-        ▼
-APIs
-        │
-        ▼
-Migração
-        │
-        ▼
-Operação
-        │
-        ▼
-Casos de Uso
-        │
-        ▼
 FAQ
+        │
+        ▼
+Por que ConnectTEF
 ```
 
 ---
@@ -160,11 +148,10 @@ Após concluir a Introdução, continue para o módulo **Conceitos**, onde serã
 
 <!-- NAVIGATION_FOOTER:START -->
 ---
-### Veja também
-
-- [README Principal](../README.md)
-- [Conceitos](../01-CONCEITOS/README.md)
-
+### Veja tambem
+- [README ConnectTEF](../README.md)
+- [Índice da Seção](README.md)
+- [README](../01-CONCEITOS/README.md)
 ---
-**Navegação:** [README Principal](../README.md) | [Conceitos](../01-CONCEITOS/README.md)
+**Navegacao:** [Anterior](06-PRIMEIROS-PASSOS.md) | [Inicio](../README.md) | [Proximo](../01-CONCEITOS/README.md)
 <!-- NAVIGATION_FOOTER:END -->

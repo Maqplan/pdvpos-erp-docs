@@ -1,17 +1,17 @@
-<!-- NAVIGATION:START -->
+﻿<!-- NAVIGATION:START -->
 ---
-[README Principal](../README.md) | [Índice da Arquitetura](README.md) | [Anterior](08-EVENTOS.md) | [Próximo](README.md)
+[README ConnectTEF](../README.md) | [Índice da Seção](README.md) | [Anterior](08-EVENTOS.md) | [Proximo](../03-INTEGRACOES/README.md)
 ---
-> **Caminho:** [Início](../README.md) / [Arquitetura](README.md) / Segurança
+> **Caminho:** [Inicio](../README.md) / Arquitetura / Seguranca
 <!-- NAVIGATION:END -->
 
-# Segurança da Plataforma
+# Seguran�a da Plataforma
 
-A segurança é um dos pilares fundamentais da arquitetura do ConnectTEF.
+A seguran�a � um dos pilares fundamentais da arquitetura do ConnectTEF.
 
-Como plataforma responsável por integrar sistemas de gestão ao ecossistema de pagamentos, o ConnectTEF foi projetado para proteger a comunicação entre aplicações, garantir a integridade das operações e reduzir riscos durante todo o ciclo de vida das transações.
+Como plataforma respons�vel por integrar sistemas de gest�o ao ecossistema de pagamentos, o ConnectTEF foi projetado para proteger a comunica��o entre aplica��es, garantir a integridade das opera��es e reduzir riscos durante todo o ciclo de vida das transa��es.
 
-A segurança não está concentrada em um único componente.
+A seguran�a n�o est� concentrada em um �nico componente.
 
 Ela faz parte de toda a arquitetura da plataforma.
 
@@ -19,102 +19,102 @@ Ela faz parte de toda a arquitetura da plataforma.
 
 # Objetivo
 
-Apresentar os princípios de segurança adotados pelo ConnectTEF e demonstrar como eles contribuem para proteger aplicações integradas, operações de pagamento e a comunicação entre os diferentes componentes da solução.
+Apresentar os princ�pios de seguran�a adotados pelo ConnectTEF e demonstrar como eles contribuem para proteger aplica��es integradas, opera��es de pagamento e a comunica��o entre os diferentes componentes da solu��o.
 
 ---
 
-# Segurança em Camadas
+# Seguran�a em Camadas
 
-A arquitetura do ConnectTEF utiliza uma abordagem baseada em múltiplas camadas de proteção.
+A arquitetura do ConnectTEF utiliza uma abordagem baseada em m�ltiplas camadas de prote��o.
 
 ```text
-Aplicação
+Aplica��o
 
-      │
+      �
 
-      ▼
+      ?
 
-Autenticação
+Autentica��o
 
-      │
+      �
 
-      ▼
+      ?
 
-Autorização
+Autoriza��o
 
-      │
+      �
 
-      ▼
+      ?
 
-Validação
+Valida��o
 
-      │
+      �
 
-      ▼
+      ?
 
-Comunicação Segura
+Comunica��o Segura
 
-      │
+      �
 
-      ▼
+      ?
 
 Processamento
 
-      │
+      �
 
-      ▼
+      ?
 
 Auditoria
 ```
 
-Cada camada possui uma responsabilidade específica.
+Cada camada possui uma responsabilidade espec�fica.
 
 Essa abordagem reduz riscos e aumenta a confiabilidade da plataforma.
 
 ---
 
-# Princípios de Segurança
+# Princ�pios de Seguran�a
 
-A arquitetura do ConnectTEF foi construída seguindo alguns princípios fundamentais.
+A arquitetura do ConnectTEF foi constru�da seguindo alguns princ�pios fundamentais.
 
-- Menor privilégio.
+- Menor privil�gio.
 - Defesa em profundidade.
-- Validação de todas as requisições.
-- Comunicação segura.
+- Valida��o de todas as requisi��es.
+- Comunica��o segura.
 - Rastreabilidade.
-- Auditoria das operações.
+- Auditoria das opera��es.
 - Isolamento entre componentes.
-- Evolução contínua dos mecanismos de proteção.
+- Evolu��o cont�nua dos mecanismos de prote��o.
 
 ---
 
-# Proteção da Comunicação
+# Prote��o da Comunica��o
 
-Toda comunicação realizada pela plataforma deve utilizar mecanismos adequados ao ambiente de integração.
+Toda comunica��o realizada pela plataforma deve utilizar mecanismos adequados ao ambiente de integra��o.
 
 Dependendo da arquitetura utilizada, podem ser empregados recursos como:
 
-- conexões protegidas;
-- autenticação das aplicações;
-- validação das mensagens;
-- verificação da integridade das informações.
+- conex�es protegidas;
+- autentica��o das aplica��es;
+- valida��o das mensagens;
+- verifica��o da integridade das informa��es.
 
-O objetivo é impedir alterações indevidas durante a transmissão dos dados.
+O objetivo � impedir altera��es indevidas durante a transmiss�o dos dados.
 
 ---
 
-# Proteção das Operações
+# Prote��o das Opera��es
 
-Antes que qualquer operação seja processada, o ConnectTEF executa uma sequência de validações.
+Antes que qualquer opera��o seja processada, o ConnectTEF executa uma sequ�ncia de valida��es.
 
 Entre elas:
 
-- identificação da aplicação;
-- validação da requisição;
-- consistência dos parâmetros;
-- autorização da operação.
+- identifica��o da aplica��o;
+- valida��o da requisi��o;
+- consist�ncia dos par�metros;
+- autoriza��o da opera��o.
 
-Somente após essas verificações a solicitação segue para processamento.
+Somente ap�s essas verifica��es a solicita��o segue para processamento.
 
 ---
 
@@ -125,70 +125,70 @@ Cada componente da arquitetura possui responsabilidades bem definidas.
 ```text
 ERP
 
-    │
+    �
 
-    ▼
+    ?
 
 ConnectTEF
 
-    │
+    �
 
-    ▼
+    ?
 
 SmartPOS
 
-    │
+    �
 
-    ▼
+    ?
 
 Ecossistema Financeiro
 ```
 
-Essa separação reduz o acoplamento e limita o impacto de falhas entre os diferentes módulos da solução.
+Essa separa��o reduz o acoplamento e limita o impacto de falhas entre os diferentes m�dulos da solu��o.
 
 ---
 
 # Integridade dos Dados
 
-Durante todo o fluxo de processamento, a plataforma busca preservar a integridade das informações.
+Durante todo o fluxo de processamento, a plataforma busca preservar a integridade das informa��es.
 
-Isso significa que os dados utilizados pelo ERP permanecem consistentes durante todas as etapas da operação, desde a solicitação inicial até o retorno da resposta.
+Isso significa que os dados utilizados pelo ERP permanecem consistentes durante todas as etapas da opera��o, desde a solicita��o inicial at� o retorno da resposta.
 
 ---
 
 # Rastreabilidade
 
-Todas as operações podem ser acompanhadas ao longo do seu ciclo de vida.
+Todas as opera��es podem ser acompanhadas ao longo do seu ciclo de vida.
 
 Essa rastreabilidade auxilia em atividades como:
 
 - auditoria;
-- suporte técnico;
-- diagnóstico de problemas;
+- suporte t�cnico;
+- diagn�stico de problemas;
 - monitoramento operacional;
-- análise de eventos.
+- an�lise de eventos.
 
-Cada operação possui um histórico que facilita sua identificação e acompanhamento.
+Cada opera��o possui um hist�rico que facilita sua identifica��o e acompanhamento.
 
 ---
 
 # Tratamento de Falhas
 
-A arquitetura considera cenários como:
+A arquitetura considera cen�rios como:
 
-- perda de comunicação;
-- indisponibilidade temporária;
-- operações interrompidas;
-- respostas inválidas;
-- falhas de integração.
+- perda de comunica��o;
+- indisponibilidade tempor�ria;
+- opera��es interrompidas;
+- respostas inv�lidas;
+- falhas de integra��o.
 
-Sempre que possível, essas situações são tratadas de forma padronizada, preservando a consistência da plataforma.
+Sempre que poss�vel, essas situa��es s�o tratadas de forma padronizada, preservando a consist�ncia da plataforma.
 
 ---
 
-# Segurança nas Integrações
+# Seguran�a nas Integra��es
 
-Independentemente da tecnologia utilizada, todas as formas de integração seguem os mesmos princípios arquiteturais.
+Independentemente da tecnologia utilizada, todas as formas de integra��o seguem os mesmos princ�pios arquiteturais.
 
 Entre elas:
 
@@ -196,83 +196,80 @@ Entre elas:
 - API Local;
 - Provider Android;
 - Android Intent;
-- Gerenciador Padrão.
+- Gerenciador Padr�o.
 
-Cada interface possui mecanismos específicos de proteção, mas todas fazem parte da mesma arquitetura de segurança.
+Cada interface possui mecanismos espec�ficos de prote��o, mas todas fazem parte da mesma arquitetura de seguran�a.
 
 ---
 
 # Auditoria
 
-A arquitetura do ConnectTEF foi desenvolvida para permitir o registro de eventos relevantes durante o processamento das operações.
+A arquitetura do ConnectTEF foi desenvolvida para permitir o registro de eventos relevantes durante o processamento das opera��es.
 
 Esses registros auxiliam em:
 
-- rastreamento de operações;
-- identificação de falhas;
+- rastreamento de opera��es;
+- identifica��o de falhas;
 - monitoramento;
-- suporte técnico;
+- suporte t�cnico;
 - conformidade operacional.
 
 ---
 
 # Responsabilidades
 
-A segurança da plataforma é resultado da colaboração entre diferentes componentes.
+A seguran�a da plataforma � resultado da colabora��o entre diferentes componentes.
 
 | Componente | Responsabilidade |
 |------------|------------------|
-| Aplicação Integrada | Utilizar corretamente as interfaces da plataforma |
+| Aplica��o Integrada | Utilizar corretamente as interfaces da plataforma |
 | ConnectTEF | Validar, proteger e controlar o processamento |
-| SmartPOS | Executar operações conforme o ambiente homologado |
-| Ecossistema de Pagamentos | Processar as transações financeiras conforme suas próprias políticas de segurança |
+| SmartPOS | Executar opera��es conforme o ambiente homologado |
+| Ecossistema de Pagamentos | Processar as transa��es financeiras conforme suas pr�prias pol�ticas de seguran�a |
 
 ---
 
-# Boas Práticas
+# Boas Pr�ticas
 
-Ao integrar sua aplicação ao ConnectTEF, recomenda-se:
+Ao integrar sua aplica��o ao ConnectTEF, recomenda-se:
 
 - proteger credenciais de acesso;
-- utilizar canais seguros de comunicação;
-- manter aplicações atualizadas;
+- utilizar canais seguros de comunica��o;
+- manter aplica��es atualizadas;
 - validar respostas da plataforma;
 - registrar eventos relevantes;
-- restringir o acesso às aplicações autorizadas.
+- restringir o acesso �s aplica��es autorizadas.
 
 ---
 
 # Filosofia da Plataforma
 
-A segurança do ConnectTEF não depende de um único mecanismo.
+A seguran�a do ConnectTEF n�o depende de um �nico mecanismo.
 
-Ela é resultado da combinação de autenticação, validação, comunicação protegida, rastreabilidade e isolamento entre componentes.
+Ela � resultado da combina��o de autentica��o, valida��o, comunica��o protegida, rastreabilidade e isolamento entre componentes.
 
-Essa abordagem permite que a plataforma evolua continuamente mantendo elevados padrões de confiabilidade para aplicações integradas e para o ecossistema de pagamentos.
+Essa abordagem permite que a plataforma evolua continuamente mantendo elevados padr�es de confiabilidade para aplica��es integradas e para o ecossistema de pagamentos.
 
 ---
 
 # Resumo
 
-A arquitetura de segurança do ConnectTEF foi projetada para proteger toda a comunicação entre sistemas de gestão, SmartPOS e o ecossistema de pagamentos.
+A arquitetura de seguran�a do ConnectTEF foi projetada para proteger toda a comunica��o entre sistemas de gest�o, SmartPOS e o ecossistema de pagamentos.
 
-Utilizando múltiplas camadas de proteção, validação e rastreabilidade, a plataforma oferece um ambiente seguro para integração, preservando a integridade das operações e reduzindo riscos ao longo de todo o ciclo de processamento.
+Utilizando m�ltiplas camadas de prote��o, valida��o e rastreabilidade, a plataforma oferece um ambiente seguro para integra��o, preservando a integridade das opera��es e reduzindo riscos ao longo de todo o ciclo de processamento.
 
 ---
 
-# Próximos passos
+# Pr�ximos passos
 
-Agora que você conhece a arquitetura da plataforma, prossiga para a seção **Integrações**, onde serão apresentados os diferentes modelos de comunicação disponibilizados pelo ConnectTEF, exemplos práticos e guias de implementação.
+Agora que voc� conhece a arquitetura da plataforma, prossiga para a se��o **Integra��es**, onde ser�o apresentados os diferentes modelos de comunica��o disponibilizados pelo ConnectTEF, exemplos pr�ticos e guias de implementa��o.
 
 <!-- NAVIGATION_FOOTER:START -->
 ---
-### Veja também
-
-- [README - Arquitetura](README.md)
-- [Integrações](../03-INTEGRACOES/README.md)
-- [Autenticação](06-AUTENTICACAO.md)
-- [Eventos](08-EVENTOS.md)
-
+### Veja tambem
+- [README ConnectTEF](../README.md)
+- [Índice da Seção](README.md)
+- [README](../03-INTEGRACOES/README.md)
 ---
-**Navegação:** [Anterior](08-EVENTOS.md) | [Próximo](../03-INTEGRACOES/README.md)
+**Navegacao:** [Anterior](08-EVENTOS.md) | [Inicio](../README.md) | [Proximo](../03-INTEGRACOES/README.md)
 <!-- NAVIGATION_FOOTER:END -->

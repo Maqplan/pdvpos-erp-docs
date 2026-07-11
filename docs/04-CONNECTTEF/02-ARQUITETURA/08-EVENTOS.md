@@ -1,8 +1,8 @@
-<!-- NAVIGATION:START -->
+﻿<!-- NAVIGATION:START -->
 ---
-[README Principal](../README.md) | [Índice da Arquitetura](README.md) | [Anterior](07-WEBHOOKS.md) | [Próximo](09-ESCALABILIDADE.md)
+[README ConnectTEF](../README.md) | [Índice da Seção](README.md) | [Anterior](07-WEBHOOKS.md) | [Proximo](09-SEGURANCA.md)
 ---
-> **Caminho:** [Início](../README.md) / [Arquitetura](README.md) / Eventos
+> **Caminho:** [Inicio](../README.md) / Arquitetura / Eventos
 <!-- NAVIGATION:END -->
 
 # Eventos
@@ -258,12 +258,10 @@ Agora conheceremos como a arquitetura do ConnectTEF foi projetada para evoluir c
 
 <!-- NAVIGATION_FOOTER:START -->
 ---
-### Veja também
-
-- [09 - Escalabilidade](09-ESCALABILIDADE.md)
-- [Webhooks](07-WEBHOOKS.md)
-- [Fluxo de Comunicação](04-FLUXO-DE-COMUNICACAO.md)
-
+### Veja tambem
+- [README ConnectTEF](../README.md)
+- [Índice da Seção](README.md)
+- [Seguranca](09-SEGURANCA.md)
 ---
-**Navegação:** [Anterior](07-WEBHOOKS.md) | [Próximo](09-ESCALABILIDADE.md)
+**Navegacao:** [Anterior](07-WEBHOOKS.md) | [Inicio](../README.md) | [Proximo](09-SEGURANCA.md)
 <!-- NAVIGATION_FOOTER:END -->

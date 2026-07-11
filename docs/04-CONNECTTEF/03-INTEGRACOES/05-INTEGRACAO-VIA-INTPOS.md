@@ -1,8 +1,8 @@
-<!-- NAVIGATION:START -->
+﻿<!-- NAVIGATION:START -->
 ---
-[README Principal](../README.md) | [Índice da Documentação](../README.md) | [Anterior](04-INTEGRACAO-VIA-INTENT.md) | [Próximo](06-COMPATIBILIDADE-SITEF.md)
+[README ConnectTEF](../README.md) | [Índice da Seção](README.md) | [Anterior](04-INTEGRACAO-VIA-INTENT.md) | [Proximo](06-INTEGRACAO-VIA-SITEF.md)
 ---
-> **Caminho:** [Início](../README.md) / **03 - Integrações** / 05 - Integração via INTPOS
+> **Caminho:** [Inicio](../README.md) / Integracoes / Integracao via INTPOS
 <!-- NAVIGATION:END -->
 
 # 05 - Integração via INTPOS
@@ -173,12 +173,10 @@ Os próximos capítulos apresentam os mecanismos de compatibilidade disponibiliz
 
 <!-- NAVIGATION_FOOTER:START -->
 ---
-### Veja também
-
-- [04 - Integração via Intent](04-INTEGRACAO-VIA-INTENT.md)
-- [06 - Compatibilidade SiTef](06-COMPATIBILIDADE-SITEF.md)
-- [13 - Boas Práticas](13-BOAS-PRATICAS.md)
-
+### Veja tambem
+- [README ConnectTEF](../README.md)
+- [Índice da Seção](README.md)
+- [Integracao via Sitef](06-INTEGRACAO-VIA-SITEF.md)
 ---
-**Navegação:** [Anterior](04-INTEGRACAO-VIA-INTENT.md) | [README](../README.md) | [Próximo](06-COMPATIBILIDADE-SITEF.md)
+**Navegacao:** [Anterior](04-INTEGRACAO-VIA-INTENT.md) | [Inicio](../README.md) | [Proximo](06-INTEGRACAO-VIA-SITEF.md)
 <!-- NAVIGATION_FOOTER:END -->

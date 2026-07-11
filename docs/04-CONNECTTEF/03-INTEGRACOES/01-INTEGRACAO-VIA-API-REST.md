@@ -1,8 +1,8 @@
-<!-- NAVIGATION:START -->
+﻿<!-- NAVIGATION:START -->
 ---
-[README Principal](../README.md) | [Índice da Documentação](../README.md) | [Anterior](00-VISAO-GERAL.md) | [Próximo](02-INTEGRACAO-VIA-API-LOCAL.md)
+[README ConnectTEF](../README.md) | [Índice da Seção](README.md) | [Anterior](00-VISAO-GERAL.md) | [Proximo](02-INTEGRACAO-VIA-API-LOCAL.md)
 ---
-> **Caminho:** [Início](../README.md) / **03 - Integrações** / 01 - Integração via API REST
+> **Caminho:** [Inicio](../README.md) / Integracoes / Integracao via API Rest
 <!-- NAVIGATION:END -->
 
 # 01 - Integração via API REST
@@ -203,12 +203,10 @@ Nos próximos capítulos serão apresentados os demais modelos de integração s
 
 <!-- NAVIGATION_FOOTER:START -->
 ---
-### Veja também
-
-- [00 - Visão Geral](00-VISAO-GERAL.md)
-- [02 - Integração via API Local](02-INTEGRACAO-VIA-API-LOCAL.md)
-- [11 - Autenticação](11-AUTENTICACAO.md)
-
+### Veja tambem
+- [README ConnectTEF](../README.md)
+- [Índice da Seção](README.md)
+- [Integracao via API Local](02-INTEGRACAO-VIA-API-LOCAL.md)
 ---
-**Navegação:** [Anterior](00-VISAO-GERAL.md) | [README](../README.md) | [Próximo](02-INTEGRACAO-VIA-API-LOCAL.md)
+**Navegacao:** [Anterior](00-VISAO-GERAL.md) | [Inicio](../README.md) | [Proximo](02-INTEGRACAO-VIA-API-LOCAL.md)
 <!-- NAVIGATION_FOOTER:END -->
