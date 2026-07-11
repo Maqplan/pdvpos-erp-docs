@@ -154,13 +154,14 @@ docs/04-CONNECTTEF/
 | Documento | Descrição |
 |-----------|-----------|
 | [README](docs/04-CONNECTTEF/README.md) | Página inicial da documentação do ConnectTEF |
-| [00 - Introdução](docs/04-CONNECTTEF/00-INTRODUCTION/README.md) | Visão geral da plataforma e fundamentos da integração |
+| [Índice da Introdução](docs/04-CONNECTTEF/00-INTRODUCTION/MODULES-INDEX.md) | Mapa de navegação da introdução e transição para os demais módulos |
+| [00 - Introdução](docs/04-CONNECTTEF/00-INTRODUCTION/README.md) | Visão geral da plataforma, conceitos iniciais e sequência recomendada de leitura |
 | [01 - Conceitos](docs/04-CONNECTTEF/01-CONCEITOS/README.md) | Conceitos essenciais: TEF, SmartPOS, adquirentes, Provider, Intent e APIs |
 | [02 - Arquitetura](docs/04-CONNECTTEF/02-ARQUITETURA/README.md) | Componentes, fluxos, segurança, autenticação, eventos e webhooks |
-| [03 - Integrações](docs/04-CONNECTTEF/03-INTEGRACOES/README.md) | Estratégias de integração via REST, API Local, Provider, Intent, INTPOS e SiTef |
+| [03 - Integrações](docs/04-CONNECTTEF/03-INTEGRACOES/README.md) | Estratégias de integração via API REST, API Local, Provider, Intent, INTPOS, SiTef e Elgin |
 | [04 - Recursos](docs/04-CONNECTTEF/04-RECURSOS/README.md) | Recursos operacionais: pagamento, cancelamento, impressão, offline, marketing e captura de dados |
 | [05 - FAQ](docs/04-CONNECTTEF/05-FAQ/README.md) | Perguntas frequentes para operação, integração e suporte |
-| [06 - Por que ConnectTEF](docs/04-CONNECTTEF/06-POR-QUE-CONNECTTEF/README.md) | Argumentos de valor, estratégia de integração única e benefícios de longo prazo |
+| [06 - Por que ConnectTEF](docs/04-CONNECTTEF/06-POR-QUE-CONNECTTEF/README.md) | Argumentos de valor, integração única e benefícios de longo prazo |
 
 
 ---
