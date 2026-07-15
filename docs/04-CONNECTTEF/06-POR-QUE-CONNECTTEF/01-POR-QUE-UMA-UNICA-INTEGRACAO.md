@@ -53,9 +53,8 @@ Toda a comunicação com fabricantes e dispositivos passa a ser responsabilidade
           ┌──────┼──────┐
           │      │      │
           ▼      ▼      ▼
-     Fabricante A
-     Fabricante B
-     Fabricante C
+          A      B      C
+            Fabricantes
 
 Cada fabricante exige uma integração própria.
 
@@ -69,9 +68,8 @@ Cada fabricante exige uma integração própria.
           ┌──────┼──────┐
           │      │      │
           ▼      ▼      ▼
-     Fabricante A
-     Fabricante B
-     Fabricante C
+          A      B      C
+            Fabricantes
 
 A aplicação integra apenas uma vez.
 ```
